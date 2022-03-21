@@ -1,4 +1,14 @@
 # Iowa Brand Icons
 See https://brand.uiowa.edu/graphic-elements for more information. 
 
-<img width="1256" alt="Screen Shot 2022-03-17 at 11 27 06 AM" src="https://user-images.githubusercontent.com/1036433/158847610-4a8c1f85-03e1-4189-9d43-1e4fad2f6bad.png">
+## One-color icon set
+
+<img width="637" alt="one" src="https://user-images.githubusercontent.com/1036433/159326433-65bc4f50-222d-4213-b79b-0e4253b9649d.png">
+
+Available in black, gold, and reversed colors.
+
+## Two-color icon set
+
+<img width="587" alt="two" src="https://user-images.githubusercontent.com/1036433/159326483-669e4386-92b7-4422-b807-d2b9077fdadf.png">
+
+Available in black with gold accents.
