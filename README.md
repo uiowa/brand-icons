@@ -3,12 +3,12 @@ See https://brand.uiowa.edu/graphic-elements for more information.
 
 ## One-color icon set
 
-<img width="637" alt="one" src="https://user-images.githubusercontent.com/1036433/159326433-65bc4f50-222d-4213-b79b-0e4253b9649d.png">
+![icons-outline_2](https://user-images.githubusercontent.com/1036433/159326925-7079bb62-8405-4eb2-8c73-b229ca3ed924.png)
 
 Available in black, gold, and reversed colors.
 
 ## Two-color icon set
 
-<img width="587" alt="two" src="https://user-images.githubusercontent.com/1036433/159326483-669e4386-92b7-4422-b807-d2b9077fdadf.png">
+![icons-outline –color_0](https://user-images.githubusercontent.com/1036433/159326947-a719cdde-55d4-4143-ad47-eca3736a1121.png)
 
 Available in black with gold accents.
