@@ -955,7 +955,11 @@
         }, {
             "name": "checkmark",
             "keywords": [
-                "yes", "positive"
+                "yes",
+                "positive",
+                "checked",
+                "check mark",
+                "todo"
             ],
             "dateAdded": ""
         }, {
@@ -978,7 +982,9 @@
             "dateAdded": ""
         }, {
             "name": "chemistry-hexagons",
-            "keywords": ["chemical"],
+            "keywords": [
+                "chemical", "chemistry", "education", "biology"
+            ],
             "dateAdded": ""
         }, {
             "name": "child",
@@ -2772,7 +2778,8 @@
                 "medical cross",
                 "checkmark",
                 "checked off",
-                "check"
+                "check",
+                "todo"
             ],
             "dateAdded": ""
         }, {
