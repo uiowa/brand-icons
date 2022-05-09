@@ -3685,7 +3685,9 @@
                 "voice",
                 "talk",
                 "podcast",
-                "interview"
+                "interview",
+                "record",
+                "recording"
             ],
             "dateAdded": ""
         }, {
@@ -3699,7 +3701,9 @@
                 "voice",
                 "talk",
                 "podcast",
-                "interview"
+                "interview",
+                "record",
+                "recording"
             ],
             "dateAdded": ""
         }, {
