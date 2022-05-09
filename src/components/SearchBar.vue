@@ -40,10 +40,13 @@ const props = defineProps({
 });
 const emit = defineEmits(["setCurrentSearchTerm"]);
 
-// If we don't have a currentSearchTerm passed to this view, instantiate a new, empty one.
-if (typeof currentSearchTerm !== "undefined") {
-  const currentSearchTerm = ref("");
-}
+// @todo This is a problem when building + deploying to a web server
+// for some reason. Comment it out for dev/testing, uncomment for deploying to prod.
+// Summary: Search input field updates properly on dev without this line.
+// Doesn't work on prod, prod complains about a missing declaration.
+// But uncommenting for prod breaks input field value updating.
+
+//const currentSearchTerm = ref(route.params.term);
 
 const exampleSearchTerms = [
   "academics",
