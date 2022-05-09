@@ -3659,7 +3659,8 @@
                 "message",
                 "alert",
                 "announcement",
-                "announce"
+                "announce",
+                "communication"
             ],
             "dateAdded": ""
         }, {
@@ -4203,7 +4204,8 @@
                 "travel",
                 "study abroad",
                 "earth",
-                "globe"
+                "globe",
+                "global"
             ],
             "dateAdded": ""
         }, {
@@ -5462,7 +5464,7 @@
                 "talking",
                 "chat",
                 "chatting",
-                "talking",
+                "talk",
                 "discussing",
                 "conversation",
                 "converse",
@@ -5484,7 +5486,7 @@
                 "talking",
                 "chat",
                 "chatting",
-                "talking",
+                "talk",
                 "discussing",
                 "conversation",
                 "converse",
@@ -5506,7 +5508,7 @@
                 "talking",
                 "chat",
                 "chatting",
-                "talking",
+                "talk",
                 "discussing",
                 "conversation",
                 "converse",
@@ -5528,7 +5530,7 @@
                 "talking",
                 "chat",
                 "chatting",
-                "talking",
+                "talk",
                 "discussing",
                 "conversation",
                 "converse",
@@ -6520,6 +6522,7 @@
             "keywords": [
                 "sound",
                 "technology",
+                "speaker",
                 "speakers",
                 "tech",
                 "its",
@@ -6530,7 +6533,8 @@
                 "music",
                 "musical",
                 "hear",
-                "heard"
+                "heard",
+                "communication"
             ],
             "dateAdded": ""
         }, {
@@ -6714,8 +6718,12 @@
                 "stream",
                 "streaming",
                 "broadcast",
+                "broadcasting",
+                "cast",
+                "casting",
                 "livestreaming",
-                "livestream"
+                "livestream",
+                "communication"
             ],
             "dateAdded": ""
         }, {

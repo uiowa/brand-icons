@@ -50,6 +50,7 @@ const exampleSearchTerms = [
   "chart",
   "checkmark",
   "city",
+  "communication",
   "dining",
   "dei",
   "dollar sign",
