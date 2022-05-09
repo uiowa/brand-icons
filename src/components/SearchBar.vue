@@ -8,7 +8,8 @@
         type="search"
         placeholder="Search over 500 icons by name or category."
         class="search__input"
-        v-model="currentSearchTerm"
+        :value="currentSearchTerm"
+        @change="setCurrentSearchTerm($event.target.value)"
         @focus="$event.target.select()"
       />
       <button class="search__button">Search</button>
@@ -39,14 +40,6 @@ const props = defineProps({
   currentSearchTerm: String,
 });
 const emit = defineEmits(["setCurrentSearchTerm"]);
-
-// @todo This is a problem when building + deploying to a web server
-// for some reason. Comment it out for dev/testing, uncomment for deploying to prod.
-// Summary: Search input field updates properly on dev without this line.
-// Doesn't work on prod, prod complains about a missing declaration.
-// But uncommenting for prod breaks input field value updating.
-
-//const currentSearchTerm = ref(route.params.term);
 
 const exampleSearchTerms = [
   "academics",
