@@ -794,6 +794,7 @@
                 "driver",
                 "public",
                 "public transit",
+                "transit",
                 "public transportation",
                 "vehicle"
             ],
@@ -807,6 +808,7 @@
                 "driver",
                 "public",
                 "public transit",
+                "transit",
                 "public transportation",
                 "vehicle"
             ],
