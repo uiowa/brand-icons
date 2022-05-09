@@ -17,8 +17,10 @@ const getIconSrc = (icon, variant, format) => {
         if (format) {
             if (format == "png") {
                 currentIcon.value = "/brand-icons/" + icon + "-BLACK." + format;
+            } else {
+                currentIcon.value = "/brand-icons/" + icon + "." + format;
             }
-            currentIcon.value = "/brand-icons/" + icon + "." + format;
+
         } else {
             currentIcon.value = "/brand-icons/" + icon + ".svg";
         }
