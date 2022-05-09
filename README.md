@@ -1,3 +1,39 @@
+# Brand Icon Browser
+
+Demo: https://sandbox.imu.uiowa.edu/
+
+## Stuff that's not working quite yet:
+- "Recently added" category not automated
+    - `dateAdded` in `icons.json` isn't being used or isn't filled out at all
+- Not very mobile friendly yet
+- Implement UIDS 4 components properly
+- Refine tags a bit
+- Create build process for adding new icons
+- Bring back live search-as-you-type (abandoned for reasons)
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
+
 # Iowa Brand Icons
 See https://brand.uiowa.edu/graphic-elements for more information. 
 
