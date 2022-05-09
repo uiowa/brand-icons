@@ -39,6 +39,8 @@ const route = useRoute();
 const props = defineProps({
   currentSearchTerm: String,
 });
+
+const currentSearchTerm = ref("");
 const emit = defineEmits(["setCurrentSearchTerm"]);
 
 const exampleSearchTerms = [
