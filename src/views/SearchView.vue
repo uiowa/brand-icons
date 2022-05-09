@@ -13,14 +13,13 @@ import iconsData from "/data/icons.json";
 const search = ref("");
 const route = useRoute();
 const router = useRouter();
-const currentSearchTerm = ref(null);
+const currentSearchTerm = ref("");
 
 const emit = defineEmits(["openModal", "setCurrentSearchTerm"]);
 const props = defineProps({
   currentVariant: String,
 });
 
-currentSearchTerm.value = route.params.term;
 setCurrentSearchTerm(route.params.term);
 
 // Build the filtered icon list based on search term:

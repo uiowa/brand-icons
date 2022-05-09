@@ -33,15 +33,17 @@
 import { ref } from "vue";
 import { useRoute, useRouter } from "vue-router";
 import UidsButton from "@/components/UidsButton.vue";
-
 const router = useRouter();
 const route = useRoute();
 const props = defineProps({
   currentSearchTerm: String,
 });
-
-const currentSearchTerm = ref("");
 const emit = defineEmits(["setCurrentSearchTerm"]);
+
+// If we don't have a currentSearchTerm passed to this view, instantiate a new, empty one.
+if (typeof currentSearchTerm !== "undefined") {
+  const currentSearchTerm = ref("");
+}
 
 const exampleSearchTerms = [
   "academics",
