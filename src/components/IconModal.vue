@@ -179,6 +179,7 @@ function closeModal(currentCategory, currentSearchTerm) {
     width: 100%;
     height: 100%;
     display: grid;
+    backdrop-filter: blur(2px);
   }
 
   &__heading {
