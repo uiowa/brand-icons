@@ -52,7 +52,9 @@
                 "warning",
                 "danger",
                 "climate",
-                "air quality"
+                "air quality",
+                "exclamation mark",
+                "exclamation point"
             ],
             "dateAdded": ""
         }, {
@@ -6593,6 +6595,7 @@
                 "danger",
                 "alert",
                 "exclamation mark",
+                "exclamation point",
                 "triangle",
                 "sign",
                 "signage",
