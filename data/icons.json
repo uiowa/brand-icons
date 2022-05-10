@@ -214,6 +214,8 @@
                 "academic",
                 "academics",
                 "books",
+                "book",
+                "research",
                 "bag",
                 "study",
                 "learn",
@@ -462,7 +464,8 @@
                 "look",
                 "looking",
                 "find",
-                "finding"
+                "finding",
+                "search"
             ],
             "dateAdded": ""
         }, {
@@ -624,7 +627,8 @@
                 "accessible",
                 "read",
                 "reading",
-                "book"
+                "book",
+                "research"
             ],
             "dateAdded": ""
         }, {
@@ -1485,7 +1489,7 @@
         }, {
             "name": "Digital-Textbook",
             "keywords": [
-                "books", "book"
+                "books", "book", "research"
             ],
             "dateAdded": ""
         }, {
@@ -2259,7 +2263,8 @@
                 "reading",
                 "read",
                 "books",
-                "book"
+                "book",
+                "research"
             ],
             "dateAdded": ""
         }, {
@@ -3682,7 +3687,11 @@
                 "student",
                 "education",
                 "academic",
-                "academics"
+                "academics",
+                "iowa city",
+                "city",
+                "buildings",
+                "building"
             ],
             "dateAdded": ""
         }, {
@@ -4941,6 +4950,7 @@
             "keywords": [
                 "person",
                 "book",
+                "research",
                 "read",
                 "open book",
                 "open",
