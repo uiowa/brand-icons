@@ -136,6 +136,7 @@
             "keywords": [
                 "campus",
                 "building",
+                "buildings",
                 "architecture",
                 "iowa city",
                 "city"
@@ -606,7 +607,7 @@
         }, {
             "name": "boyd-law-building",
             "keywords": [
-                "campus", "buildings"
+                "campus", "buildings", "building"
             ],
             "dateAdded": ""
         }, {
@@ -1050,7 +1051,8 @@
                 "architecture",
                 "city",
                 "campus",
-                "iowa city"
+                "iowa city",
+                "building"
             ],
             "dateAdded": ""
         }, {
@@ -1072,6 +1074,7 @@
         }, {
             "name": "cityscape-tree",
             "keywords": [
+                "building",
                 "buildings",
                 "campus",
                 "city",
@@ -1129,6 +1132,7 @@
                 "cross",
                 "medical cross",
                 "building",
+                "buildings",
                 "uihc",
                 "city",
                 "iowa city",
@@ -1189,7 +1193,7 @@
         }, {
             "name": "column",
             "keywords": [
-                "building", "architecture", "ancient"
+                "building", "buildings", "architecture", "ancient"
             ],
             "dateAdded": ""
         }, {
@@ -2288,6 +2292,7 @@
                 "learning",
                 "school",
                 "building",
+                "buildings",
                 "campus",
                 "city",
                 "iowa city",
@@ -3181,6 +3186,7 @@
                 "campus",
                 "football",
                 "building",
+                "buildings",
                 "architecture",
                 "recreation",
                 "sport",
@@ -3553,6 +3559,7 @@
             "keywords": [
                 "campus",
                 "building",
+                "buildings",
                 "iowa city",
                 "architecture",
                 "books",
@@ -3571,6 +3578,7 @@
             "name": "manufacture-building",
             "keywords": [
                 "building",
+                "buildings",
                 "campus",
                 "architecture",
                 "manufacturer",
@@ -4469,6 +4477,7 @@
                 "healthcare",
                 "uihc",
                 "building",
+                "buildings",
                 "college of pharmacy",
                 "campus",
                 "architecture",
@@ -5014,6 +5023,7 @@
             "name": "residence-hall",
             "keywords": [
                 "building",
+                "buildings",
                 "campus",
                 "iowa city",
                 "city",
@@ -6405,6 +6415,7 @@
                 "capitol",
                 "city",
                 "building",
+                "buildings",
                 "national",
                 "architecture"
             ],
@@ -6649,6 +6660,7 @@
             "keywords": [
                 "architecture",
                 "building",
+                "buildings",
                 "city",
                 "iowa city",
                 "campus",
