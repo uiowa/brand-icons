@@ -90,7 +90,7 @@ function setCurrentSearchTerm(term) {
   grid-column: 1 / 13;
   align-self: center;
   @media only screen and (min-width: 1024px) {
-    grid-column: 3 / 12;
+    grid-column: 3 / 11;
   }
 
   &__form {
