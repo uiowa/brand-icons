@@ -89,8 +89,8 @@ function setCurrentSearchTerm(term) {
 .search {
   grid-column: 1 / 13;
   align-self: center;
-  @media only screen and (min-width: 760px) {
-    grid-column: 2 / 12;
+  @media only screen and (min-width: 1024px) {
+    grid-column: 3 / 12;
   }
 
   &__form {
