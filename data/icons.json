@@ -46,7 +46,13 @@
         {
             "name": "air-quality",
             "keywords": [
-                "air", "quality", "comfortable"
+                "air",
+                "quality",
+                "comfortable",
+                "warning",
+                "danger",
+                "climate",
+                "air quality"
             ],
             "dateAdded": ""
         }, {
