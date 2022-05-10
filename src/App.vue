@@ -137,19 +137,18 @@ import IconModal from "@/components/IconModal.vue";
 import CategoryList from "@/components/CategoryList.vue";
 import iconsData from "/data/icons.json";
 
-const currentVariant = ref(null);
+//Initiate app with two color variant for pretty reasons:
+const currentVariant = ref("two-color");
+
 const router = useRouter();
 const route = useRoute();
 const showModal = ref(false);
 const iconDetails = ref("");
 const currentSearchTerm = ref("");
-//Initiate app with two color variant for pretty reasons:
-setVariant("two-color");
 
 //If we have an icon in the current URL params, show the icon modal:
 if (window.location.hash) {
   let currentIconId = window.location.hash.replace("#", "");
-  //let currentIcon = iconsData.find((element) => element == currentIconId);
   let currentIcon = iconsData.icons.find(function (icon) {
     return icon.name == currentIconId;
   });
