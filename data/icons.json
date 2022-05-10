@@ -1757,6 +1757,7 @@
                 "continents",
                 "ocean",
                 "planet",
+                "astronomy",
                 "climate",
                 "global",
                 "world"
@@ -2275,7 +2276,9 @@
                 "classroom",
                 "teaching",
                 "world",
-                "culture"
+                "culture",
+                "planet",
+                "astronomy"
             ],
             "dateAdded": ""
         }, {
@@ -4593,7 +4596,8 @@
                 "outer space",
                 "ring",
                 "saturn",
-                "planet"
+                "planet",
+                "astronomy"
             ],
             "dateAdded": ""
         }, {
