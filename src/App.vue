@@ -10,7 +10,7 @@
       :currentSearchTerm="currentSearchTerm"
     />
   </div>
-  <VariantFilter
+  <Settings
     @setVariantOneColor="setVariant('one-color')"
     @setVariantTwoColor="setVariant('two-color')"
     :currentVariant="currentVariant"
@@ -83,7 +83,7 @@ a {
   font-size: 4rem;
   grid-column: 1 / 13;
   display: grid;
-  min-height: 200px;
+  min-height: 150px;
 
   &__title {
     font-weight: 300;
@@ -131,7 +131,7 @@ import { useRoute, useRouter } from "vue-router";
 import IowaBar from "@/components/UidsIowaBar.vue";
 import UidsFooter from "@/components/UidsFooter.vue";
 import SearchBar from "@/components/SearchBar.vue";
-import VariantFilter from "@/components/VariantFilter.vue";
+import Settings from "@/components/Settings.vue";
 import IconList from "@/components/IconList.vue";
 import IconModal from "@/components/IconModal.vue";
 import CategoryList from "@/components/CategoryList.vue";

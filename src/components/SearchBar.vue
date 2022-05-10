@@ -44,18 +44,15 @@ const emit = defineEmits(["setCurrentSearchTerm"]);
 const exampleSearchTerms = [
   "academics",
   "art",
-  "architecture",
   "accessibility",
   "buildings",
   "chart",
   "checkmark",
-  "city",
   "communication",
   "dining",
   "dei",
   "dollar sign",
   "dentistry",
-  "drink",
   "face",
   "finance",
   "flower",
@@ -63,14 +60,13 @@ const exampleSearchTerms = [
   "health",
   "heart",
   "iowa",
-  "its",
   "medical cross",
   "music",
   "outdoors",
   "person",
   "star",
   "sports",
-  "technology",
+  "tech",
   "transportation",
 ];
 
@@ -91,10 +87,10 @@ function setCurrentSearchTerm(term) {
 
 <style lang="scss">
 .search {
-  grid-column: 2 / 12;
+  grid-column: 1 / 13;
   align-self: center;
   @media only screen and (min-width: 760px) {
-    grid-column: 3 / 11;
+    grid-column: 2 / 12;
   }
 
   &__form {
