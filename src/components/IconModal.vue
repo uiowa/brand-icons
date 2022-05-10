@@ -234,7 +234,7 @@ function closeModal(currentCategory, currentSearchTerm) {
 
 .icon-preview {
   padding: 10%;
-  border: 1px solid #eee;
+  border: 2px solid #eee;
   border-radius: 4px;
   background: white;
   cursor: pointer;
@@ -245,9 +245,12 @@ function closeModal(currentCategory, currentSearchTerm) {
   }
 
   &--small {
-    border: none;
+    border: 2px solid #eee;
   }
-
+  &.active {
+    background: white;
+    border-color: #ffcd00;
+  }
   &__download {
     margin-top: 20px;
     text-align: center;
