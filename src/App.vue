@@ -2,7 +2,14 @@
   <IowaBar />
   <div class="wrapper">
     <header class="header">
-      <h1 class="header__title">Brand Icon Browser</h1>
+      <h1 class="header__title">
+        <router-link
+          :to="{
+            name: 'Home',
+          }"
+          >Brand Icon Browser</router-link
+        >
+      </h1>
     </header>
     <SearchBar
       id="search"
@@ -91,6 +98,9 @@ a {
     margin: 0;
     align-self: center;
     line-height: 1;
+    a {
+      text-decoration: none;
+    }
   }
 }
 
