@@ -237,7 +237,6 @@ function closeModal(currentCategory, currentSearchTerm) {
   border: 2px solid #eee;
   border-radius: 4px;
   background: white;
-  cursor: pointer;
 
   &__img {
     display: block;
@@ -246,6 +245,7 @@ function closeModal(currentCategory, currentSearchTerm) {
 
   &--small {
     border: 2px solid #eee;
+    cursor: pointer;
   }
   &.active {
     background: white;
