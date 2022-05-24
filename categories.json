@@ -6,11 +6,10 @@
             "keywords": "recently-added",
             "icon": "clock",
             "icons": [
-                "a-plus-paper",
-                "american-flag",
-                "asian-arch",
-                "atom",
-                "award-certificate"
+                "detergent",
+                "lab-coat",
+                "laundry-basket",
+                "washing-machine"
             ]
         },
         {
@@ -209,6 +208,7 @@
                 "chair",
                 "child",
                 "clock",
+                "detergent",
                 "donate",
                 "door-open",
                 "doors-open-two",
@@ -229,6 +229,7 @@
                 "key",
                 "kitchen",
                 "living-room",
+                "laundry-basket",
                 "lock",
                 "lotus",
                 "office chair",
@@ -248,7 +249,8 @@
                 "toothbrush-toothpaste",
                 "trans-inclusive",
                 "umbrella",
-                "wallet"
+                "wallet",
+                "washing-machine"
             ]
         }, {
             "label": "Nature and Recreation",
@@ -385,6 +387,7 @@
                 "internal-medicine",
                 "kidneys",
                 "knee",
+                "lab-coat",
                 "leg-cover",
                 "liver",
                 "lost-found",
