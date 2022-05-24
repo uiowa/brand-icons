@@ -1,0 +1,23 @@
+{
+    "name": "brand-icons",
+    "version": "1.0.0",
+    "description": "The University of Iowa brand icons",
+    "keywords":
+    [
+        "uiowa",
+        "design"
+    ],
+    "homepage": "https://brand.uiowa.edu",
+    "scripts":
+    {
+
+    },
+    "dependencies":
+    {
+
+    },
+    "devDependencies":
+    {
+
+    }
+}
