@@ -2,22 +2,17 @@
     "name": "uiowa-brand-icons",
     "version": "1.0.0",
     "description": "The University of Iowa brand icons",
-    "keywords":
-    [
-        "uiowa",
-        "design"
+    "keywords": [
+        "uiowa", "design"
     ],
     "homepage": "https://brand.uiowa.edu",
-    "scripts":
-    {
-
+    "scripts": {
+        "build": "node imageBuild.js"
     },
-    "dependencies":
-    {
-
+    "dependencies": {
+        "sharp": "^0.30.5",
+        "fs": "0.0.1-security",
+        "jsdom": "^20.0.0"
     },
-    "devDependencies":
-    {
-
-    }
+    "devDependencies": {}
 }
