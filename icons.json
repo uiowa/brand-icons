@@ -7977,7 +7977,8 @@
             [
                 "renewable",
                 "wind",
-                "power"
+                "power",
+                "windmill"
             ],
             "dateAdded": ""
         },
