@@ -4184,7 +4184,8 @@
                 "post",
                 "email",
                 "message",
-                "unread"
+                "unread",
+                "envelope"
             ],
             "dateAdded": ""
         },
@@ -4199,7 +4200,8 @@
                 "postage",
                 "post",
                 "email",
-                "message"
+                "message",
+                "envelope"
             ],
             "dateAdded": ""
         },
@@ -4215,7 +4217,8 @@
                 "post",
                 "email",
                 "message",
-                "read"
+                "read",
+                "envelope"
             ],
             "dateAdded": ""
         },
