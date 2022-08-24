@@ -1,14 +1,37 @@
-# Iowa Brand Icons
-See https://brand.uiowa.edu/graphic-elements for more information. 
+# Adding an icon to the Brand Icon Browser
 
-## One-color icon set
+1. Clone this repository
+2. In this repository's `icons/` folder, place the following variants and formats, with the following naming convention:
+- `(icon-name)-two-color.svg`
+- `(icon-name).svg` (black variant)
+3. Add the icon entry to `icons.json` (can be at the bottom, doesn't have to be added in alphabetically, the Brand Icon Browser will sort these automatically) along with keywords (see Keywords Guide for more information) and the date added.
 
-![icons-outline_2](https://user-images.githubusercontent.com/1036433/159326925-7079bb62-8405-4eb2-8c73-b229ca3ed924.png)
+Example: 
 
-Available in black, gold, and reversed colors.
+```json
+[...]
+{
+    "name": "laundry-basket",
+    "keywords":
+    [
+        "wash",
+        "clothes",
+        "clothing",
+        "clean",
+        "hygiene",
+        "cleaner",
+        "cleaning",
+        "washer",
+        "washing machine",
+        "cleanse",
+        "bottle",
+        "dorm",
+        "living",
+        "home"
+    ],
+    "dateAdded": "2022-05-24"
+},
+[...]
+```
+4. Add 
 
-## Two-color icon set
-
-![icons-outline –color_0](https://user-images.githubusercontent.com/1036433/159326947-a719cdde-55d4-4143-ad47-eca3736a1121.png)
-
-Available in black with gold accents.
