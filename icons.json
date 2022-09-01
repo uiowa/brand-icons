@@ -1035,6 +1035,30 @@
             ],
             "dateAdded": ""
         }, {
+            "name": "childrens-hospital",
+            "keywords": [
+                "health",
+                "medical",
+                "healthcare",
+                "health care",
+                "patient",
+                "patient care",
+                "building",
+                "buildings",
+                "medicine",
+                "pediatrician",
+                "pediatrics",
+                "hospital",
+                "children",
+                "architecture",
+                "wave",
+                "the wave",
+                "hawkeye wave",
+                "the hawkeye wave",
+                "iowa city"
+            ],
+            "dateAdded": ""
+        }, {
             "name": "chromosome",
             "keywords": [
                 "health",
@@ -1186,6 +1210,27 @@
             "name": "cloud",
             "keywords": [
                 "weather", "rain", "gloomy", "cloudy"
+            ],
+            "dateAdded": ""
+        }, {
+            "name": "cochlear-implant",
+            "keywords": [
+                "access",
+                "accessible",
+                "accessibility",
+                "assistive",
+                "assistive device",
+                "dei",
+                "disability",
+                "diversity",
+                "sound",
+                "deaf",
+                "hear",
+                "hearing",
+                "technology",
+                "medical equipment",
+                "ear",
+                "speech"
             ],
             "dateAdded": ""
         }, {
@@ -2722,6 +2767,27 @@
                 "accessibility",
                 "access",
                 "accessible"
+            ],
+            "dateAdded": ""
+        }, {
+            "name": "hearing-aid",
+            "keywords": [
+                "access",
+                "accessible",
+                "accessibility",
+                "assistive",
+                "assistive device",
+                "dei",
+                "disability",
+                "diversity",
+                "sound",
+                "deaf",
+                "hear",
+                "hearing",
+                "technology",
+                "medical equipment",
+                "ear",
+                "speech"
             ],
             "dateAdded": ""
         }, {
@@ -6988,7 +7054,9 @@
                 "accessible",
                 "ramp",
                 "medical equipment",
-                "wheels"
+                "wheels",
+                "assistive device",
+                "assistive"
             ],
             "dateAdded": ""
         }, {
