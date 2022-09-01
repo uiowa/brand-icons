@@ -5,7 +5,15 @@
             "slug": "recently-added",
             "keywords": "recently-added",
             "icon": "clock",
-            "icons": ["detergent", "lab-coat", "laundry-basket", "washing-machine"]
+            "icons": [
+                "childrens-hospital",
+                "hearing-aid",
+                "cochlear-implant",
+                "detergent",
+                "lab-coat",
+                "laundry-basket",
+                "washing-machine"
+            ]
         },
         {
             "label": "Academics and Research",
@@ -137,6 +145,7 @@
                 "cake-candles",
                 "candle",
                 "carrot",
+                "childrens-hospital",
                 "clapping",
                 "coffee-tea",
                 "cookies",
@@ -336,6 +345,7 @@
                 "brain",
                 "cadeceus",
                 "calendar-clock",
+                "cochlear-implant",
                 "concussion",
                 "cough",
                 "cpr-people",
@@ -367,6 +377,7 @@
                 "head",
                 "health-insurance",
                 "hearing-able",
+                "hearing-aid",
                 "hearing-impaired",
                 "heart",
                 "heartbeat",
