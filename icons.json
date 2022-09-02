@@ -665,7 +665,12 @@
         }, {
             "name": "bridge",
             "keywords": [
-                "campus", "buildings", "river", "across"
+                "campus",
+                "buildings",
+                "river",
+                "across",
+                "engineer",
+                "engineering"
             ],
             "dateAdded": ""
         }, {
@@ -1122,7 +1127,9 @@
                 "processor",
                 "motherboard",
                 "computer",
-                "device"
+                "device",
+                "engineer",
+                "engineering"
             ],
             "dateAdded": ""
         }, {
@@ -1202,7 +1209,9 @@
                 "legal",
                 "legal pad",
                 "pad",
-                "pencil"
+                "pencil",
+                "engineer",
+                "engineering"
             ],
             "dateAdded": ""
         }, {
@@ -1299,7 +1308,9 @@
                 "coding",
                 "tag",
                 "web",
-                "website"
+                "website",
+                "engineer",
+                "engineering"
 
             ],
             "dateAdded": ""
@@ -1313,7 +1324,9 @@
                 "pc",
                 "mac",
                 "code",
-                "its"
+                "its",
+                "engineer",
+                "engineering"
             ],
             "dateAdded": ""
         }, {
@@ -1354,13 +1367,21 @@
         }, {
             "name": "construction-helmet-front",
             "keywords": [
-                "work", "building", "build"
+                "work",
+                "building",
+                "build",
+                "engineer",
+                "engineering"
             ],
             "dateAdded": ""
         }, {
             "name": "construction-helmet-side",
             "keywords": [
-                "work", "building", "build"
+                "work",
+                "building",
+                "build",
+                "engineer",
+                "engineering"
             ],
             "dateAdded": ""
         }, {
@@ -1886,7 +1907,9 @@
                 "design",
                 "workspace",
                 "table",
-                "desk"
+                "desk",
+                "engineer",
+                "engineering"
             ],
             "dateAdded": ""
         }, {
@@ -2358,7 +2381,9 @@
                 "automobile",
                 "dash",
                 "speedometer",
-                "fast"
+                "fast",
+                "engineer",
+                "engineering"
             ],
             "dateAdded": ""
         }, {
@@ -2579,6 +2604,8 @@
             "name": "hammer",
             "keywords": [
                 "tool",
+                "engineer",
+                "engineering",
                 "architecture",
                 "build",
                 "tools",
@@ -2590,6 +2617,8 @@
             "name": "hammer-wrench",
             "keywords": [
                 "tool",
+                "engineer",
+                "engineering",
                 "architecture",
                 "build",
                 "tools",
@@ -2678,7 +2707,9 @@
                 "test",
                 "grade",
                 "author",
-                "writer"
+                "writer",
+                "engineer",
+                "engineering"
             ],
             "dateAdded": ""
         }, {
@@ -3546,7 +3577,9 @@
                 "charge",
                 "charging",
                 "power",
-                "sustainability"
+                "sustainability",
+                "engineer",
+                "engineering"
             ],
             "dateAdded": ""
         }, {
@@ -3674,7 +3707,9 @@
                 "android",
                 "cpu",
                 "bot",
-                "tech"
+                "tech",
+                "engineer",
+                "engineering"
             ],
             "dateAdded": ""
         }, {
@@ -3864,7 +3899,9 @@
                 "machinery",
                 "machine",
                 "config",
-                "configuration"
+                "configuration",
+                "engineering",
+                "engineer"
             ],
             "dateAdded": ""
         }, {
@@ -4149,7 +4186,9 @@
                 "lan",
                 "computers",
                 "nodes",
-                "node"
+                "node",
+                "engineer",
+                "engineering"
             ],
             "dateAdded": ""
         }, {
@@ -4913,7 +4952,9 @@
                 "bright",
                 "sustainability",
                 "electricity",
-                "electric"
+                "electric",
+                "engineer",
+                "engineering"
             ],
             "dateAdded": ""
         }, {
@@ -5252,7 +5293,9 @@
                 "astronomy",
                 "solar",
                 "dish",
-                "satellite dish"
+                "satellite dish",
+                "engineer",
+                "engineering"
             ],
             "dateAdded": ""
         }, {
@@ -5269,7 +5312,9 @@
                 "turbine",
                 "electricity",
                 "electric",
-                "sustainability"
+                "sustainability",
+                "engineer",
+                "engineering"
             ],
             "dateAdded": ""
         }, {
@@ -5290,7 +5335,9 @@
                 "lease",
                 "apartment",
                 "rent",
-                "rental"
+                "rental",
+                "engineer",
+                "engineering"
             ],
             "dateAdded": ""
         }, {
@@ -5358,7 +5405,9 @@
                 "artificial intelligence",
                 "smiling",
                 "antenna",
-                "cybernetic organism"
+                "cybernetic organism",
+                "engineer",
+                "engineering"
             ],
             "dateAdded": ""
         }, {
@@ -5374,7 +5423,9 @@
                 "orbit",
                 "launched",
                 "flying",
-                "vehicle"
+                "vehicle",
+                "engineer",
+                "engineering"
             ],
             "dateAdded": ""
         }, {
@@ -5384,7 +5435,11 @@
                 "measurement",
                 "stick",
                 "yardstick",
-                "yard"
+                "yard",
+                "tool",
+                "tools",
+                "engineer",
+                "engineering"
             ],
             "dateAdded": ""
         }, {
@@ -5500,6 +5555,8 @@
                 "art",
                 "artist",
                 "tool",
+                "engineer",
+                "engineering",
                 "tools",
                 "paper",
                 "cut",
@@ -5744,7 +5801,9 @@
                 "electric",
                 "light",
                 "lighting",
-                "sustainability"
+                "sustainability",
+                "engineer",
+                "engineering"
             ],
             "dateAdded": ""
         }, {
@@ -6164,6 +6223,8 @@
             "name": "tape-measure",
             "keywords": [
                 "tool",
+                "engineer",
+                "engineering",
                 "tools",
                 "equipment",
                 "measure",
@@ -6239,7 +6300,9 @@
                 "chemical",
                 "warm",
                 "summer",
-                "heat"
+                "heat",
+                "engineer",
+                "engineering"
             ],
             "dateAdded": ""
         }, {
@@ -6410,13 +6473,15 @@
             "name": "toolbox",
             "keywords": [
                 "tools",
-                " tool",
+                "tool",
                 "fix",
                 "carpentry",
                 "equipment",
                 "latch",
                 "fishing",
-                "tackle box"
+                "tackle box",
+                "engineer",
+                "engineering"
             ],
             "dateAdded": ""
         }, {
@@ -6706,7 +6771,11 @@
         }, {
             "name": "user-profile",
             "keywords": [
-                "settings", "gear", "person"
+                "settings",
+                "gear",
+                "person",
+                "engineer",
+                "engineering"
             ],
             "dateAdded": ""
         }, {
@@ -7090,7 +7159,9 @@
                 "windmill",
                 "sustainability",
                 "electricity",
-                "electric"
+                "electric",
+                "engineer",
+                "engineering"
             ],
             "dateAdded": ""
         }, {
