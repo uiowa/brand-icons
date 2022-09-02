@@ -56,7 +56,8 @@
                 "air quality",
                 "exclamation mark",
                 "exclamation point",
-                "exclamation"
+                "exclamation",
+                "punctuation"
             ],
             "dateAdded": ""
         }, {
@@ -152,7 +153,8 @@
                 "architecture",
                 "buildings",
                 "culture",
-                "city"
+                "city",
+                "history"
             ],
             "dateAdded": ""
         }, {
@@ -332,7 +334,8 @@
                 "financial",
                 "buildings",
                 "currency",
-                "architecture"
+                "architecture",
+                "history"
             ],
             "dateAdded": ""
         }, {
@@ -1217,7 +1220,7 @@
         }, {
             "name": "clock",
             "keywords": [
-                "time", "timer", "hours"
+                "time", "timer", "hours", "history"
             ],
             "dateAdded": ""
         }, {
@@ -2021,7 +2024,8 @@
                 "group",
                 "children",
                 "parents",
-                "child"
+                "child",
+                "parent"
             ],
             "dateAdded": ""
         }, {
@@ -2421,7 +2425,8 @@
                 "world",
                 "culture",
                 "planet",
-                "astronomy"
+                "astronomy",
+                "history"
             ],
             "dateAdded": ""
         }, {
@@ -3025,7 +3030,10 @@
                 "cross",
                 "medical cross",
                 "dollar sign",
-                "dollar"
+                "dollar",
+                "punctuation",
+                "question",
+                "question mark"
             ],
             "dateAdded": ""
         }, {
@@ -3040,7 +3048,8 @@
                 "sand",
                 "loading",
                 "technology",
-                "its"
+                "its",
+                "history"
             ],
             "dateAdded": ""
         }, {
@@ -3946,7 +3955,8 @@
                 "iowa city",
                 "city",
                 "buildings",
-                "building"
+                "building",
+                "college of medicine"
             ],
             "dateAdded": ""
         }, {
@@ -4107,7 +4117,8 @@
                 "height",
                 "ridge",
                 "summit",
-                "nature"
+                "nature",
+                "history"
             ],
             "dateAdded": ""
         }, {
@@ -4284,7 +4295,8 @@
                 "learning",
                 "author",
                 "writer",
-                "story"
+                "story",
+                "history"
             ],
             "dateAdded": ""
         }, {
@@ -4352,7 +4364,8 @@
                 "work",
                 "working",
                 "job",
-                "jobs"
+                "jobs",
+                "peer"
             ],
             "dateAdded": ""
         }, {
@@ -4595,7 +4608,8 @@
                 "audience",
                 "leader",
                 "class",
-                "classroom"
+                "classroom",
+                "peer"
             ],
             "dateAdded": ""
         }, {
@@ -4613,7 +4627,8 @@
                 "teammates",
                 "teammate",
                 "organization",
-                "org"
+                "org",
+                "peer"
             ],
             "dateAdded": ""
         }, {
@@ -4632,7 +4647,8 @@
                 "teammates",
                 "teammate",
                 "organization",
-                "org"
+                "org",
+                "peer"
             ],
             "dateAdded": ""
         }, {
@@ -4660,7 +4676,7 @@
         }, {
             "name": "person-help",
             "keywords": [
-                "person", "question", "question mark"
+                "person", "question", "question mark", "punctuation"
             ],
             "dateAdded": ""
         }, {
@@ -5201,7 +5217,8 @@
                 "write",
                 "written",
                 "author",
-                "writer"
+                "writer",
+                "history"
             ],
             "dateAdded": ""
         }, {
@@ -5603,7 +5620,8 @@
                 "pirate",
                 "sailing",
                 "vehicle",
-                "transportation"
+                "transportation",
+                "history"
             ],
             "dateAdded": ""
         }, {
@@ -6160,7 +6178,8 @@
                 "person",
                 "help",
                 "pair",
-                "two"
+                "two",
+                "peer"
             ],
             "dateAdded": ""
         }, {
@@ -6185,7 +6204,9 @@
                 "video game",
                 "fantasy",
                 "dragon",
-                "protect"
+                "protect",
+                "history",
+                "guard"
             ],
             "dateAdded": ""
         }, {
@@ -6985,6 +7006,7 @@
                 "exclamation mark",
                 "exclamation point",
                 "exclamation",
+                "punctuation",
                 "triangle",
                 "sign",
                 "signage",
@@ -7203,7 +7225,8 @@
                 "ceremony",
                 "grad",
                 "alumni",
-                "alum"
+                "alum",
+                "history"
             ],
             "dateAdded": ""
         }, {
