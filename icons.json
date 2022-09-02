@@ -4365,7 +4365,8 @@
                 "working",
                 "job",
                 "jobs",
-                "peer"
+                "peer",
+                "peers"
             ],
             "dateAdded": ""
         }, {
@@ -4609,7 +4610,8 @@
                 "leader",
                 "class",
                 "classroom",
-                "peer"
+                "peer",
+                "peers"
             ],
             "dateAdded": ""
         }, {
@@ -4628,7 +4630,8 @@
                 "teammate",
                 "organization",
                 "org",
-                "peer"
+                "peer",
+                "peers"
             ],
             "dateAdded": ""
         }, {
@@ -4648,7 +4651,8 @@
                 "teammate",
                 "organization",
                 "org",
-                "peer"
+                "peer",
+                "peers"
             ],
             "dateAdded": ""
         }, {
@@ -6179,7 +6183,8 @@
                 "help",
                 "pair",
                 "two",
-                "peer"
+                "peer",
+                "peers"
             ],
             "dateAdded": ""
         }, {
