@@ -57,7 +57,9 @@
                 "exclamation mark",
                 "exclamation point",
                 "exclamation",
-                "punctuation"
+                "punctuation",
+                "crisis",
+                "risk"
             ],
             "dateAdded": ""
         }, {
@@ -332,6 +334,7 @@
                 "money",
                 "finance",
                 "financial",
+                "market",
                 "buildings",
                 "currency",
                 "architecture",
@@ -348,6 +351,7 @@
                 "statistics",
                 "finance",
                 "financial",
+                "market",
                 "presentation",
                 "information"
             ],
@@ -360,7 +364,8 @@
                 "architecture",
                 "livestock",
                 "hay",
-                "farming"
+                "farming",
+                "agriculture"
             ],
             "dateAdded": ""
         }, {
@@ -459,6 +464,7 @@
                 "money",
                 "finance",
                 "financial",
+                "market",
                 "document",
                 "paper",
                 "dollar",
@@ -494,7 +500,8 @@
                 "hazard",
                 "medical",
                 "treatment",
-                "danger"
+                "danger",
+                "risk"
             ],
             "dateAdded": ""
         }, {
@@ -575,7 +582,8 @@
                 "business",
                 "person",
                 "meeting",
-                "meet"
+                "meet",
+                "improvement"
             ],
             "dateAdded": ""
         }, {
@@ -1002,11 +1010,15 @@
                 "checked",
                 "checkbox",
                 "radio",
-                "checkmark"
+                "checkmark",
+                "approve",
+                "approved"
             ],
             "dateAdded": ""
         }, {
             "name": "checkmark",
+            "approve",
+            "approved",
             "keywords": [
                 "yes",
                 "positive",
@@ -1254,7 +1266,8 @@
                 "technology",
                 "medical equipment",
                 "ear",
-                "speech"
+                "speech",
+                "speak"
             ],
             "dateAdded": ""
         }, {
@@ -1275,13 +1288,15 @@
                 "business",
                 "finance",
                 "financial",
+                "market",
                 "currency",
                 "money bag",
                 "stack",
                 "dollar",
                 "dollar sign",
                 "pay",
-                "payment"
+                "payment",
+                "change"
             ],
             "dateAdded": ""
         }, {
@@ -1310,6 +1325,7 @@
                 "technology",
                 "its",
                 "code",
+                "develop",
                 "html",
                 "pgrogramming",
                 "window",
@@ -1334,6 +1350,7 @@
                 "pc",
                 "mac",
                 "code",
+                "develop",
                 "its",
                 "engineer",
                 "engineering"
@@ -1416,6 +1433,7 @@
                 "crop",
                 "farm",
                 "farming",
+                "agriculture",
                 "iowa",
                 "harvest",
                 "plant"
@@ -1429,6 +1447,7 @@
                 "crop",
                 "farm",
                 "farming",
+                "agriculture",
                 "harvest",
                 "iowa"
             ],
@@ -1447,6 +1466,7 @@
                 "dollar",
                 "finance",
                 "financial",
+                "market",
                 "pay",
                 "payment"
             ],
@@ -1465,8 +1485,10 @@
                 "dollar",
                 "finance",
                 "financial",
+                "market",
                 "pay",
-                "payment"
+                "payment",
+                "improvement"
             ],
             "dateAdded": ""
         }, {
@@ -1528,6 +1550,7 @@
                 "loan",
                 "finance",
                 "financial",
+                "market",
                 "pay",
                 "payment"
             ],
@@ -1601,7 +1624,8 @@
                 "arrow",
                 "arrows",
                 "loop",
-                "process"
+                "process",
+                "change"
             ],
             "dateAdded": ""
         }, {
@@ -1626,7 +1650,11 @@
         }, {
             "name": "digital-textbook",
             "keywords": [
-                "books", "book", "research"
+                "books",
+                "book",
+                "research",
+                "library",
+                "librarian"
             ],
             "dateAdded": ""
         }, {
@@ -1810,6 +1838,7 @@
                 "business",
                 "finance",
                 "financial",
+                "market",
                 "dollar sign",
                 "dollar"
             ],
@@ -1823,6 +1852,7 @@
                 "business",
                 "finance",
                 "financial",
+                "market",
                 "dollar sign",
                 "dollar"
             ],
@@ -2627,7 +2657,8 @@
                 "build",
                 "tools",
                 "fix",
-                "carpentry"
+                "carpentry",
+                "improvement"
             ],
             "dateAdded": ""
         }, {
@@ -2640,7 +2671,8 @@
                 "build",
                 "tools",
                 "fix",
-                "carpentry"
+                "carpentry",
+                "improvement"
             ],
             "dateAdded": ""
         }, {
@@ -2670,7 +2702,8 @@
                 "pay",
                 "payment",
                 "exchange",
-                "currency"
+                "currency",
+                "change"
             ],
             "dateAdded": ""
         }, {
@@ -2840,7 +2873,8 @@
                 "technology",
                 "medical equipment",
                 "ear",
-                "speech"
+                "speech",
+                "speak"
             ],
             "dateAdded": ""
         }, {
@@ -2998,6 +3032,8 @@
                 "cross",
                 "medical cross",
                 "checkmark",
+                "approve",
+                "approved",
                 "checked off",
                 "check",
                 "todo"
@@ -3398,7 +3434,8 @@
                 "cheer",
                 "wave",
                 "first quarter wave",
-                "waving"
+                "waving",
+                "stadium"
             ],
             "dateAdded": ""
         }, {
@@ -3467,7 +3504,8 @@
                 "tech",
                 "pc",
                 "mac",
-                "code"
+                "code",
+                "develop"
             ],
             "dateAdded": ""
         }, {
@@ -3536,6 +3574,7 @@
                 "event",
                 "events",
                 "speech",
+                "speak",
                 "speaking",
                 "graduation",
                 "commencement",
@@ -3578,7 +3617,8 @@
                 "led",
                 "led bulb",
                 "light switch",
-                "shine"
+                "shine",
+                "light bulb"
             ],
             "dateAdded": ""
         }, {
@@ -3600,7 +3640,8 @@
                 "power",
                 "sustainability",
                 "engineer",
-                "engineering"
+                "engineering",
+                "thunder"
             ],
             "dateAdded": ""
         }, {
@@ -3827,7 +3868,8 @@
                 "academics",
                 "school",
                 "reading",
-                "students"
+                "students",
+                "librarian"
             ],
             "dateAdded": ""
         }, {
@@ -4062,6 +4104,7 @@
                 "business",
                 "finance",
                 "financial",
+                "market",
                 "currency",
                 "money bag",
                 "stack",
@@ -4315,7 +4358,8 @@
                 "author",
                 "writer",
                 "story",
-                "history"
+                "history",
+                "librarian"
             ],
             "dateAdded": ""
         }, {
@@ -4812,7 +4856,11 @@
         }, {
             "name": "pie-chart",
             "keywords": [
-                "graph", "business", "numbers", "piece of the pie"
+                "graph",
+                "business",
+                "numbers",
+                "piece of the pie",
+                "circle"
             ],
             "dateAdded": ""
         }, {
@@ -4822,7 +4870,8 @@
                 "money",
                 "currency",
                 "coin",
-                "savings"
+                "savings",
+                "change"
             ],
             "dateAdded": ""
         }, {
@@ -4996,6 +5045,7 @@
                 "architecture",
                 "broadcast",
                 "lightbulb",
+                "light bulb",
                 "bright",
                 "sustainability",
                 "electricity",
@@ -5155,6 +5205,7 @@
                 "information",
                 "finance",
                 "financial",
+                "market",
                 "meeting",
                 "meet"
             ],
@@ -5171,9 +5222,13 @@
                 "information",
                 "finance",
                 "financial",
+                "market",
                 "increase",
                 "meeting",
-                "meet"
+                "meet",
+                "improvement",
+                "graph",
+                "correlation"
             ],
             "dateAdded": ""
         }, {
@@ -5311,7 +5366,8 @@
                 "learning",
                 "student",
                 "story",
-                "class"
+                "class",
+                "librarian"
             ],
             "dateAdded": ""
         }, {
@@ -5325,6 +5381,8 @@
             "keywords": [
                 "check",
                 "checkmark",
+                "approve",
+                "approved",
                 "document",
                 "paper",
                 "file",
@@ -6193,7 +6251,9 @@
                 "sunny",
                 "light",
                 "lighting",
-                "circle"
+                "circle",
+                "morning",
+                "sunset"
             ],
             "dateAdded": ""
         }, {
@@ -6601,6 +6661,7 @@
             "keywords": [
                 "farm",
                 "farming",
+                "agriculture",
                 "iowa",
                 "corn",
                 "plant",
@@ -7032,7 +7093,8 @@
                 "payment",
                 "pay",
                 "finance",
-                "financial"
+                "financial",
+                "market"
             ],
             "dateAdded": ""
         }, {
@@ -7049,7 +7111,9 @@
                 "sign",
                 "signage",
                 "hawk alert",
-                "hawkalert"
+                "hawkalert",
+                "crisis",
+                "risk"
             ],
             "dateAdded": ""
         }, {
