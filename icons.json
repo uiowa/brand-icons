@@ -871,7 +871,11 @@
         }, {
             "name": "cancel-prohibited",
             "keywords": [
-                "no", "cancelled", "canceled", "prohibit"
+                "no",
+                "cancelled",
+                "canceled",
+                "prohibit",
+                "circle"
             ],
             "dateAdded": ""
         }, {
@@ -1132,7 +1136,10 @@
                 "computer",
                 "device",
                 "engineer",
-                "engineering"
+                "engineering",
+                "circle",
+                "circles",
+                "process"
             ],
             "dateAdded": ""
         }, {
@@ -1364,7 +1371,10 @@
                 "structure",
                 "org chart",
                 "org",
-                "organization"
+                "organization",
+                "circle",
+                "circles",
+                "process"
             ],
             "dateAdded": ""
         }, {
@@ -1590,7 +1600,8 @@
                 "recycle",
                 "arrow",
                 "arrows",
-                "loop"
+                "loop",
+                "process"
             ],
             "dateAdded": ""
         }, {
@@ -1717,7 +1728,8 @@
                 "do not",
                 "symbol",
                 "prohibited",
-                "contact"
+                "contact",
+                "circle"
             ],
             "dateAdded": ""
         }, {
@@ -3718,7 +3730,10 @@
                 "bot",
                 "tech",
                 "engineer",
-                "engineering"
+                "engineering",
+                "circle",
+                "circles",
+                "process"
             ],
             "dateAdded": ""
         }, {
@@ -4035,7 +4050,9 @@
                 "atom",
                 "chemistry",
                 "academic",
-                "academics"
+                "academics",
+                "circle",
+                "circles"
             ],
             "dateAdded": ""
         }, {
@@ -4210,7 +4227,9 @@
                 "academic",
                 "academics",
                 "biology",
-                "science"
+                "science",
+                "circle",
+                "circles"
             ],
             "dateAdded": ""
         }, {
@@ -4313,7 +4332,9 @@
                 "healthcare",
                 "health care",
                 "patient",
-                "patient care"
+                "patient care",
+                "circle",
+                "circles"
             ],
             "dateAdded": ""
         }, {
@@ -4366,7 +4387,10 @@
                 "job",
                 "jobs",
                 "peer",
-                "peers"
+                "peers",
+                "circle",
+                "circles",
+                "process"
             ],
             "dateAdded": ""
         }, {
@@ -4848,7 +4872,9 @@
                 "medicinal",
                 "pills",
                 "drugs",
-                "drug"
+                "drug",
+                "circle",
+                "circles"
             ],
             "dateAdded": ""
         }, {
@@ -4864,7 +4890,8 @@
                 "medicinal",
                 "pills",
                 "drugs",
-                "drug"
+                "drug",
+                "circle"
             ],
             "dateAdded": ""
         }, {
@@ -5232,7 +5259,8 @@
                 "danger",
                 "nuclear",
                 "atomic",
-                "atom"
+                "atom",
+                "circle"
             ],
             "dateAdded": ""
         }, {
@@ -5414,7 +5442,9 @@
                 "band",
                 "weddings",
                 "marriage",
-                "wed"
+                "wed",
+                "circle",
+                "circles"
             ],
             "dateAdded": ""
         }, {
@@ -5788,7 +5818,9 @@
                 "sanitation",
                 "hygiene",
                 "cleanse",
-                "sanitize"
+                "sanitize",
+                "circle",
+                "circles"
             ],
             "dateAdded": ""
         }, {
@@ -6160,7 +6192,8 @@
                 "weather",
                 "sunny",
                 "light",
-                "lighting"
+                "lighting",
+                "circle"
             ],
             "dateAdded": ""
         }, {
