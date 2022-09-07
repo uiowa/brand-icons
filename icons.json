@@ -1017,15 +1017,15 @@
             "dateAdded": ""
         }, {
             "name": "checkmark",
-            "approve",
-            "approved",
             "keywords": [
                 "yes",
                 "positive",
                 "checked",
                 "check mark",
                 "todo",
-                "success"
+                "success",
+                "approve",
+                "approved"
             ],
             "dateAdded": ""
         }, {
