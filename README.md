@@ -43,7 +43,7 @@ Example:
     "keywords": "recently-added",
     "icon": "clock",
     "icons": [
-        [...]
+        ...
         "laundry-basket",
     ]
 },
@@ -59,9 +59,9 @@ Example:
     "keywords": "home personal house clothes",
     "icon": "person-one",
     "icons": [
-        [...]
+        ...
         "laundry-basket",
-        [...]
+        ...
     ]
 },
 ```
