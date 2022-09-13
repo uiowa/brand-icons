@@ -1,14 +1,77 @@
-# Iowa Brand Icons
-See https://brand.uiowa.edu/graphic-elements for more information. 
+# Adding new icons to Icon Browser
 
-## One-color icon set
+1. Clone this repository
+2. Check out a new branch. Example: `git checkout new_icons_9-13-22`
+2. Place the new icons in this repository's `icons/` folder with the following naming convention and color variants:
+- `(icon-name)-two-color.svg`
+- `(icon-name).svg` (black one color variant)
+3. Add an icon entry to `icons.json` along with keywords and the date added.
 
-![icons-outline_2](https://user-images.githubusercontent.com/1036433/159326925-7079bb62-8405-4eb2-8c73-b229ca3ed924.png)
+Example:
 
-Available in black, gold, and reversed colors.
+```json
+[...]
+{
+    "name": "laundry-basket",
+    "keywords":
+    [
+        "wash",
+        "clothes",
+        "clothing",
+        "clean",
+        "hygiene",
+        "cleaner",
+        "cleaning",
+        "washer",
+        "washing machine",
+        "cleanse",
+        "bottle",
+        "dorm",
+        "living",
+        "home"
+    ],
+    "dateAdded": "2022-05-24"
+},
+[...]
+```
+4. Add the corresponding icon entry's name to `categories.json` in the "Recently added" category.
 
-## Two-color icon set
+Example:
 
-![icons-outline –color_0](https://user-images.githubusercontent.com/1036433/159326947-a719cdde-55d4-4143-ad47-eca3736a1121.png)
+```json
+[...]
+{
+    "label": "Recently added",
+    "slug": "recently-added",
+    "keywords": "recently-added",
+    "icon": "clock",
+    "icons": [
+        [...]
+        "laundry-basket",
+    ]
+},
+[...]
+```
 
-Available in black with gold accents.
+5. Add the icon entry's name to the proper category in `categories.json`
+
+Example:
+```json
+[...]
+{
+    "label": "Home and Personal",
+    "slug": "home-personal",
+    "keywords": "home personal house clothes",
+    "icon": "person-one",
+    "icons": [
+        "laundry-basket",
+
+    ]
+},
+[...]
+```
+
+6. Commit and push your new branch.
+7. Generate a PR to merge into `main`.
+8. Merge into `main` and take note of the commit hash.
+9. Follow the instructions on the [Icon Browser repository](https://github.com/uiowa/brand-icons/blob/main/README.md) to continue updating the Icon Browser with the newly added icons.
