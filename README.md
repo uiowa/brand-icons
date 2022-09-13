@@ -75,4 +75,3 @@ Example:
 7. Generate a PR to merge into `main`.
 8. Merge into `main` and take note of the commit hash.
 9. Follow the instructions on the [Icon Browser repository](https://github.com/uiowa/brand-icons/blob/main/README.md) to continue updating the Icon Browser with the newly added icons.
-
