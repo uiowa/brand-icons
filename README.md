@@ -10,7 +10,6 @@
 Example:
 
 ```json
-[...]
 {
     "name": "laundry-basket",
     "keywords":
@@ -32,14 +31,12 @@ Example:
     ],
     "dateAdded": "2022-05-24"
 },
-[...]
 ```
 4. Add the corresponding icon entry's name to `categories.json` in the "Recently added" category.
 
 Example:
 
 ```json
-[...]
 {
     "label": "Recently added",
     "slug": "recently-added",
@@ -50,25 +47,23 @@ Example:
         "laundry-basket",
     ]
 },
-[...]
 ```
 
 5. Add the icon entry's name to the proper category in `categories.json`
 
 Example:
 ```json
-[...]
 {
     "label": "Home and Personal",
     "slug": "home-personal",
     "keywords": "home personal house clothes",
     "icon": "person-one",
     "icons": [
+        [...]
         "laundry-basket",
-
+        [...]
     ]
 },
-[...]
 ```
 
 6. Commit and push your new branch.
