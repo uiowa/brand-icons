@@ -3900,7 +3900,8 @@
                 "navigation",
                 "wayfinding",
                 "visit",
-                "address"
+                "address",
+                "destination"
             ],
             "dateAdded": ""
         }, {
@@ -3917,7 +3918,8 @@
                 "navigation",
                 "wayfinding",
                 "visit",
-                "address"
+                "address",
+                "destination"
             ],
             "dateAdded": ""
         }, {
