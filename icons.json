@@ -200,7 +200,9 @@
                 "teach",
                 "graduation",
                 "commencement",
-                "diploma"
+                "diploma",
+                "achieve",
+                "achievement"
             ],
             "dateAdded": ""
         }, {
@@ -251,7 +253,11 @@
         }, {
             "name": "badge-checkmark",
             "keywords": [
-                "shield", "check", "crest", "success"
+                "shield",
+                "check",
+                "crest",
+                "success",
+                "progress"
             ],
             "dateAdded": ""
         }, {
@@ -332,6 +338,7 @@
             "name": "bank",
             "keywords": [
                 "money",
+                "funding",
                 "finance",
                 "financial",
                 "market",
@@ -353,7 +360,8 @@
                 "financial",
                 "market",
                 "presentation",
-                "information"
+                "information",
+                "analytics"
             ],
             "dateAdded": ""
         }, {
@@ -462,6 +470,7 @@
             "name": "bill-payment",
             "keywords": [
                 "money",
+                "funding",
                 "finance",
                 "financial",
                 "market",
@@ -583,7 +592,8 @@
                 "person",
                 "meeting",
                 "meet",
-                "improvement"
+                "improvement",
+                "progress"
             ],
             "dateAdded": ""
         }, {
@@ -1012,7 +1022,8 @@
                 "radio",
                 "checkmark",
                 "approve",
-                "approved"
+                "approved",
+                "progress"
             ],
             "dateAdded": ""
         }, {
@@ -1025,7 +1036,8 @@
                 "todo",
                 "success",
                 "approve",
-                "approved"
+                "approved",
+                "progress"
             ],
             "dateAdded": ""
         }, {
@@ -1285,6 +1297,7 @@
             "name": "coins",
             "keywords": [
                 "money",
+                "funding",
                 "business",
                 "finance",
                 "financial",
@@ -1336,7 +1349,8 @@
                 "web",
                 "website",
                 "engineer",
-                "engineering"
+                "engineering",
+                "analytics"
 
             ],
             "dateAdded": ""
@@ -1457,6 +1471,7 @@
             "keywords": [
                 "business",
                 "money",
+                "funding",
                 "decrease",
                 "chart",
                 "stats",
@@ -1476,6 +1491,7 @@
             "keywords": [
                 "business",
                 "money",
+                "funding",
                 "increase",
                 "chart",
                 "stats",
@@ -1505,6 +1521,7 @@
                 "unwell",
                 "covid",
                 "covid-19",
+                "infection",
                 "coronavirus",
                 "person"
             ],
@@ -1546,6 +1563,7 @@
             "keywords": [
                 "business",
                 "money",
+                "funding",
                 "debt",
                 "loan",
                 "finance",
@@ -1833,6 +1851,7 @@
             "name": "dollar-bill",
             "keywords": [
                 "money",
+                "funding",
                 "cash",
                 "currency",
                 "business",
@@ -1847,6 +1866,7 @@
             "name": "dollar-sign",
             "keywords": [
                 "money",
+                "funding",
                 "cash",
                 "currency",
                 "business",
@@ -1861,6 +1881,7 @@
             "name": "donate",
             "keywords": [
                 "money",
+                "funding",
                 "heart",
                 "hand",
                 "hands",
@@ -2051,6 +2072,7 @@
                 "covid",
                 "coronavirus",
                 "covid-19",
+                "infection",
                 "ppe",
                 "protect",
                 "protection",
@@ -2102,6 +2124,7 @@
                 "unwell",
                 "covid",
                 "covid-19",
+                "infection",
                 "coronavirus",
                 "temperature",
                 "person"
@@ -2398,7 +2421,8 @@
                 "body",
                 "meet",
                 "meeting",
-                "trust"
+                "trust",
+                "belonging"
             ],
             "dateAdded": ""
         }, {
@@ -2620,6 +2644,7 @@
                 "clothes",
                 "feet",
                 "foot",
+                "ankle",
                 "body",
                 "track",
                 "track and field",
@@ -2695,6 +2720,7 @@
             "keywords": [
                 "hand",
                 "money",
+                "funding",
                 "business",
                 "donate",
                 "donor",
@@ -2719,7 +2745,8 @@
                 "sanitize",
                 "covid",
                 "coronavirus",
-                "covid-19"
+                "covid-19",
+                "infection"
             ],
             "dateAdded": ""
         }, {
@@ -2735,7 +2762,8 @@
                 "sanitize",
                 "covid",
                 "coronavirus",
-                "covid-19"
+                "covid-19",
+                "infection"
             ],
             "dateAdded": ""
         }, {
@@ -2921,7 +2949,8 @@
                 "sick",
                 "hospital",
                 "love",
-                "broken heart"
+                "broken heart",
+                "broken"
             ],
             "dateAdded": ""
         }, {
@@ -3138,6 +3167,7 @@
                 "ice skating",
                 "shoe",
                 "foot",
+                "ankle",
                 "body"
             ],
             "dateAdded": ""
@@ -3587,13 +3617,17 @@
                 "livestream",
                 "livestreaming",
                 "class",
-                "classroom"
+                "classroom",
+                "faculty",
+                "professor",
+                "teacher"
             ],
             "dateAdded": ""
         }, {
             "name": "leg-cover",
             "keywords": [
                 "foot",
+                "ankle",
                 "body",
                 "shoe",
                 "boot",
@@ -3949,6 +3983,7 @@
                 "Personal Protective Equipment",
                 "covid",
                 "covid-19",
+                "infection",
                 "coronavirus",
                 "masking",
                 "person",
@@ -4105,6 +4140,7 @@
             "name": "money-stack",
             "keywords": [
                 "money",
+                "funding",
                 "business",
                 "finance",
                 "financial",
@@ -4232,6 +4268,7 @@
                 "patient care",
                 "covid",
                 "covid-19",
+                "infection",
                 "coronavirus"
             ],
             "dateAdded": ""
@@ -4382,7 +4419,8 @@
                 "patient",
                 "patient care",
                 "circle",
-                "circles"
+                "circles",
+                "biopsy"
             ],
             "dateAdded": ""
         }, {
@@ -4864,7 +4902,8 @@
                 "business",
                 "numbers",
                 "piece of the pie",
-                "circle"
+                "circle",
+                "analytics"
             ],
             "dateAdded": ""
         }, {
@@ -4872,6 +4911,7 @@
             "keywords": [
                 "pig",
                 "money",
+                "funding",
                 "currency",
                 "coin",
                 "savings",
@@ -5074,6 +5114,7 @@
                 "hands",
                 "covid",
                 "covid-19",
+                "infection",
                 "body"
             ],
             "dateAdded": ""
@@ -5093,6 +5134,7 @@
                 "hospital gown",
                 "covid",
                 "covid-19",
+                "infection",
                 "body",
                 "clothing"
             ],
@@ -5112,6 +5154,7 @@
                 "Personal Protective Equipment",
                 "covid",
                 "covid-19",
+                "infection",
                 "body"
             ],
             "dateAdded": ""
@@ -5130,6 +5173,7 @@
                 "Personal Protective Equipment",
                 "covid",
                 "covid-19",
+                "infection",
                 "body"
             ],
             "dateAdded": ""
@@ -5193,7 +5237,8 @@
                 "meet",
                 "leader",
                 "class",
-                "classroom"
+                "classroom",
+                "faculty"
             ],
             "dateAdded": ""
         }, {
@@ -5211,7 +5256,8 @@
                 "financial",
                 "market",
                 "meeting",
-                "meet"
+                "meet",
+                "analytics"
             ],
             "dateAdded": ""
         }, {
@@ -5232,7 +5278,9 @@
                 "meet",
                 "improvement",
                 "graph",
-                "correlation"
+                "correlation",
+                "progress",
+                "analytics"
             ],
             "dateAdded": ""
         }, {
@@ -5392,7 +5440,8 @@
                 "file",
                 "pdf",
                 "confirmed",
-                "checked"
+                "checked",
+                "progress"
             ],
             "dateAdded": ""
         }, {
@@ -5461,7 +5510,8 @@
                 "paper",
                 "file",
                 "profile",
-                "identification"
+                "identification",
+                "person"
             ],
             "dateAdded": ""
         }, {
@@ -5476,7 +5526,11 @@
                 "athletics",
                 "gold",
                 "silver",
-                "bronze"
+                "bronze",
+                "award",
+                "achieve",
+                "achievement",
+                "win"
             ],
             "dateAdded": ""
         }, {
@@ -5491,7 +5545,11 @@
                 "athletics",
                 "gold",
                 "silver",
-                "bronze"
+                "bronze",
+                "award",
+                "achieve",
+                "achievement",
+                "win"
             ],
             "dateAdded": ""
         }, {
@@ -5601,6 +5659,7 @@
                 "sanitize",
                 "covid",
                 "covid-19",
+                "infection",
                 "coronavirus",
                 "clean",
                 "sanitation",
@@ -5659,7 +5718,8 @@
                 "healthcare",
                 "surgery",
                 "transplant",
-                "surgical"
+                "surgical",
+                "biopsy"
             ],
             "dateAdded": ""
         }, {
@@ -5685,6 +5745,7 @@
                 "social distance",
                 "covid",
                 "covid-19",
+                "infection",
                 "coronavirus",
                 "people",
                 "pair",
@@ -5736,6 +5797,7 @@
                 "surgical",
                 "scrubs",
                 "foot",
+                "ankle",
                 "body"
             ],
             "dateAdded": ""
@@ -5836,6 +5898,7 @@
                 "sick",
                 "coronavirus",
                 "covid-19",
+                "infection",
                 "covid",
                 "health",
                 "medical",
@@ -5891,6 +5954,7 @@
                 "clothes",
                 "clothing",
                 "foot",
+                "ankle",
                 "feet",
                 "stockings"
             ],
@@ -6583,7 +6647,8 @@
                 "sick",
                 "coronavirus",
                 "covid",
-                "covid-19"
+                "covid-19",
+                "infection"
             ],
             "dateAdded": ""
         }, {
@@ -6795,7 +6860,8 @@
                 "growth",
                 "sick",
                 "illness",
-                "ill"
+                "ill",
+                "biopsy"
             ],
             "dateAdded": ""
         }, {
@@ -7002,6 +7068,7 @@
                 "patient care",
                 "coronavirus",
                 "covid-19",
+                "infection",
                 "covid",
                 "biology",
                 "chemistry",
@@ -7094,6 +7161,7 @@
             "name": "wallet",
             "keywords": [
                 "money",
+                "funding",
                 "currency",
                 "dollar",
                 "dollar sign",
