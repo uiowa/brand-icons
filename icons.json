@@ -3999,6 +3999,7 @@
                 "announcement",
                 "announce",
                 "communication",
+                "communicate",
                 "promote"
             ],
             "dateAdded": ""
@@ -5947,6 +5948,7 @@
                 "message",
                 "messages",
                 "communication",
+                "communicate",
                 "contact"
             ],
             "dateAdded": ""
@@ -5970,6 +5972,7 @@
                 "message",
                 "messages",
                 "communication",
+                "communicate",
                 "contact"
             ],
             "dateAdded": ""
@@ -5993,6 +5996,7 @@
                 "message",
                 "messages",
                 "communication",
+                "communicate",
                 "contact"
             ],
             "dateAdded": ""
@@ -6018,6 +6022,7 @@
                 "message",
                 "messages",
                 "communication",
+                "communicate",
                 "contact"
             ],
             "dateAdded": ""
@@ -7052,7 +7057,8 @@
                 "musical",
                 "hear",
                 "heard",
-                "communication"
+                "communication",
+                "communicate"
             ],
             "dateAdded": ""
         }, {
@@ -7274,7 +7280,8 @@
                 "casting",
                 "livestreaming",
                 "livestream",
-                "communication"
+                "communication",
+                "communicate"
             ],
             "dateAdded": ""
         }, {
