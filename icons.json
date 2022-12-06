@@ -3762,11 +3762,14 @@
                 "city",
                 "iowa city",
                 "cheer",
-                "wave",
-                "first quarter wave",
-                "waving",
                 "stadium",
-                "kinnick stadium"
+                "kinnick stadium",
+                "wave",
+                "waving",
+                "the wave",
+                "hawkeye wave",
+                "the hawkeye wave",
+                "first quarter wave"
             ],
             "dateAdded": ""
         }, {
@@ -7964,9 +7967,11 @@
             "name": "wave",
             "keywords": [
                 "wave",
+                "waving",
                 "the wave",
                 "hawkeye wave",
                 "the hawkeye wave",
+                "first quarter wave",
                 "iowa city",
                 "stead family",
                 "children's hospital",
@@ -7974,7 +7979,8 @@
                 "Stead Family Children's Hospital",
                 "hand",
                 "hi",
-                "hello"
+                "hello",
+                "greeting"
             ],
             "dateAdded": "2022-12-05"
         }, {
