@@ -10,8 +10,7 @@
                 "24/7"
             ],
             "dateAdded": ""
-        },
-        {
+        }, {
             "name": "24hour-phone",
             "keywords": [
                 "phone",
@@ -26,8 +25,7 @@
                 "appointment"
             ],
             "dateAdded": ""
-        },
-        {
+        }, {
             "name": "a-plus-paper",
             "keywords": [
                 "education",
@@ -43,8 +41,7 @@
                 "student records"
             ],
             "dateAdded": ""
-        },
-        {
+        }, {
             "name": "air-quality",
             "keywords": [
                 "air",
@@ -128,13 +125,16 @@
         }, {
             "name": "arrow-direction",
             "keywords": [
-                "point", "symbol", "wayfinding"
+                "point",
+                "symbol",
+                "wayfinding"
             ],
             "dateAdded": ""
         }, {
             "name": "arrowhead",
             "keywords": [
-                "archeology", "dig"
+                "archeology",
+                "dig"
             ],
             "dateAdded": ""
         }, {
@@ -146,17 +146,6 @@
                 "architecture",
                 "iowa city",
                 "city"
-            ],
-            "dateAdded": ""
-        }, {
-            "name": "torii-gate",
-            "keywords": [
-                "arch",
-                "architecture",
-                "buildings",
-                "culture",
-                "city",
-                "history"
             ],
             "dateAdded": ""
         }, {
@@ -208,13 +197,18 @@
         }, {
             "name": "awareness-ribbon",
             "keywords": [
-                "health", "medical", "mental health"
+                "health",
+                "medical",
+                "mental health"
             ],
             "dateAdded": ""
         }, {
             "name": "baby",
             "keywords": [
-                "child", "young", "youth", "swaddle"
+                "child",
+                "young",
+                "youth",
+                "swaddle"
             ],
             "dateAdded": ""
         }, {
@@ -263,15 +257,35 @@
         }, {
             "name": "badge-star",
             "keywords": [
-                "shield", "crest"
+                "shield",
+                "crest"
             ],
             "dateAdded": ""
         }, {
             "name": "balloons",
             "keywords": [
-                "balloons", "celebrate", "party", "fun"
+                "balloons",
+                "celebrate",
+                "party",
+                "fun"
             ],
             "dateAdded": ""
+        }, {
+            "name": "ballot",
+            "keywords": [
+                "vote",
+                "voting",
+                "election",
+                "dropbox",
+                "drop box",
+                "poll",
+                "polling",
+                "primary",
+                "primaries",
+                "referendum",
+                "cast"
+            ],
+            "dateAdded": "2022-12-05"
         }, {
             "name": "banana",
             "keywords": [
@@ -335,6 +349,19 @@
             ],
             "dateAdded": ""
         }, {
+            "name": "band-hat",
+            "keywords": [
+                "marching band",
+                "band",
+                "music",
+                "musical",
+                "musician",
+                "entertainment",
+                "horn",
+                "band"
+            ],
+            "dateAdded": "2022-12-05"
+        }, {
             "name": "bank",
             "keywords": [
                 "money",
@@ -389,6 +416,23 @@
             ],
             "dateAdded": ""
         }, {
+            "name": "bass-drum",
+            "keywords": [
+                "music",
+                "musical",
+                "musician",
+                "dance",
+                "musical instrument",
+                "band",
+                "concert",
+                "instrument",
+                "entertainment",
+                "marching band",
+                "percussion",
+                "orchestra"
+            ],
+            "dateAdded": "2022-12-05"
+        }, {
             "name": "bathroom",
             "keywords": [
                 "restroom",
@@ -430,6 +474,8 @@
                 "musical",
                 "chime",
                 "musical instrument",
+                "band",
+                "concert",
                 "instrument",
                 "ring"
             ],
@@ -444,6 +490,26 @@
                 "spicy"
             ],
             "dateAdded": ""
+        }, {
+            "name": "benefits",
+            "keywords": [
+                "health",
+                "medical",
+                "healthcare",
+                "health care",
+                "patient",
+                "patient care",
+                "hospital",
+                "doctor",
+                "bill",
+                "insurance",
+                "cross",
+                "medical cross",
+                "appointment",
+                "dollar sign",
+                "hand"
+            ],
+            "dateAdded": "2022-12-05"
         }, {
             "name": "bike",
             "keywords": [
@@ -513,6 +579,23 @@
                 "risk"
             ],
             "dateAdded": ""
+        }, {
+            "name": "bionic-bus",
+            "keywords": [
+                "accessibility",
+                "bus",
+                "drive",
+                "transportation",
+                "driver",
+                "public",
+                "public transit",
+                "transit",
+                "public transportation",
+                "vehicle",
+                "access",
+                "accessible"
+            ],
+            "dateAdded": "2022-12-05"
         }, {
             "name": "bladder",
             "keywords": [
@@ -626,25 +709,35 @@
         }, {
             "name": "bowl-noodles",
             "keywords": [
-                "food", "dining", "soup", "chopsticks"
+                "food",
+                "dining",
+                "soup",
+                "chopsticks"
             ],
             "dateAdded": ""
         }, {
             "name": "box-open",
             "keywords": [
-                "package", "moving", "delivery", "order"
+                "package",
+                "moving",
+                "delivery",
+                "order"
             ],
             "dateAdded": ""
         }, {
             "name": "boyd-law-building",
             "keywords": [
-                "campus", "buildings", "building"
+                "campus",
+                "buildings",
+                "building"
             ],
             "dateAdded": ""
         }, {
             "name": "boyd-tower",
             "keywords": [
-                "campus", "buildings", "building"
+                "campus",
+                "buildings",
+                "building"
             ],
             "dateAdded": ""
         }, {
@@ -708,7 +801,9 @@
         }, {
             "name": "broccoli",
             "keywords": [
-                "food", "healthy", "dining"
+                "food",
+                "healthy",
+                "dining"
             ],
             "dateAdded": ""
         }, {
@@ -796,7 +891,9 @@
         }, {
             "name": "cake-candles",
             "keywords": [
-                "food", "dessert", "birthday"
+                "food",
+                "dessert",
+                "birthday"
             ],
             "dateAdded": ""
         }, {
@@ -976,7 +1073,10 @@
         }, {
             "name": "carrot",
             "keywords": [
-                "food", "vegetable", "health", "medical"
+                "food",
+                "vegetable",
+                "health",
+                "medical"
             ],
             "dateAdded": ""
         }, {
@@ -1023,7 +1123,8 @@
                 "checkmark",
                 "approve",
                 "approved",
-                "progress"
+                "progress",
+                "survey"
             ],
             "dateAdded": ""
         }, {
@@ -1061,13 +1162,20 @@
         }, {
             "name": "chemistry-hexagons",
             "keywords": [
-                "chemical", "chemistry", "education", "biology"
+                "chemical",
+                "chemistry",
+                "education",
+                "biology"
             ],
             "dateAdded": ""
         }, {
             "name": "child",
             "keywords": [
-                "baby", "person", "human", "children"
+                "baby",
+                "person",
+                "human",
+                "children",
+                "people"
             ],
             "dateAdded": ""
         }, {
@@ -1096,7 +1204,6 @@
                 "children's hospital",
                 "stead",
                 "Stead Family Children's Hospital"
-
             ],
             "dateAdded": ""
         }, {
@@ -1189,6 +1296,27 @@
             ],
             "dateAdded": ""
         }, {
+            "name": "clarinet",
+            "keywords": [
+                "music",
+                "musical",
+                "musician",
+                "dance",
+                "musical instrument",
+                "band",
+                "concert",
+                "instrument",
+                "entertainment",
+                "marching band",
+                "band",
+                "concert",
+                "woodwind",
+                "reed",
+                "jazz",
+                "orchestra"
+            ],
+            "dateAdded": "2022-12-05"
+        }, {
             "name": "clean-water",
             "keywords": [
                 "health",
@@ -1245,19 +1373,27 @@
                 "pad",
                 "pencil",
                 "engineer",
-                "engineering"
+                "engineering",
+                "survey",
+                "checklist"
             ],
             "dateAdded": ""
         }, {
             "name": "clock",
             "keywords": [
-                "time", "timer", "hours", "history"
+                "time",
+                "timer",
+                "hours",
+                "history"
             ],
             "dateAdded": ""
         }, {
             "name": "cloud",
             "keywords": [
-                "weather", "rain", "gloomy", "cloudy"
+                "weather",
+                "rain",
+                "gloomy",
+                "cloudy"
             ],
             "dateAdded": ""
         }, {
@@ -1315,7 +1451,10 @@
         }, {
             "name": "column",
             "keywords": [
-                "building", "buildings", "architecture", "ancient"
+                "building",
+                "buildings",
+                "architecture",
+                "ancient"
             ],
             "dateAdded": ""
         }, {
@@ -1351,7 +1490,6 @@
                 "engineer",
                 "engineering",
                 "analytics"
-
             ],
             "dateAdded": ""
         }, {
@@ -1370,6 +1508,24 @@
                 "engineering"
             ],
             "dateAdded": ""
+        }, {
+            "name": "conducting",
+            "keywords": [
+                "music",
+                "musical",
+                "musician",
+                "band",
+                "concert",
+                "orchestra",
+                "orchestrate",
+                "conductor",
+                "entertainment",
+                "marching band",
+                "concert",
+                "classical",
+                "opera"
+            ],
+            "dateAdded": "2022-12-05"
         }, {
             "name": "concussion",
             "keywords": [
@@ -1743,6 +1899,8 @@
                 "concert",
                 "percussion",
                 "musical instrument",
+                "band",
+                "concert",
                 "instrument",
                 "entertainment"
             ],
@@ -1779,20 +1937,6 @@
             ],
             "dateAdded": ""
         }, {
-            "name": "doctor",
-            "keywords": [
-                "doctor",
-                "physician",
-                "health",
-                "medical",
-                "healthcare",
-                "health care",
-                "patient",
-                "patient care",
-                "stethoscope"
-            ],
-            "dateAdded": ""
-        }, {
             "name": "doctor-case",
             "keywords": [
                 "health",
@@ -1805,34 +1949,6 @@
                 "suitcase",
                 "cross",
                 "medical cross"
-            ],
-            "dateAdded": ""
-        }, {
-            "name": "doctor-female",
-            "keywords": [
-                "doctor",
-                "physician",
-                "health",
-                "medical",
-                "healthcare",
-                "health care",
-                "patient",
-                "patient care",
-                "stethoscope"
-            ],
-            "dateAdded": ""
-        }, {
-            "name": "doctor-male",
-            "keywords": [
-                "doctor",
-                "physician",
-                "health",
-                "medical",
-                "healthcare",
-                "health care",
-                "patient",
-                "patient care",
-                "stethoscope"
             ],
             "dateAdded": ""
         }, {
@@ -1886,18 +2002,24 @@
                 "hand",
                 "hands",
                 "donor",
-                "donating"
+                "donating",
+                "thank you",
+                "thanks",
+                "thank"
             ],
             "dateAdded": ""
         }, {
             "name": "door-open",
             "keywords": [
-                "architecture", "unlock"
+                "architecture",
+                "unlock"
             ],
             "dateAdded": ""
         }, {
             "name": "doors-open-two",
-            "keywords": ["architecture"],
+            "keywords": [
+                "architecture"
+            ],
             "dateAdded": ""
         }, {
             "name": "download",
@@ -1933,6 +2055,19 @@
                 "face"
             ],
             "dateAdded": ""
+        }, {
+            "name": "drum-major",
+            "keywords": [
+                "marching band",
+                "band",
+                "music",
+                "musical",
+                "musician",
+                "entertainment",
+                "horn",
+                "percussion"
+            ],
+            "dateAdded": "2022-12-05"
         }, {
             "name": "ear",
             "keywords": [
@@ -1998,6 +2133,41 @@
                 "doctor"
             ],
             "dateAdded": ""
+        }, {
+            "name": "emotions",
+            "keywords": [
+                "sad",
+                "sadness",
+                "anger",
+                "frustration",
+                "angry",
+                "person",
+                "face",
+                "faces",
+                "mental health",
+                "emoji"
+            ],
+            "dateAdded": "2022-12-05"
+        }, {
+            "name": "empty-battery",
+            "keywords": [
+                "lightning bolt",
+                "lightning",
+                "electricity",
+                "electric",
+                "bolt",
+                "low",
+                "low power",
+                "drain",
+                "drained",
+                "power",
+                "charge",
+                "charging",
+                "power",
+                "sustainability",
+                "charger"
+            ],
+            "dateAdded": "2022-12-05"
         }, {
             "name": "ems",
             "keywords": [
@@ -2105,9 +2275,26 @@
             ],
             "dateAdded": ""
         }, {
+            "name": "fast-forward",
+            "keywords": [
+                "player",
+                "controls",
+                "control",
+                "fast forward",
+                "fastforward",
+                "forward",
+                "advance",
+                "skip",
+                "seek"
+            ],
+            "dateAdded": "2022-12-05"
+        }, {
             "name": "feather",
             "keywords": [
-                "light", "pillow", "bird", "soft"
+                "light",
+                "pillow",
+                "bird",
+                "soft"
             ],
             "dateAdded": ""
         }, {
@@ -2303,7 +2490,8 @@
         }, {
             "name": "flags",
             "keywords": [
-                "race", "flag"
+                "race",
+                "flag"
             ],
             "dateAdded": ""
         }, {
@@ -2425,6 +2613,23 @@
                 "belonging"
             ],
             "dateAdded": ""
+        }, {
+            "name": "full-battery",
+            "keywords": [
+                "lightning bolt",
+                "lightning",
+                "electricity",
+                "electric",
+                "bolt",
+                "power",
+                "charged",
+                "charge",
+                "charging",
+                "power",
+                "sustainability",
+                "charger"
+            ],
+            "dateAdded": "2022-12-05"
         }, {
             "name": "gaiter",
             "keywords": [
@@ -2601,11 +2806,13 @@
                 "chord",
                 "chords",
                 "musical instrument",
+                "band",
+                "concert",
                 "instrument",
                 "entertainment",
                 "band",
                 "guitarist",
-                "concert"
+                "orchestra"
             ],
             "dateAdded": ""
         }, {
@@ -2657,19 +2864,43 @@
         }, {
             "name": "hair-brush",
             "keywords": [
-                "personal", "hair", "comb"
+                "personal",
+                "hair",
+                "comb"
             ],
             "dateAdded": ""
         }, {
             "name": "hair-comb",
             "keywords": [
-                "personal", "hair", "brush"
+                "personal",
+                "hair",
+                "brush"
             ],
             "dateAdded": ""
         }, {
+            "name": "half-battery",
+            "keywords": [
+                "lightning bolt",
+                "lightning",
+                "electricity",
+                "electric",
+                "bolt",
+                "power",
+                "charged",
+                "charge",
+                "charging",
+                "power",
+                "sustainability",
+                "charger"
+            ],
+            "dateAdded": "2022-12-05"
+        }, {
             "name": "halo-wings",
             "keywords": [
-                "angel", "fly", "wings", "halo"
+                "angel",
+                "fly",
+                "wings",
+                "halo"
             ],
             "dateAdded": ""
         }, {
@@ -2787,7 +3018,8 @@
                 "author",
                 "writer",
                 "engineer",
-                "engineering"
+                "engineering",
+                "handwriting"
             ],
             "dateAdded": ""
         }, {
@@ -2833,7 +3065,9 @@
         }, {
             "name": "head",
             "keywords": [
-                "person", "body", "face"
+                "person",
+                "body",
+                "face"
             ],
             "dateAdded": ""
         }, {
@@ -2850,6 +3084,48 @@
                 "loud",
                 "streaming",
                 "podcast"
+            ],
+            "dateAdded": ""
+        }, {
+            "name": "healthcare-professional",
+            "keywords": [
+                "doctor",
+                "physician",
+                "health",
+                "medical",
+                "healthcare",
+                "health care",
+                "patient",
+                "patient care",
+                "stethoscope"
+            ],
+            "dateAdded": ""
+        }, {
+            "name": "healthcare-professional-female",
+            "keywords": [
+                "doctor",
+                "physician",
+                "health",
+                "medical",
+                "healthcare",
+                "health care",
+                "patient",
+                "patient care",
+                "stethoscope"
+            ],
+            "dateAdded": ""
+        }, {
+            "name": "healthcare-professional-male",
+            "keywords": [
+                "doctor",
+                "physician",
+                "health",
+                "medical",
+                "healthcare",
+                "health care",
+                "patient",
+                "patient care",
+                "stethoscope"
             ],
             "dateAdded": ""
         }, {
@@ -3065,7 +3341,8 @@
                 "approved",
                 "checked off",
                 "check",
-                "todo"
+                "todo",
+                "medical bill"
             ],
             "dateAdded": ""
         }, {
@@ -3292,6 +3569,29 @@
                 "person"
             ],
             "dateAdded": ""
+        }, {
+            "name": "idea",
+            "keywords": [
+                "light",
+                "light bulb",
+                "lightbulb",
+                "invent",
+                "invention",
+                "invented",
+                "thought",
+                "think",
+                "thinking",
+                "thought bubble",
+                "innovation",
+                "innovate",
+                "create",
+                "discover",
+                "discovery",
+                "inspire",
+                "inspiration",
+                "inventive"
+            ],
+            "dateAdded": "2022-12-05"
         }, {
             "name": "imu",
             "keywords": [
@@ -3645,6 +3945,9 @@
             "name": "lightbulb",
             "keywords": [
                 "idea",
+                "invent",
+                "invention",
+                "invented",
                 "light",
                 "lights",
                 "bright",
@@ -3653,7 +3956,16 @@
                 "led bulb",
                 "light switch",
                 "shine",
-                "light bulb"
+                "light bulb",
+                "innovation",
+                "innovate",
+                "create",
+                "discover",
+                "discovery",
+                "inspire",
+                "inspiration",
+                "inventive",
+                "sustainability"
             ],
             "dateAdded": ""
         }, {
@@ -3672,7 +3984,7 @@
                 "power",
                 "charge",
                 "charging",
-                "power",
+                "charger",
                 "sustainability",
                 "engineer",
                 "engineering",
@@ -3966,9 +4278,10 @@
                 "percussion",
                 "dancing",
                 "musical instrument",
+                "band",
+                "concert",
                 "instrument",
                 "entertainment",
-                "band",
                 "shaker",
                 "shakers",
                 "shake"
@@ -4249,7 +4562,8 @@
                 "sheet music",
                 "notation",
                 "band",
-                "marching band"
+                "marching band",
+                "muisician"
             ],
             "dateAdded": ""
         }, {
@@ -4332,9 +4646,27 @@
         }, {
             "name": "nose",
             "keywords": [
-                "body", "smell", "odor"
+                "body",
+                "smell",
+                "odor"
             ],
             "dateAdded": ""
+        }, {
+            "name": "nurse-cap",
+            "keywords": [
+                "health",
+                "medical",
+                "health care",
+                "patient",
+                "patient care",
+                "doctor",
+                "cross",
+                "medical cross",
+                "hat",
+                "capping ceremony",
+                "capping"
+            ],
+            "dateAdded": "2022-12-05"
         }, {
             "name": "office-chair",
             "keywords": [
@@ -4582,6 +4914,22 @@
             ],
             "dateAdded": ""
         }, {
+            "name": "pappajohn",
+            "keywords": [
+                "pappajohn business building",
+                "tippie",
+                "tippie college of business",
+                "college of business",
+                "business building",
+                "building",
+                "buildings",
+                "architecture",
+                "campus",
+                "iowa city",
+                "city"
+            ],
+            "dateAdded": "2022-12-05"
+        }, {
             "name": "paper",
             "keywords": [
                 "document",
@@ -4620,9 +4968,23 @@
         }, {
             "name": "password",
             "keywords": [
-                "technology", "its", "security", "privacy"
+                "technology",
+                "its",
+                "security",
+                "privacy"
             ],
             "dateAdded": ""
+        }, {
+            "name": "pause",
+            "keywords": [
+                "player",
+                "controls",
+                "control",
+                "paused",
+                "play",
+                "stop"
+            ],
+            "dateAdded": "2022-12-05"
         }, {
             "name": "peach",
             "keywords": [
@@ -4768,7 +5130,10 @@
         }, {
             "name": "pepper",
             "keywords": [
-                "food", "dining", "eat", "eating"
+                "food",
+                "dining",
+                "eat",
+                "eating"
             ],
             "dateAdded": ""
         }, {
@@ -4788,19 +5153,37 @@
             ],
             "dateAdded": ""
         }, {
+            "name": "person",
+            "keywords": [
+                "person",
+                "adult",
+                "people",
+                "human"
+            ],
+            "dateAdded": "2022-12-05"
+        }, {
             "name": "person-help",
             "keywords": [
-                "person", "question", "question mark", "punctuation"
+                "person",
+                "question",
+                "question mark",
+                "punctuation",
+                "help desk"
             ],
             "dateAdded": ""
         }, {
             "name": "person-information",
-            "keywords": [],
+            "keywords": [
+                "help",
+                "help desk"
+            ],
             "dateAdded": ""
         }, {
             "name": "person-one",
             "keywords": [
-                "person", "alone", "single"
+                "person",
+                "alone",
+                "single"
             ],
             "dateAdded": ""
         }, {
@@ -4895,6 +5278,24 @@
                 "walking"
             ],
             "dateAdded": ""
+        }, {
+            "name": "piano",
+            "keywords": [
+                "music",
+                "musical",
+                "musician",
+                "dance",
+                "musical instrument",
+                "band",
+                "concert",
+                "instrument",
+                "entertainment",
+                "keyboard",
+                "keys",
+                "pianist",
+                "orchestra"
+            ],
+            "dateAdded": "2022-12-05"
         }, {
             "name": "pie-chart",
             "keywords": [
@@ -5000,7 +5401,10 @@
         }, {
             "name": "pizza",
             "keywords": [
-                "food", "dining", "eat", "eating"
+                "food",
+                "dining",
+                "eat",
+                "eating"
             ],
             "dateAdded": ""
         }, {
@@ -5018,9 +5422,23 @@
         }, {
             "name": "plaque",
             "keywords": [
-                "shield", "crest", "leaf", "leaves"
+                "shield",
+                "crest",
+                "leaf",
+                "leaves"
             ],
             "dateAdded": ""
+        }, {
+            "name": "play",
+            "keywords": [
+                "player",
+                "controls",
+                "control",
+                "pause",
+                "play",
+                "stop"
+            ],
+            "dateAdded": "2022-12-05"
         }, {
             "name": "podium",
             "keywords": [
@@ -5065,7 +5483,10 @@
         }, {
             "name": "popcorn",
             "keywords": [
-                "food", "dining", "eat", "eating"
+                "food",
+                "dining",
+                "eat",
+                "eating"
             ],
             "dateAdded": ""
         }, {
@@ -5360,6 +5781,19 @@
             ],
             "dateAdded": ""
         }, {
+            "name": "quotes",
+            "keywords": [
+                "quotation",
+                "quote",
+                "quoting",
+                "blockquote",
+                "citation",
+                "cite",
+                "reference",
+                "excerpt"
+            ],
+            "dateAdded": "2022-12-05"
+        }, {
             "name": "radiation",
             "keywords": [
                 "radiate",
@@ -5386,7 +5820,10 @@
         }, {
             "name": "raised-hand",
             "keywords": [
-                "hand", "body", "class", "classroom"
+                "hand",
+                "body",
+                "class",
+                "classroom"
             ],
             "dateAdded": ""
         }, {
@@ -5425,7 +5862,10 @@
         }, {
             "name": "recycle",
             "keywords": [
-                "waste", "recycling", "recycling bin", "sustainability"
+                "waste",
+                "recycling",
+                "recycling bin",
+                "sustainability"
             ],
             "dateAdded": ""
         }, {
@@ -5515,6 +5955,20 @@
             ],
             "dateAdded": ""
         }, {
+            "name": "rewind",
+            "keywords": [
+                "player",
+                "controls",
+                "control",
+                "backward",
+                "seek",
+                "rewound",
+                "reverse",
+                "undo",
+                "back"
+            ],
+            "dateAdded": "2022-12-05"
+        }, {
             "name": "ribbon",
             "keywords": [
                 "winner",
@@ -5567,6 +6021,31 @@
                 "circles"
             ],
             "dateAdded": ""
+        }, {
+            "name": "road",
+            "keywords": [
+                "location",
+                "locate",
+                "gps",
+                "directions",
+                "find",
+                "geolocate",
+                "transportation",
+                "travel",
+                "navigation",
+                "wayfinding",
+                "visit",
+                "address",
+                "destination",
+                "car",
+                "driving",
+                "vehicle",
+                "drive",
+                "street",
+                "highway",
+                "interstate"
+            ],
+            "dateAdded": "2022-12-05"
         }, {
             "name": "robot",
             "keywords": [
@@ -5644,7 +6123,10 @@
         }, {
             "name": "salt",
             "keywords": [
-                "seasoning", "food", "dining", "dining"
+                "seasoning",
+                "food",
+                "dining",
+                "dining"
             ],
             "dateAdded": ""
         }, {
@@ -5667,6 +6149,27 @@
                 "cleanse"
             ],
             "dateAdded": ""
+        }, {
+            "name": "saxophone",
+            "keywords": [
+                "music",
+                "musical",
+                "musician",
+                "dance",
+                "musical instrument",
+                "band",
+                "concert",
+                "instrument",
+                "entertainment",
+                "marching band",
+                "band",
+                "concert",
+                "woodwind",
+                "reed",
+                "jazz",
+                "orchestra"
+            ],
+            "dateAdded": "2022-12-05"
         }, {
             "name": "scale",
             "keywords": [
@@ -5739,6 +6242,30 @@
             ],
             "dateAdded": ""
         }, {
+            "name": "scrub-top",
+            "keywords": [
+                "medical device",
+                "medical equipment",
+                "health care",
+                "patient",
+                "patient care",
+                "health",
+                "medical",
+                "healthcare",
+                "hospital",
+                "transplant",
+                "surgical",
+                "scrub",
+                "scrubs",
+                "foot",
+                "ankle",
+                "body",
+                "medical cross",
+                "cross",
+                "doctor"
+            ],
+            "dateAdded": "2022-12-05"
+        }, {
             "name": "social-distance",
             "keywords": [
                 "social distancing",
@@ -5768,6 +6295,14 @@
             ],
             "dateAdded": ""
         }, {
+            "name": "share",
+            "keywords": [
+                "send",
+                "link",
+                "external"
+            ],
+            "dateAdded": "2022-12-05"
+        }, {
             "name": "ship",
             "keywords": [
                 "boat",
@@ -5795,10 +6330,12 @@
                 "hospital",
                 "transplant",
                 "surgical",
+                "scrub",
                 "scrubs",
                 "foot",
                 "ankle",
-                "body"
+                "body",
+                "doctor"
             ],
             "dateAdded": ""
         }, {
@@ -5891,6 +6428,19 @@
                 "dining"
             ],
             "dateAdded": ""
+        }, {
+            "name": "snare-drum",
+            "keywords": [
+                "music",
+                "musical",
+                "musical instrument",
+                "band",
+                "concert",
+                "instrument",
+                "percussion",
+                "entertainment"
+            ],
+            "dateAdded": "2022-12-05"
         }, {
             "name": "sneeze",
             "keywords": [
@@ -5989,7 +6539,10 @@
         }, {
             "name": "soup",
             "keywords": [
-                "food", "dining", "heat", "bowl"
+                "food",
+                "dining",
+                "heat",
+                "bowl"
             ],
             "dateAdded": ""
         }, {
@@ -6110,13 +6663,16 @@
         }, {
             "name": "spiritual-services",
             "keywords": [
-                "religion", "religious"
+                "religion",
+                "religious"
             ],
             "dateAdded": ""
         }, {
             "name": "spoon",
             "keywords": [
-                "food", "utensil", "dining"
+                "food",
+                "utensil",
+                "dining"
             ],
             "dateAdded": ""
         }, {
@@ -6246,7 +6802,7 @@
             ],
             "dateAdded": ""
         }, {
-            "name": "stethescope",
+            "name": "stethoscope",
             "keywords": [
                 "medical equipment",
                 "medical device",
@@ -6405,9 +6961,12 @@
                 "music",
                 "musical",
                 "musical instrument",
+                "band",
+                "concert",
                 "instrument",
                 "percussion",
-                "entertainment"
+                "entertainment",
+                "orchestra"
             ],
             "dateAdded": ""
         }, {
@@ -6531,6 +7090,30 @@
             ],
             "dateAdded": ""
         }, {
+            "name": "texting",
+            "keywords": [
+                "speaking",
+                "writing",
+                "texting",
+                "text message",
+                "text",
+                "write",
+                "pencil",
+                "talking",
+                "chat",
+                "chatting",
+                "talk",
+                "discussing",
+                "conversation",
+                "converse",
+                "message",
+                "messages",
+                "communication",
+                "communicate",
+                "contact"
+            ],
+            "dateAdded": "2022-12-05"
+        }, {
             "name": "theatre",
             "keywords": [
                 "theater",
@@ -6566,6 +7149,18 @@
             ],
             "dateAdded": ""
         }, {
+            "name": "thought",
+            "keywords": [
+                "think",
+                "thinking",
+                "thought bubble",
+                "bubble",
+                "idea",
+                "reflect",
+                "reflecting"
+            ],
+            "dateAdded": "2022-12-05"
+        }, {
             "name": "throat",
             "keywords": [
                 "health",
@@ -6582,7 +7177,9 @@
         }, {
             "name": "thumb-up",
             "keywords": [
-                "thumbs up", "hand", "body"
+                "thumbs up",
+                "hand",
+                "body"
             ],
             "dateAdded": ""
         }, {
@@ -6635,6 +7232,20 @@
                 "audience"
             ],
             "dateAdded": ""
+        }, {
+            "name": "time-off",
+            "keywords": [
+                "vacation",
+                "leave",
+                "medical leave",
+                "sick leave",
+                "holiday",
+                "sabbatical",
+                "downtime",
+                "absence",
+                "day off"
+            ],
+            "dateAdded": "2022-12-05"
         }, {
             "name": "tissue",
             "keywords": [
@@ -6730,6 +7341,17 @@
             ],
             "dateAdded": ""
         }, {
+            "name": "torii-gate",
+            "keywords": [
+                "arch",
+                "architecture",
+                "buildings",
+                "culture",
+                "city",
+                "history"
+            ],
+            "dateAdded": ""
+        }, {
             "name": "tractor",
             "keywords": [
                 "farm",
@@ -6816,6 +7438,26 @@
             ],
             "dateAdded": ""
         }, {
+            "name": "trombone",
+            "keywords": [
+                "music",
+                "musical",
+                "musician",
+                "dance",
+                "musical instrument",
+                "band",
+                "concert",
+                "instrument",
+                "entertainment",
+                "marching band",
+                "band",
+                "concert",
+                "brass",
+                "jazz",
+                "orchestra"
+            ],
+            "dateAdded": "2022-12-05"
+        }, {
             "name": "trophy",
             "keywords": [
                 "winner",
@@ -6837,14 +7479,39 @@
                 "musician",
                 "dance",
                 "musical instrument",
+                "band",
+                "concert",
                 "instrument",
                 "entertainment",
                 "horn",
                 "marching band",
                 "band",
-                "ska"
+                "ska",
+                "jazz",
+                "concert",
+                "orchestra"
             ],
             "dateAdded": ""
+        }, {
+            "name": "tuba",
+            "keywords": [
+                "music",
+                "musical",
+                "musician",
+                "dance",
+                "musical instrument",
+                "band",
+                "concert",
+                "instrument",
+                "entertainment",
+                "marching band",
+                "band",
+                "concert",
+                "brass",
+                "jazz",
+                "orchestra"
+            ],
+            "dateAdded": "2022-12-05"
         }, {
             "name": "tumor",
             "keywords": [
@@ -6884,7 +7551,10 @@
         }, {
             "name": "umbrella",
             "keywords": [
-                "weather", "rain", "cloudy", "spring"
+                "weather",
+                "rain",
+                "cloudy",
+                "spring"
             ],
             "dateAdded": ""
         }, {
@@ -6909,7 +7579,10 @@
         }, {
             "name": "united-states",
             "keywords": [
-                "usa", "map", "america", "wayfinding"
+                "usa",
+                "map",
+                "america",
+                "wayfinding"
             ],
             "dateAdded": ""
         }, {
@@ -6987,6 +7660,22 @@
             ],
             "dateAdded": ""
         }, {
+            "name": "vacation",
+            "keywords": [
+                "time off",
+                "holiday",
+                "island",
+                "palm trees",
+                "tropical",
+                "ocean",
+                "briefcase",
+                "suitcase",
+                "travel",
+                "travelling",
+                "leave"
+            ],
+            "dateAdded": "2022-12-05"
+        }, {
             "name": "video-clapper",
             "keywords": [
                 "movie",
@@ -7031,6 +7720,8 @@
                 "chord",
                 "chords",
                 "musical instrument",
+                "band",
+                "concert",
                 "instrument",
                 "entertainment",
                 "band",
@@ -7104,7 +7795,8 @@
                 "leonardo davinci",
                 "art",
                 "artist",
-                "artwork"
+                "artwork",
+                "people"
             ],
             "dateAdded": ""
         }, {
@@ -7196,7 +7888,9 @@
         }, {
             "name": "water",
             "keywords": [
-                "cup", "drink", "dining"
+                "cup",
+                "drink",
+                "dining"
             ],
             "dateAdded": ""
         }, {
@@ -7266,6 +7960,23 @@
                 "home"
             ],
             "dateAdded": "2022-05-24"
+        }, {
+            "name": "wave",
+            "keywords": [
+                "wave",
+                "the wave",
+                "hawkeye wave",
+                "the hawkeye wave",
+                "iowa city",
+                "stead family",
+                "children's hospital",
+                "stead",
+                "Stead Family Children's Hospital",
+                "hand",
+                "hi",
+                "hello"
+            ],
+            "dateAdded": "2022-12-05"
         }, {
             "name": "waves",
             "keywords": [
@@ -7428,6 +8139,22 @@
                 "radiate"
             ],
             "dateAdded": ""
-        }
+        }, {
+            "name": "xylophone",
+            "keywords": [
+                "music",
+                "musical",
+                "musical instrument",
+                "band",
+                "concert",
+                "instrument",
+                "percussion",
+                "entertainment",
+                "wood",
+                "mallet",
+                "orchestra"
+            ],
+            "dateAdded": "2022-12-05"
+        },
     ]
 }
