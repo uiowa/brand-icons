@@ -3090,6 +3090,7 @@
             "name": "healthcare-professional",
             "keywords": [
                 "doctor",
+                "nurse",
                 "physician",
                 "health",
                 "medical",
@@ -3104,6 +3105,7 @@
             "name": "healthcare-professional-female",
             "keywords": [
                 "doctor",
+                "nurse",
                 "physician",
                 "health",
                 "medical",
@@ -3118,6 +3120,7 @@
             "name": "healthcare-professional-male",
             "keywords": [
                 "doctor",
+                "nurse",
                 "physician",
                 "health",
                 "medical",
@@ -3387,6 +3390,7 @@
                 "dollar",
                 "punctuation",
                 "question",
+                "questions",
                 "question mark"
             ],
             "dateAdded": ""
@@ -5169,6 +5173,7 @@
             "keywords": [
                 "person",
                 "question",
+                "questions",
                 "question mark",
                 "punctuation",
                 "help desk"
