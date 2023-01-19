@@ -707,6 +707,27 @@
             ],
             "dateAdded": ""
         }, {
+            "name": "books",
+            "keywords": [
+                "reading",
+                "read",
+                "library",
+                "info",
+                "information",
+                "student",
+                "education",
+                "academic",
+                "academics",
+                "learn",
+                "learning",
+                "author",
+                "writer",
+                "story",
+                "history",
+                "librarian"
+            ],
+            "dateAdded": ""
+        }, {
             "name": "bowl-noodles",
             "keywords": [
                 "food",
@@ -1209,22 +1230,6 @@
             "dateAdded": ""
         }, {
             "name": "chromosome",
-            "keywords": [
-                "health",
-                "medical",
-                "healthcare",
-                "health care",
-                "patient",
-                "patient care",
-                "science",
-                "biology",
-                "chemistry",
-                "academic",
-                "academics"
-            ],
-            "dateAdded": ""
-        }, {
-            "name": "chromosome_1",
             "keywords": [
                 "health",
                 "medical",
