@@ -661,6 +661,18 @@
             ],
             "dateAdded": ""
         }, {
+            "name": "blueprint",
+            "keywords": [
+                "plan",
+                "compass",
+                "construction",
+                "development",
+                "build",
+                "engineer",
+                "architect"
+            ],
+            "dateAdded": "2023-04-14"
+        }, {
             "name": "boardroom",
             "keywords": [
                 "room",
@@ -1070,6 +1082,19 @@
             ],
             "dateAdded": ""
         }, {
+            "name": "carver-hawkeye-arena",
+            "keywords": [
+                "sports",
+                "basketball",
+                "wrestling",
+                "volleyball",
+                "gymnastics",
+                "building",
+                "hawks",
+                "hawkeyes"
+            ],
+            "dateAdded": "2023-04-14"
+        }, {
             "name": "car-front",
             "keywords": [
                 "transportation",
@@ -1118,6 +1143,16 @@
                 "contact"
             ],
             "dateAdded": ""
+        }, {
+            "name": "cement-truck",
+            "keywords": [
+                "truck",
+                "construction",
+                "development",
+                "build",
+                "pour"
+            ],
+            "dateAdded": "2023-14-04"
         }, {
             "name": "chair",
             "keywords": [
@@ -1323,6 +1358,18 @@
             ],
             "dateAdded": "2022-12-05"
         }, {
+            "name": "classroom",
+            "keywords": [
+                "lecture",
+                "teacher",
+                "student",
+                "learning",
+                "instruction",
+                "presentation",
+                "audience"
+            ],
+            "dateAdded": "2023-14-04"
+        }, {
             "name": "clean-water",
             "keywords": [
                 "health",
@@ -1393,6 +1440,15 @@
                 "history"
             ],
             "dateAdded": ""
+        }, {
+            "name": "closed-captioning",
+            "keywords": [
+                "caption",
+                "deaf",
+                "video",
+                "audio"
+            ],
+            "dateAdded": "2023-14-04"
         }, {
             "name": "cloud",
             "keywords": [
@@ -1721,6 +1777,16 @@
             ],
             "dateAdded": ""
         }, {
+            "name": "crane",
+            "keywords": [
+                "lift",
+                "construction",
+                "development",
+                "build",
+                "place"
+            ],
+            "dateAdded": "2023-14-04"
+        }, {
             "name": "credit-card",
             "keywords": [
                 "business",
@@ -1838,6 +1904,15 @@
             ],
             "dateAdded": ""
         }, {
+            "name": "dinosaur",
+            "keywords": [
+                "t-rex",
+                "dino",
+                "monster",
+                "scary"
+            ],
+            "dateAdded": "2023-14-04"
+        }, {
             "name": "diploma",
             "keywords": [
                 "education",
@@ -1942,6 +2017,17 @@
                 "circle"
             ],
             "dateAdded": ""
+        }, {
+            "name": "dump-truck",
+            "keywords": [
+                "truck",
+                "load",
+                "haul",
+                "construction",
+                "development",
+                "build"
+            ],
+            "dateAdded": "2023-14-04"
         }, {
             "name": "doctor-case",
             "keywords": [
@@ -2207,6 +2293,15 @@
                 "medical device"
             ],
             "dateAdded": ""
+        }, {
+            "name": "excavator",
+            "keywords": [
+                "construction",
+                "dig",
+                "development",
+                "build"
+            ],
+            "dateAdded": "2023-14-04"
         }, {
             "name": "excited",
             "keywords": [
@@ -2534,6 +2629,15 @@
                 "bloom"
             ],
             "dateAdded": ""
+        }, {
+            "name": "focus",
+            "keywords": [
+                "Focal point",
+                "Spotlight",
+                "Target",
+                "Center"
+            ],
+            "dateAdded": "2023-14-04"
         }, {
             "name": "foot-injury",
             "keywords": [
@@ -3308,6 +3412,15 @@
             ],
             "dateAdded": ""
         }, {
+            "name": "high-five",
+            "keywords": [
+                "success",
+                "celebrate",
+                "accomplish",
+                "teamwork"
+            ],
+            "dateAdded": "2023-04-14"
+        }, {
             "name": "hospital",
             "keywords": [
                 "healthcare",
@@ -3616,6 +3729,14 @@
             ],
             "dateAdded": ""
         }, {
+            "name": "information",
+            "keywords": [
+                "info",
+                "advice",
+                "knowledge"
+            ],
+            "dateAdded": "2023-04-14"
+        }, {
             "name": "infusion-bag",
             "keywords": [
                 "health",
@@ -3713,6 +3834,19 @@
                 "star"
             ],
             "dateAdded": ""
+        }, {
+            "name": "journey-point-ab",
+            "keywords": [
+                "point a to b",
+                "path",
+                "adventure",
+                "travel",
+                "quest",
+                "trip",
+                "visit",
+                "trek"
+            ],
+            "dateAdded": "2023-04-14"
         }, {
             "name": "key",
             "keywords": [
@@ -3911,6 +4045,17 @@
                 "autumn"
             ],
             "dateAdded": ""
+        }, {
+            "name": "leadership",
+            "keywords": [
+                "pinnacle",
+                "climb",
+                "lead",
+                "overcome",
+                "conquer",
+                "hike"
+            ],
+            "dateAdded": "2023-04-14"
         }, {
             "name": "lecture-podium",
             "keywords": [
@@ -4870,6 +5015,28 @@
                 "air"
             ],
             "dateAdded": ""
+        }, {
+            "name": "paint-roller",
+            "keywords": [
+                "roller",
+                "construction",
+                "development",
+                "build",
+                "remodel",
+                "drip"
+            ],
+            "dateAdded": "2023-04-14"
+        }, {
+            "name": "paintbrush-flat",
+            "keywords": [
+                "brush",
+                "construction",
+                "development",
+                "build",
+                "remodel",
+                "drip"
+            ],
+            "dateAdded": "2023-04-14"
         }, {
             "name": "paintbrush",
             "keywords": [
@@ -6062,6 +6229,17 @@
             ],
             "dateAdded": "2022-12-05"
         }, {
+            "name": "road-closed",
+            "keywords": [
+                "closed",
+                "caution",
+                "traffic",
+                "construction",
+                "development",
+                "build"
+            ],
+            "dateAdded": "2023-04-14"
+        }, {
             "name": "robot",
             "keywords": [
                 "android",
@@ -7016,6 +7194,17 @@
             ],
             "dateAdded": ""
         }, {
+            "name": "teacher-student-interaction",
+            "keywords": [
+                "teacher",
+                "student",
+                "interaction",
+                "classroom",
+                "learning",
+                "instruction"
+            ],
+            "dateAdded": "2023-04-14"
+        }, {
             "name": "telephone",
             "keywords": [
                 "technology",
@@ -7387,6 +7576,17 @@
             ],
             "dateAdded": ""
         }, {
+            "name": "traffic-cone",
+            "keywords": [
+                "traffic",
+                "cone",
+                "construction",
+                "development",
+                "build",
+                "caution"
+            ],
+            "dateAdded": "2023-04-14"
+        }, {
             "name": "trans-inclusive",
             "keywords": [
                 "dei",
@@ -7452,6 +7652,19 @@
                 "trees"
             ],
             "dateAdded": ""
+        }, {
+            "name": "triangle",
+            "keywords": [
+                "measure",
+                "plan",
+                "construction",
+                "development",
+                "build",
+                "engineer",
+                "architect",
+                "math"
+            ],
+            "dateAdded": "2023-04-14"
         }, {
             "name": "trombone",
             "keywords": [
@@ -7846,6 +8059,13 @@
                 "waving"
             ],
             "dateAdded": ""
+        }, {
+            "name": "vr",
+            "keywords": [
+                "virtual reality",
+                "goggles"
+            ],
+            "dateAdded": "2023-04-14"
         }, {
             "name": "walking",
             "keywords": [
