@@ -6229,7 +6229,7 @@
             ],
             "dateAdded": "2022-12-05"
         }, {
-            "name": "road-closed",
+            "name": "road-closed-construction",
             "keywords": [
                 "closed",
                 "caution",
@@ -7653,7 +7653,7 @@
             ],
             "dateAdded": ""
         }, {
-            "name": "triangle",
+            "name": "triangle-measure",
             "keywords": [
                 "measure",
                 "plan",
@@ -8060,7 +8060,7 @@
             ],
             "dateAdded": ""
         }, {
-            "name": "vr",
+            "name": "vr-goggles",
             "keywords": [
                 "virtual reality",
                 "goggles"
