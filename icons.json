@@ -513,12 +513,12 @@
         }, {
             "name": "big-candle",
             "keywords": [
-                "flame",
-                "fire",
-                "light",
                 "drip",
-                "wax",
-                "marathon"
+                "fire",
+                "flame",
+                "light",
+                "marathon",
+                "wax"
             ],
             "dateAdded": "2023-9-8"
         }, {
@@ -1874,12 +1874,12 @@
         }, {
             "name": "dancing",
             "keywords": [
-                "music",
-                "marathon",
-                "party",
-                "celebration",
                 "celebrate",
-                "happy"
+                "celebration",
+                "happy",
+                "marathon",
+                "music",
+                "party"
             ],
             "dateAdded": "2023-9-8"
         },{
@@ -2414,12 +2414,12 @@
         }, {
             "name": "fax-machine",
             "keywords": [
+                "copy",
                 "facsimile",
-                "technology",
-                "tech",
                 "its",
                 "print",
-                "copy"
+                "tech",
+                "technology"
             ],
             "dateAdded": "2023-9-8"
         }, {
@@ -2776,16 +2776,16 @@
         }, {
             "name": "fundraising",
             "keywords": [
-                "money",
-                "funding",
                 "business",
-                "dontate",
-                "donor",
-                "tip",
                 "change",
-                "jar",
                 "coins",
-                "save"
+                "donor",
+                "dontate",
+                "funding",
+                "jar",
+                "money",
+                "save",
+                "tip"
             ],
             "dateAdded": "2023-9-8"
         }, {
@@ -3779,16 +3779,16 @@
         },  {
             "name": "inclement-weather",
             "keywords": [
-                "storm",
-                "rain",
-                "thunder",
-                "lightning",
-                "hail",
-                "wind",
-                "danger",
-                "cloud",
                 "bolt",
-                "warning"
+                "cloud",
+                "danger",
+                "hail",
+                "lightning",
+                "rain",
+                "storm",
+                "thunder",
+                "warning",
+                "wind"
             ],
             "dateAdded": "2023-9-8"
         }, {
@@ -7621,12 +7621,12 @@
         }, {
             "name": "tornado",
             "keywords": [
-                "storm",
-                "wind",
-                "danger",
-                "warning",
                 "cyclone",
-                "inclement"
+                "danger",
+                "inclement",
+                "storm",
+                "warning",
+                "wind"
             ],
             "dateAdded": "2023-9-8"
         }, {
@@ -8104,13 +8104,13 @@
         },  {
             "name": "volleyball",
             "keywords": [
-                "sport",
                 "athletics",
-                "fans",
-                "sporting",
                 "bounce",
+                "fans",
                 "recreation",
-                "spike"
+                "spike",
+                "sport",
+                "sporting"
             ],
             "dateAdded": "2023-9-8"
         }, {
