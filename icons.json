@@ -511,6 +511,17 @@
             ],
             "dateAdded": "2022-12-05"
         }, {
+            "name": "big-candle",
+            "keywords": [
+                "flame",
+                "fire",
+                "light",
+                "drip",
+                "wax",
+                "marathon"
+            ],
+            "dateAdded": "2023-9-8"
+        }, {
             "name": "bike",
             "keywords": [
                 "bicycle",
@@ -1861,6 +1872,17 @@
             ],
             "dateAdded": ""
         }, {
+            "name": "dancing",
+            "keywords": [
+                "music",
+                "marathon",
+                "party",
+                "celebration",
+                "celebrate",
+                "happy"
+            ],
+            "dateAdded": "2023-9-8"
+        },{
             "name": "data-transfer",
             "keywords": [
                 "technology",
@@ -2390,6 +2412,17 @@
             ],
             "dateAdded": "2022-12-05"
         }, {
+            "name": "fax-machine",
+            "keywords": [
+                "facsimile",
+                "technology",
+                "tech",
+                "its",
+                "print",
+                "copy"
+            ],
+            "dateAdded": "2023-9-8"
+        }, {
             "name": "feather",
             "keywords": [
                 "light",
@@ -2740,6 +2773,21 @@
                 "charger"
             ],
             "dateAdded": "2022-12-05"
+        }, {
+            "name": "fundraising",
+            "keywords": [
+                "money",
+                "funding",
+                "business",
+                "dontate",
+                "donor",
+                "tip",
+                "change",
+                "jar",
+                "coins",
+                "save"
+            ],
+            "dateAdded": "2023-9-8"
         }, {
             "name": "gaiter",
             "keywords": [
@@ -3728,6 +3776,21 @@
                 "events"
             ],
             "dateAdded": ""
+        },  {
+            "name": "inclement-weather",
+            "keywords": [
+                "storm",
+                "rain",
+                "thunder",
+                "lightning",
+                "hail",
+                "wind",
+                "danger",
+                "cloud",
+                "bolt",
+                "warning"
+            ],
+            "dateAdded": "2023-9-8"
         }, {
             "name": "information",
             "keywords": [
@@ -7556,6 +7619,17 @@
             ],
             "dateAdded": ""
         }, {
+            "name": "tornado",
+            "keywords": [
+                "storm",
+                "wind",
+                "danger",
+                "warning",
+                "cyclone",
+                "inclement"
+            ],
+            "dateAdded": "2023-9-8"
+        }, {
             "name": "tractor",
             "keywords": [
                 "farm",
@@ -8027,6 +8101,18 @@
                 "people"
             ],
             "dateAdded": ""
+        },  {
+            "name": "volleyball",
+            "keywords": [
+                "sport",
+                "athletics",
+                "fans",
+                "sporting",
+                "bounce",
+                "recreation",
+                "spike"
+            ],
+            "dateAdded": "2023-9-8"
         }, {
             "name": "volume",
             "keywords": [
