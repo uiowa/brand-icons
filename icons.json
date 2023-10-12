@@ -3,60 +3,60 @@
         {
             "name": "24hour-clock",
             "keywords": [
+                "24/7",
                 "clock",
-                "time",
-                "timer",
                 "hours",
-                "24/7"
+                "time",
+                "timer"
             ],
             "dateAdded": ""
         }, {
             "name": "24hour-phone",
             "keywords": [
-                "phone",
-                "clock",
-                "time",
-                "timer",
+                "appointment",
                 "call",
                 "calling",
+                "clock",
                 "office",
+                "phone",
                 "tech",
                 "technology",
-                "appointment"
+                "time",
+                "timer"
             ],
             "dateAdded": ""
         }, {
             "name": "a-plus-paper",
             "keywords": [
-                "education",
                 "academic",
                 "academics",
+                "education",
                 "exam",
-                "test",
                 "grade",
                 "learn",
                 "learning",
                 "student",
+                "student records",
                 "students",
-                "student records"
+                "test"
             ],
             "dateAdded": ""
         }, {
             "name": "air-quality",
             "keywords": [
                 "air",
-                "quality",
-                "comfortable",
-                "warning",
-                "danger",
-                "climate",
                 "air quality",
+                "climate",
+                "comfortable",
+                "crisis",
+                "danger",
+                "exclamation",
                 "exclamation mark",
                 "exclamation point",
-                "exclamation",
                 "punctuation",
-                "crisis",
-                "risk"
+                "quality",
+                "risk",
+                "warning"
             ],
             "dateAdded": ""
         }, {
@@ -422,6 +422,7 @@
                 "musical",
                 "musician",
                 "dance",
+                "dancing",
                 "musical instrument",
                 "band",
                 "concert",
@@ -726,6 +727,7 @@
                 "musical",
                 "percussion",
                 "dance",
+                "dancing",
                 "concert"
             ],
             "dateAdded": ""
@@ -1354,6 +1356,7 @@
                 "musical",
                 "musician",
                 "dance",
+                "dancing",
                 "musical instrument",
                 "band",
                 "concert",
@@ -1872,10 +1875,37 @@
             ],
             "dateAdded": ""
         }, {
+            "name": "dance-performance",
+            "keywords": [
+                "ballet",
+                "dance",
+                "dancing",
+                "gala",
+                "music",
+                "perform",
+                "performance",
+                "pointe"
+            ],
+            "dateAdded": "2023-10-12"
+        },{
+            "name": "dance-shoes",
+            "keywords": [
+                "ballet",
+                "dance",
+                "dancing",
+                "gala",
+                "music",
+                "perform",
+                "performance",
+                "pointe"
+            ],
+            "dateAdded": "2023-10-12"
+        },{
             "name": "dancing",
             "keywords": [
                 "celebrate",
                 "celebration",
+                "dance",
                 "happy",
                 "marathon",
                 "music",
@@ -1964,6 +1994,7 @@
             "name": "disco-ball",
             "keywords": [
                 "dance",
+                "dancing",
                 "ball",
                 "ballroom",
                 "light",
@@ -1998,6 +2029,7 @@
                 "musical",
                 "drum",
                 "dance",
+                "dancing",
                 "africa",
                 "concert",
                 "percussion",
@@ -2959,6 +2991,7 @@
                 "musician",
                 "sing",
                 "dance",
+                "dancing",
                 "stringed",
                 "strings",
                 "chord",
@@ -4777,6 +4810,7 @@
                 "sing",
                 "song",
                 "dance",
+                "dancing",
                 "entertainment",
                 "concert",
                 "venue",
@@ -5530,6 +5564,7 @@
                 "musical",
                 "musician",
                 "dance",
+                "dancing",
                 "musical instrument",
                 "band",
                 "concert",
@@ -6412,6 +6447,7 @@
                 "musical",
                 "musician",
                 "dance",
+                "dancing",
                 "musical instrument",
                 "band",
                 "concert",
@@ -7746,8 +7782,8 @@
                 "musical",
                 "musician",
                 "dance",
+                "dancing",
                 "musical instrument",
-                "band",
                 "concert",
                 "instrument",
                 "entertainment",
@@ -7780,8 +7816,8 @@
                 "musical",
                 "musician",
                 "dance",
+                "dancing",
                 "musical instrument",
-                "band",
                 "concert",
                 "instrument",
                 "entertainment",
@@ -7801,9 +7837,8 @@
                 "musical",
                 "musician",
                 "dance",
+                "dancing",
                 "musical instrument",
-                "band",
-                "concert",
                 "instrument",
                 "entertainment",
                 "marching band",
@@ -8017,13 +8052,12 @@
                 "musician",
                 "sing",
                 "dance",
+                "dancing",
                 "stringed",
                 "strings",
                 "chord",
                 "chords",
                 "musical instrument",
-                "band",
-                "concert",
                 "instrument",
                 "entertainment",
                 "band",
