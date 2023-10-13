@@ -1842,16 +1842,16 @@
         }, {
             "name": "daisy",
             "keywords": [
-                "flower",
-                "plant",
-                "nature",
-                "spring",
-                "watered",
-                "vegetation",
-                "outdoors",
                 "flora",
+                "flower",
                 "garden",
-                "gardening"
+                "gardening",
+                "nature",
+                "outdoors",
+                "plant",
+                "spring",
+                "vegetation",
+                "watered"
             ],
             "dateAdded": ""
         }, {
@@ -1867,7 +1867,7 @@
                 "pointe"
             ],
             "dateAdded": "2023-10-12"
-        },{
+        }, {
             "name": "dance-shoes",
             "keywords": [
                 "ballet",
@@ -1880,7 +1880,7 @@
                 "pointe"
             ],
             "dateAdded": "2023-10-12"
-        },{
+        }, {
             "name": "dancing",
             "keywords": [
                 "celebrate",
@@ -1892,91 +1892,91 @@
                 "party"
             ],
             "dateAdded": "2023-9-8"
-        },{
+        }, {
             "name": "data-transfer",
             "keywords": [
-                "technology",
-                "its",
-                "tech",
-                "recycle",
                 "arrow",
                 "arrows",
+                "change",
+                "its",
                 "loop",
                 "process",
-                "change"
+                "recycle",
+                "tech",
+                "technology"
             ],
             "dateAdded": ""
         }, {
             "name": "detergent",
             "keywords": [
-                "wash",
-                "clothes",
+                "bottle",
                 "clean",
-                "sanitation",
-                "hygiene",
                 "cleaner",
                 "cleaning",
-                "washer",
-                "washing machine",
                 "cleanse",
-                "bottle",
+                "clothes",
                 "dorm",
+                "home",
+                "hygiene",
                 "living",
-                "home"
+                "sanitation",
+                "wash",
+                "washer",
+                "washing machine"
             ],
             "dateAdded": "2022-05-24"
         }, {
             "name": "digital-textbook",
             "keywords": [
-                "books",
                 "book",
-                "research",
+                "books",
+                "librarian",
                 "library",
-                "librarian"
+                "research"
             ],
             "dateAdded": ""
         }, {
             "name": "dinosaur",
             "keywords": [
-                "t-rex",
                 "dino",
                 "monster",
-                "scary"
+                "scary",
+                "t-rex"
             ],
             "dateAdded": "2023-14-04"
         }, {
             "name": "diploma",
             "keywords": [
-                "education",
                 "academic",
                 "academics",
+                "alum",
+                "alumni",
+                "education",
                 "graduate",
-                "student",
-                "students",
                 "learn",
                 "learning",
                 "major",
-                "alumni",
-                "alum"
+                "student",
+                "students"
             ],
             "dateAdded": ""
         }, {
             "name": "directional-sign",
             "keywords": [
-                "signage",
                 "directions",
+                "point",
+                "signage",
                 "signpost",
-                "wayfinding",
-                "point"
+                "wayfinding"
             ],
             "dateAdded": ""
         }, {
             "name": "disco-ball",
             "keywords": [
-                "dance",
-                "dancing",
                 "ball",
                 "ballroom",
+                "dance",
+                "dancing",
                 "light",
                 "sparkle"
             ],
@@ -1984,154 +1984,142 @@
         }, {
             "name": "disinfecting-wipes",
             "keywords": [
+                "clean",
+                "covid",
+                "cross",
+                "disinfect",
                 "health",
-                "medical",
-                "healthcare",
                 "health care",
+                "healthcare",
+                "healthy",
+                "hygiene",
+                "medical",
+                "medical cross",
                 "patient",
                 "patient care",
-                "healthy",
-                "clean",
-                "sanitation",
-                "hygiene",
-                "cross",
-                "medical cross",
                 "sanitary",
-                "sanitize",
-                "covid",
-                "disinfect"
+                "sanitation",
+                "sanitize"
             ],
             "dateAdded": ""
         }, {
             "name": "djembe-drum",
             "keywords": [
-                "music",
-                "musical",
-                "drum",
-                "dance",
-                "dancing",
                 "africa",
-                "concert",
-                "percussion",
-                "musical instrument",
                 "band",
                 "concert",
+                "dance",
+                "dancing",
+                "drum",
+                "entertainment",
                 "instrument",
-                "entertainment"
+                "music",
+                "musical",
+                "musical instrument",
+                "percussion"
             ],
             "dateAdded": ""
         }, {
             "name": "dna",
             "keywords": [
-                "science",
-                "biology",
-                "chemistry",
                 "academic",
                 "academics",
-                "genetic",
-                "genes",
+                "biology",
+                "chemistry",
                 "gene",
+                "genes",
+                "genetic",
+                "helix",
                 "life",
                 "live",
-                "helix"
+                "science"
             ],
             "dateAdded": ""
         }, {
             "name": "do-not-touch",
             "keywords": [
-                "no",
-                "hand",
-                "finger",
-                "point",
-                "touch",
-                "do not",
-                "symbol",
-                "prohibited",
+                "circle",
                 "contact",
-                "circle"
+                "do not",
+                "finger",
+                "hand",
+                "no",
+                "point",
+                "prohibited",
+                "symbol",
+                "touch"
             ],
             "dateAdded": ""
         }, {
-            "name": "dump-truck",
-            "keywords": [
-                "truck",
-                "load",
-                "haul",
-                "construction",
-                "development",
-                "build"
-            ],
-            "dateAdded": "2023-14-04"
-        }, {
             "name": "doctor-case",
             "keywords": [
+                "cross",
                 "health",
-                "medical",
-                "healthcare",
                 "health care",
+                "healthcare",
+                "medical",
+                "medical cross",
                 "patient",
                 "patient care",
                 "physician",
-                "suitcase",
-                "cross",
-                "medical cross"
+                "suitcase"
             ],
             "dateAdded": ""
         }, {
             "name": "documents-files",
             "keywords": [
-                "paper",
-                "technology",
-                "its",
-                "stack",
-                "fold",
                 "corner",
+                "fold",
+                "its",
+                "paper",
+                "stack",
+                "technology",
                 "zip"
             ],
             "dateAdded": ""
         }, {
             "name": "dollar-bill",
             "keywords": [
-                "money",
-                "funding",
+                "business",
                 "cash",
                 "currency",
-                "business",
+                "dollar",
+                "dollar sign",
                 "finance",
                 "financial",
+                "funding",
                 "market",
-                "dollar sign",
-                "dollar"
+                "money"
             ],
             "dateAdded": ""
         }, {
             "name": "dollar-sign",
             "keywords": [
-                "money",
-                "funding",
+                "business",
                 "cash",
                 "currency",
-                "business",
+                "dollar",
+                "dollar sign",
                 "finance",
                 "financial",
+                "funding",
                 "market",
-                "dollar sign",
-                "dollar"
+                "money"
             ],
             "dateAdded": ""
         }, {
             "name": "donate",
             "keywords": [
-                "money",
+                "donating",
+                "donor",
                 "funding",
-                "heart",
                 "hand",
                 "hands",
-                "donor",
-                "donating",
+                "heart",
+                "money",
+                "thank",
                 "thank you",
-                "thanks",
-                "thank"
+                "thanks"
             ],
             "dateAdded": ""
         }, {
@@ -2150,73 +2138,84 @@
         }, {
             "name": "download",
             "keywords": [
-                "technology",
+                "export",
                 "its",
                 "save",
-                "export",
+                "technology",
                 "transfer"
             ],
             "dateAdded": ""
         }, {
             "name": "dragonfly",
             "keywords": [
-                "insect",
-                "wings",
-                "summer",
                 "animal",
-                "bug"
+                "bug",
+                "insect",
+                "summer",
+                "wings"
             ],
             "dateAdded": ""
         }, {
             "name": "drama-masks",
             "keywords": [
-                "theatre",
-                "theater",
-                "play",
-                "musical",
                 "dramatic",
+                "face",
                 "happy",
-                "smile",
+                "musical",
+                "play",
                 "sad",
-                "face"
+                "smile",
+                "theater",
+                "theatre"
             ],
             "dateAdded": ""
         }, {
             "name": "drum-major",
             "keywords": [
-                "marching band",
                 "band",
+                "entertainment",
+                "horn",
+                "marching band",
                 "music",
                 "musical",
                 "musician",
-                "entertainment",
-                "horn",
                 "percussion"
             ],
             "dateAdded": "2022-12-05"
         }, {
+            "name": "dump-truck",
+            "keywords": [
+                "build",
+                "construction",
+                "development",
+                "haul",
+                "load",
+                "truck"
+            ],
+            "dateAdded": "2023-14-04"
+        }, {
             "name": "ear",
             "keywords": [
-                "human",
-                "organ",
                 "body",
-                "person",
                 "hear",
                 "heard",
                 "hearing",
-                "listen"
+                "human",
+                "listen",
+                "organ",
+                "person"
             ],
             "dateAdded": ""
         }, {
             "name": "earth",
             "keywords": [
-                "globe",
-                "continents",
-                "ocean",
-                "planet",
                 "astronomy",
                 "climate",
+                "continents",
                 "global",
+                "globe",
+                "ocean",
+                "planet",
                 "world"
             ],
             "dateAdded": ""
@@ -2224,144 +2223,143 @@
             "name": "easel",
             "keywords": [
                 "art",
+                "art work",
                 "artist",
                 "artwork",
-                "art work",
-                "painting",
-                "drawing",
-                "supplies",
-                "school supplies",
                 "design",
-                "workspace",
-                "table",
                 "desk",
+                "drawing",
                 "engineer",
-                "engineering"
+                "engineering",
+                "painting",
+                "school supplies",
+                "supplies",
+                "table",
+                "workspace"
             ],
             "dateAdded": ""
         }, {
             "name": "emergency-room",
             "keywords": [
-                "health",
-                "medical",
-                "healthcare",
-                "health care",
-                "patient",
-                "patient care",
-                "hospital",
-                "emergency",
-                "help",
-                "door",
                 "ER",
-                "cross",
-                "medical cross",
                 "arrow",
-                "doctor"
+                "cross",
+                "doctor",
+                "door",
+                "emergency",
+                "health",
+                "health care",
+                "healthcare",
+                "help",
+                "hospital",
+                "medical",
+                "medical cross",
+                "patient",
+                "patient care"
             ],
             "dateAdded": ""
         }, {
             "name": "emotions",
             "keywords": [
-                "sad",
-                "sadness",
                 "anger",
-                "frustration",
                 "angry",
-                "person",
+                "emoji",
                 "face",
                 "faces",
+                "frustration",
                 "mental health",
-                "emoji"
+                "person",
+                "sad",
+                "sadness"
             ],
             "dateAdded": "2022-12-05"
         }, {
             "name": "empty-battery",
             "keywords": [
-                "lightning bolt",
-                "lightning",
-                "electricity",
-                "electric",
                 "bolt",
-                "low",
-                "low power",
+                "charge",
+                "charger",
+                "charging",
                 "drain",
                 "drained",
+                "electric",
+                "electricity",
+                "lightning",
+                "lightning bolt",
+                "low",
+                "low power",
                 "power",
-                "charge",
-                "charging",
-                "power",
-                "sustainability",
-                "charger"
+                "sustainability"
             ],
             "dateAdded": "2022-12-05"
         }, {
             "name": "ems",
             "keywords": [
+                "ER",
+                "doctor",
+                "emergency",
                 "health",
-                "medical",
-                "healthcare",
                 "health care",
+                "healthcare",
+                "help",
+                "hospital",
+                "medical",
                 "patient",
                 "patient care",
-                "hospital",
-                "emergency",
-                "help",
-                "ER",
-                "symbol",
-                "doctor"
+                "symbol"
             ],
             "dateAdded": ""
         }, {
             "name": "exam-bed-table",
             "keywords": [
+                "doctor",
+                "equipment",
                 "health",
-                "medical",
-                "healthcare",
                 "health care",
+                "healthcare",
+                "medical",
+                "medical device",
+                "medical equipment",
                 "patient",
                 "patient care",
-                "doctor",
-                "pillow",
-                "equipment",
-                "medical equipment",
-                "medical device"
+                "pillow"
             ],
             "dateAdded": ""
         }, {
             "name": "excavator",
             "keywords": [
+                "build",
                 "construction",
-                "dig",
                 "development",
-                "build"
+                "dig"
             ],
             "dateAdded": "2023-14-04"
         }, {
             "name": "excited",
             "keywords": [
+                "emoji",
+                "face",
                 "happy",
-                "smile",
-                "smiling",
+                "laugh",
                 "laughing",
                 "person",
-                "face",
-                "laugh",
-                "emoji"
+                "smile",
+                "smiling"
             ],
             "dateAdded": ""
         }, {
             "name": "eye",
             "keywords": [
+                "body",
+                "eyeball",
                 "human",
+                "look",
+                "looking",
                 "organ",
                 "person",
-                "body",
-                "see",
-                "seeing",
-                "look",
-                "eyeball",
                 "pupil",
-                "looking"
+                "see",
+                "seeing"
             ],
             "dateAdded": ""
         }, {
