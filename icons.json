@@ -3027,34 +3027,33 @@
         }, {
             "name": "hair-brush",
             "keywords": [
-                "personal",
+                "comb",
                 "hair",
-                "comb"
+                "personal"
             ],
             "dateAdded": ""
         }, {
             "name": "hair-comb",
             "keywords": [
-                "personal",
+                "brush",
                 "hair",
-                "brush"
+                "personal"
             ],
             "dateAdded": ""
         }, {
             "name": "half-battery",
             "keywords": [
-                "lightning bolt",
-                "lightning",
-                "electricity",
-                "electric",
                 "bolt",
-                "power",
-                "charged",
                 "charge",
+                "charged",
+                "charger",
                 "charging",
+                "electric",
+                "electricity",
+                "lightning",
+                "lightning bolt",
                 "power",
-                "sustainability",
-                "charger"
+                "sustainability"
             ],
             "dateAdded": "2022-12-05"
         }, {
@@ -3062,153 +3061,153 @@
             "keywords": [
                 "angel",
                 "fly",
-                "wings",
-                "halo"
+                "halo",
+                "wings"
             ],
             "dateAdded": ""
         }, {
             "name": "hammer",
             "keywords": [
-                "tool",
-                "engineer",
-                "engineering",
                 "architecture",
                 "build",
-                "tools",
-                "fix",
                 "carpentry",
-                "improvement"
+                "engineer",
+                "engineering",
+                "fix",
+                "improvement",
+                "tool",
+                "tools"
             ],
             "dateAdded": ""
         }, {
             "name": "hammer-wrench",
             "keywords": [
-                "tool",
-                "engineer",
-                "engineering",
                 "architecture",
                 "build",
-                "tools",
-                "fix",
                 "carpentry",
-                "improvement"
+                "engineer",
+                "engineering",
+                "fix",
+                "improvement",
+                "tool",
+                "tools"
             ],
             "dateAdded": ""
         }, {
             "name": "hancher-auditorium",
             "keywords": [
-                "campus",
-                "building",
-                "buildings",
-                "iowa city",
+                "architecture",
                 "art",
                 "artist",
                 "arts",
-                "theatre",
+                "building",
+                "buildings",
+                "campus",
+                "iowa city",
                 "theater",
-                "architecture"
+                "theatre"
             ],
             "dateAdded": ""
         }, {
             "name": "hand-coin",
             "keywords": [
-                "hand",
-                "money",
-                "funding",
                 "business",
+                "change",
+                "currency",
                 "donate",
                 "donor",
-                "fee",
-                "pay",
-                "payment",
                 "exchange",
-                "currency",
-                "change"
+                "fee",
+                "funding",
+                "hand",
+                "money",
+                "pay",
+                "payment"
             ],
             "dateAdded": ""
         }, {
             "name": "hand-sanitizing",
             "keywords": [
+                "coronavirus",
+                "covid",
+                "covid-19",
                 "health",
-                "medical",
-                "healthcare",
                 "health care",
+                "healthcare",
+                "infection",
+                "medical",
                 "patient",
                 "patient care",
                 "sanitary",
-                "sanitize",
-                "covid",
-                "coronavirus",
-                "covid-19",
-                "infection"
+                "sanitize"
             ],
             "dateAdded": ""
         }, {
             "name": "hand-washing",
             "keywords": [
+                "coronavirus",
+                "covid",
+                "covid-19",
                 "health",
-                "medical",
-                "healthcare",
                 "health care",
+                "healthcare",
+                "infection",
+                "medical",
                 "patient",
                 "patient care",
                 "sanitary",
-                "sanitize",
-                "covid",
-                "coronavirus",
-                "covid-19",
-                "infection"
+                "sanitize"
             ],
             "dateAdded": ""
         }, {
             "name": "hand-writing-with-pen",
             "keywords": [
-                "writing",
-                "education",
                 "academic",
                 "academics",
-                "learning",
-                "learn",
-                "student",
-                "students",
-                "pencil",
-                "pen",
-                "body",
-                "hand",
-                "exam",
-                "test",
-                "grade",
                 "author",
-                "writer",
+                "body",
+                "education",
                 "engineer",
                 "engineering",
-                "handwriting"
+                "exam",
+                "grade",
+                "hand",
+                "handwriting",
+                "learn",
+                "learning",
+                "pen",
+                "pencil",
+                "student",
+                "students",
+                "test",
+                "writer",
+                "writing"
             ],
             "dateAdded": ""
         }, {
             "name": "handicap",
             "keywords": [
+                "access",
+                "accessibility",
+                "accessible",
                 "dei",
                 "disability",
-                "accessibility",
-                "access",
-                "accessible",
-                "wheelchair",
+                "diversity",
                 "symbol",
-                "diversity"
+                "wheelchair"
             ],
             "dateAdded": ""
         }, {
             "name": "handshake",
             "keywords": [
-                "hand",
-                "people",
-                "friends",
-                "deal",
-                "dealing",
                 "agree",
                 "agreement",
+                "deal",
+                "dealing",
+                "friends",
+                "hand",
                 "hand shake",
+                "people",
                 "shaking hands",
                 "trust"
             ],
@@ -3216,51 +3215,51 @@
         }, {
             "name": "happy",
             "keywords": [
-                "person",
-                "smiling",
-                "face",
-                "smiley",
-                "excited",
                 "emoji",
-                "smile"
+                "excited",
+                "face",
+                "person",
+                "smile",
+                "smiley",
+                "smiling"
             ],
             "dateAdded": ""
         }, {
             "name": "head",
             "keywords": [
-                "person",
                 "body",
-                "face"
+                "face",
+                "person"
             ],
             "dateAdded": ""
         }, {
             "name": "headphones",
             "keywords": [
+                "earbuds",
+                "earphones",
+                "head phones",
                 "listen",
+                "loud",
                 "music",
                 "musical",
-                "head phones",
-                "earbuds",
+                "podcast",
                 "sound",
-                "earphones",
-                "volume",
-                "loud",
                 "streaming",
-                "podcast"
+                "volume"
             ],
             "dateAdded": ""
         }, {
             "name": "healthcare-professional",
             "keywords": [
                 "doctor",
-                "nurse",
-                "physician",
                 "health",
-                "medical",
-                "healthcare",
                 "health care",
+                "healthcare",
+                "medical",
+                "nurse",
                 "patient",
                 "patient care",
+                "physician",
                 "stethoscope"
             ],
             "dateAdded": ""
@@ -3268,14 +3267,14 @@
             "name": "healthcare-professional-female",
             "keywords": [
                 "doctor",
-                "nurse",
-                "physician",
                 "health",
-                "medical",
-                "healthcare",
                 "health care",
+                "healthcare",
+                "medical",
+                "nurse",
                 "patient",
                 "patient care",
+                "physician",
                 "stethoscope"
             ],
             "dateAdded": ""
@@ -3283,502 +3282,491 @@
             "name": "healthcare-professional-male",
             "keywords": [
                 "doctor",
-                "nurse",
-                "physician",
                 "health",
-                "medical",
-                "healthcare",
                 "health care",
+                "healthcare",
+                "medical",
+                "nurse",
                 "patient",
                 "patient care",
+                "physician",
                 "stethoscope"
             ],
             "dateAdded": ""
         }, {
             "name": "health-insurance",
             "keywords": [
-                "health",
-                "medical",
-                "healthcare",
-                "health care",
-                "patient",
-                "patient care",
-                "hospital",
-                "doctor",
+                "appointment",
                 "bill",
-                "insurance",
                 "cross",
+                "doctor",
+                "health",
+                "health care",
+                "healthcare",
+                "hospital",
+                "insurance",
+                "medical",
                 "medical cross",
-                "appointment"
+                "patient",
+                "patient care"
             ],
             "dateAdded": ""
         }, {
             "name": "hearing-able",
             "keywords": [
+                "access",
+                "accessibility",
+                "accessible",
+                "deaf",
                 "dei",
                 "disability",
                 "diversity",
-                "sound",
-                "deaf",
-                "accessibility",
-                "access",
-                "accessible"
+                "sound"
             ],
             "dateAdded": ""
         }, {
             "name": "hearing-aid",
             "keywords": [
                 "access",
-                "accessible",
                 "accessibility",
+                "accessible",
                 "assistive",
                 "assistive device",
+                "deaf",
                 "dei",
                 "disability",
                 "diversity",
-                "sound",
-                "deaf",
+                "ear",
                 "hear",
                 "hearing",
-                "technology",
                 "medical equipment",
-                "ear",
+                "sound",
+                "speak",
                 "speech",
-                "speak"
+                "technology"
             ],
             "dateAdded": ""
         }, {
             "name": "hearing-impaired",
             "keywords": [
+                "access",
+                "accessibility",
+                "accessible",
+                "deaf",
                 "dei",
                 "disability",
                 "diversity",
-                "sound",
-                "deaf",
-                "accessibility",
-                "access",
-                "accessible"
+                "sound"
             ],
             "dateAdded": ""
         }, {
             "name": "heart",
             "keywords": [
-                "heart attack",
                 "body",
-                "organ",
-                "vital",
-                "healthcare",
                 "health care",
+                "healthcare",
+                "heart attack",
+                "organ",
                 "patient",
                 "patient care",
-                "health care",
-                "patient",
-                "patient care"
+                "vital"
             ],
             "dateAdded": ""
         }, {
             "name": "heart-break",
             "keywords": [
+                "broken",
+                "broken heart",
+                "health",
+                "health care",
+                "healthcare",
+                "heart",
                 "heart attack",
                 "heartbroken",
-                "heart",
-                "health",
-                "medical",
-                "healthcare",
-                "health care",
-                "patient",
-                "patient care",
-                "sick",
                 "hospital",
                 "love",
-                "broken heart",
-                "broken"
+                "medical",
+                "patient",
+                "patient care",
+                "sick"
             ],
             "dateAdded": ""
         }, {
             "name": "heartbeat",
             "keywords": [
-                "heart attack",
                 "body",
-                "organ",
-                "vital",
-                "healthcare",
                 "health care",
+                "healthcare",
+                "heart attack",
+                "organ",
                 "patient",
                 "patient care",
-                "health care",
-                "patient",
-                "patient care"
+                "vital"
             ],
             "dateAdded": ""
         }, {
             "name": "heart_1",
             "keywords": [
-                "heart attack",
                 "health",
-                "medical",
-                "healthcare",
                 "health care",
-                "patient",
-                "patient care",
-                "sick",
+                "healthcare",
+                "heart attack",
                 "hospital",
                 "love",
-                "health",
                 "medical",
-                "health care",
                 "patient",
-                "patient care"
+                "patient care",
+                "sick"
             ],
             "dateAdded": ""
         }, {
             "name": "helicopter",
             "keywords": [
-                "transportation",
+                "emergency",
                 "fly",
                 "flying",
-                "rotate",
-                "emergency",
-                "landing",
                 "land",
+                "landing",
+                "rotate",
+                "transportation",
                 "vehicle"
             ],
             "dateAdded": ""
         }, {
             "name": "herbal-medicine",
             "keywords": [
-                "plant",
-                "nature",
-                "vegetation",
-                "outdoors",
+                "flower",
+                "garden",
+                "gardening",
+                "health",
+                "health care",
+                "healthcare",
+                "illness",
                 "leaf",
                 "leaves",
-                "health",
                 "medical",
-                "healthcare",
-                "healthcare",
-                "flower",
+                "nature",
+                "outdoors",
+                "plant",
                 "sick",
-                "illness",
-                "garden",
-                "gardening"
+                "vegetation"
             ],
             "dateAdded": ""
         }, {
             "name": "high-five",
             "keywords": [
-                "success",
-                "celebrate",
                 "accomplish",
+                "celebrate",
+                "success",
                 "teamwork"
             ],
             "dateAdded": "2023-04-14"
         }, {
             "name": "hospital",
             "keywords": [
-                "healthcare",
-                "health care",
-                "patient",
-                "patient care",
-                "health",
-                "medical",
-                "uihc",
-                "emergency room",
-                "emergency",
-                "sick",
-                "cross",
-                "medical cross",
+                "architecture",
                 "building",
                 "buildings",
                 "campus",
-                "architecture"
+                "cross",
+                "emergency",
+                "emergency room",
+                "health",
+                "health care",
+                "healthcare",
+                "medical",
+                "medical cross",
+                "patient",
+                "patient care",
+                "sick",
+                "uihc"
             ],
             "dateAdded": ""
         }, {
             "name": "hospital-bill-checklist",
             "keywords": [
-                "health",
-                "medical",
-                "healthcare",
-                "health care",
-                "patient",
-                "patient care",
-                "emergency",
-                "insurance",
-                "bill",
-                "payment",
-                "paying",
-                "currency",
-                "cross",
-                "medical cross",
-                "checkmark",
                 "approve",
                 "approved",
-                "checked off",
+                "bill",
                 "check",
-                "todo",
-                "medical bill"
+                "checked off",
+                "checkmark",
+                "cross",
+                "currency",
+                "emergency",
+                "health",
+                "health care",
+                "healthcare",
+                "insurance",
+                "medical",
+                "medical bill",
+                "medical cross",
+                "patient",
+                "patient care",
+                "paying",
+                "payment",
+                "todo"
             ],
             "dateAdded": ""
         }, {
             "name": "hospital-bill-payment",
             "keywords": [
+                "bill",
+                "cross",
+                "currency",
+                "dollar",
+                "dollar sign",
+                "emergency",
                 "health",
-                "medical",
-                "healthcare",
                 "health care",
+                "healthcare",
+                "insurance",
+                "medical",
+                "medical cross",
                 "patient",
                 "patient care",
-                "emergency",
-                "insurance",
-                "bill",
-                "payment",
                 "paying",
-                "currency",
-                "cross",
-                "medical cross",
-                "dollar sign",
-                "dollar"
+                "payment"
             ],
             "dateAdded": ""
         }, {
             "name": "hospital-bill-question",
             "keywords": [
+                "bill",
+                "cross",
+                "currency",
+                "dollar",
+                "dollar sign",
+                "emergency",
                 "health",
-                "medical",
-                "healthcare",
                 "health care",
+                "healthcare",
+                "insurance",
+                "medical",
+                "medical cross",
                 "patient",
                 "patient care",
-                "emergency",
-                "insurance",
-                "bill",
-                "payment",
                 "paying",
-                "currency",
-                "cross",
-                "medical cross",
-                "dollar sign",
-                "dollar",
+                "payment",
                 "punctuation",
                 "question",
-                "questions",
-                "question mark"
+                "question mark",
+                "questions"
             ],
             "dateAdded": ""
         }, {
             "name": "hourglass",
             "keywords": [
-                "time",
-                "timer",
                 "clock",
                 "countdown",
+                "history",
                 "hour",
+                "its",
+                "loading",
                 "remaining",
                 "sand",
-                "loading",
                 "technology",
-                "its",
-                "history"
+                "time",
+                "timer"
             ],
             "dateAdded": ""
         }, {
             "name": "house",
             "keywords": [
-                "home",
-                "housing",
-                "tenant",
-                "iowa city",
-                "city",
                 "architecture",
                 "buildings",
                 "campus",
+                "city",
+                "home",
+                "housing",
+                "iowa city",
                 "rent",
-                "rental"
+                "rental",
+                "tenant"
             ],
             "dateAdded": ""
         }, {
             "name": "hummingbird",
             "keywords": [
-                "bird",
                 "animal",
+                "bird",
                 "buzz",
-                "wings",
                 "fly",
-                "hover"
+                "hover",
+                "wings"
             ],
             "dateAdded": ""
         }, {
             "name": "ice-skate",
             "keywords": [
-                "recreation",
-                "sports",
+                "ankle",
                 "athletics",
+                "body",
                 "exercise",
                 "fitness",
-                "skating",
-                "ice skating",
-                "shoe",
                 "foot",
-                "ankle",
-                "body"
+                "ice skating",
+                "recreation",
+                "shoe",
+                "skating",
+                "sports"
             ],
             "dateAdded": ""
         }, {
             "name": "id-badge",
             "keywords": [
+                "badge",
+                "doctor",
                 "health",
-                "medical",
                 "health care",
+                "identification",
+                "medical",
                 "patient",
                 "patient care",
-                "uihc",
-                "doctor",
-                "identification",
-                "badge",
-                "person"
+                "person",
+                "uihc"
             ],
             "dateAdded": ""
         }, {
             "name": "id-badge-fellow",
             "keywords": [
+                "badge",
+                "doctor",
                 "health",
-                "medical",
                 "health care",
+                "identification",
+                "medical",
                 "patient",
                 "patient care",
-                "uihc",
-                "doctor",
-                "identification",
-                "badge",
-                "person"
+                "person",
+                "uihc"
             ],
             "dateAdded": ""
         }, {
             "name": "id-badge-nurse",
             "keywords": [
+                "badge",
+                "doctor",
                 "health",
-                "medical",
                 "health care",
+                "identification",
+                "medical",
                 "patient",
                 "patient care",
-                "uihc",
-                "doctor",
-                "identification",
-                "badge",
-                "person"
+                "person",
+                "uihc"
             ],
             "dateAdded": ""
         }, {
             "name": "id-badge-pediatrics",
             "keywords": [
+                "badge",
+                "doctor",
                 "health",
-                "medical",
                 "health care",
+                "identification",
+                "medical",
                 "patient",
                 "patient care",
-                "uihc",
-                "doctor",
-                "identification",
-                "badge",
+                "pediatrician",
                 "person",
-                "pediatrician"
+                "uihc"
             ],
             "dateAdded": ""
         }, {
             "name": "id-badge-physician",
             "keywords": [
+                "badge",
+                "doctor",
                 "health",
-                "medical",
                 "health care",
+                "identification",
+                "medical",
                 "patient",
                 "patient care",
-                "uihc",
-                "doctor",
-                "identification",
-                "badge",
-                "person"
+                "person",
+                "uihc"
             ],
             "dateAdded": ""
         }, {
             "name": "id-badge-provider",
             "keywords": [
+                "badge",
+                "doctor",
                 "health",
-                "medical",
                 "health care",
+                "identification",
+                "medical",
                 "patient",
                 "patient care",
-                "uihc",
-                "doctor",
-                "identification",
-                "badge",
-                "person"
+                "person",
+                "uihc"
             ],
             "dateAdded": ""
         }, {
             "name": "id-badge-resident",
             "keywords": [
+                "badge",
+                "doctor",
                 "health",
-                "medical",
                 "health care",
+                "identification",
+                "medical",
                 "patient",
                 "patient care",
-                "uihc",
-                "doctor",
-                "identification",
-                "badge",
-                "person"
+                "person",
+                "uihc"
             ],
             "dateAdded": ""
         }, {
             "name": "id-badge-staff",
             "keywords": [
+                "badge",
+                "doctor",
                 "health",
-                "medical",
                 "health care",
+                "identification",
+                "medical",
                 "patient",
                 "patient care",
-                "uihc",
-                "doctor",
-                "identification",
-                "badge",
-                "person"
+                "person",
+                "uihc"
             ],
             "dateAdded": ""
         }, {
             "name": "idea",
             "keywords": [
-                "light",
-                "light bulb",
-                "lightbulb",
-                "invent",
-                "invention",
-                "invented",
-                "thought",
-                "think",
-                "thinking",
-                "thought bubble",
-                "innovation",
-                "innovate",
                 "create",
                 "discover",
                 "discovery",
-                "inspire",
+                "innovate",
+                "innovation",
                 "inspiration",
-                "inventive"
+                "inspire",
+                "invent",
+                "invented",
+                "invention",
+                "inventive",
+                "light",
+                "light bulb",
+                "lightbulb",
+                "think",
+                "thinking",
+                "thought",
+                "thought bubble"
             ],
             "dateAdded": "2022-12-05"
         }, {
             "name": "imu",
             "keywords": [
+                "architecture",
                 "building",
                 "buildings",
-                "architecture",
                 "campus",
-                "iowa city",
                 "city",
                 "event",
-                "events"
+                "events",
+                "iowa city"
             ],
             "dateAdded": ""
         },  {
@@ -3799,106 +3787,104 @@
         }, {
             "name": "information",
             "keywords": [
-                "info",
                 "advice",
+                "info",
                 "knowledge"
             ],
             "dateAdded": "2023-04-14"
         }, {
             "name": "infusion-bag",
             "keywords": [
-                "health",
-                "medical",
-                "health care",
-                "patient",
-                "patient care",
-                "healthcare",
                 "blood",
-                "medical",
+                "drip",
                 "equipment",
-                "medical equipment",
+                "health",
+                "health care",
+                "healthcare",
+                "medical",
                 "medical device",
-                "drip"
+                "medical equipment",
+                "patient",
+                "patient care"
             ],
             "dateAdded": ""
         }, {
             "name": "internal-medicine",
             "keywords": [
                 "health",
-                "medical",
                 "health care",
+                "healthcare",
+                "medical",
                 "patient",
-                "patient care",
-                "healthcare"
+                "patient care"
             ],
             "dateAdded": ""
         }, {
             "name": "internet",
             "keywords": [
-                "technology",
-                "its",
-                "tech",
-                "wifi",
-                "stream",
-                "livestream",
-                "globe",
                 "global",
+                "globe",
                 "hands",
-                "social media"
+                "its",
+                "livestream",
+                "social media",
+                "stream",
+                "tech",
+                "technology",
+                "wifi"
             ],
             "dateAdded": ""
         }, {
             "name": "iowa",
             "keywords": [
                 "iowa",
-                "state",
-                "usa",
                 "map",
                 "state",
+                "usa",
                 "wayfinding"
             ],
             "dateAdded": ""
         }, {
             "name": "iowa-capitol-dome",
             "keywords": [
-                "capital",
-                "dome",
+                "america",
+                "architecture",
                 "building",
                 "buildings",
-                "architecture",
                 "campus",
+                "capital",
                 "city",
+                "dome",
                 "event",
                 "events",
                 "iowa",
-                "usa",
-                "america",
+                "state",
                 "united states",
-                "state"
+                "usa"
             ],
             "dateAdded": ""
         }, {
             "name": "iowa-heart",
             "keywords": [
-                "iowa",
-                "heart",
-                "iowa city",
                 "city",
+                "heart",
+                "iowa",
+                "iowa city",
                 "map",
                 "state",
-                "usa",
                 "united states",
+                "usa",
                 "wayfinding"
             ],
             "dateAdded": ""
         }, {
             "name": "islam",
             "keywords": [
+                "crescent",
+                "crescent moon",
+                "culture",
                 "religion",
                 "religious",
-                "culture",
-                "crescent moon",
-                "crescent",
                 "star"
             ],
             "dateAdded": ""
