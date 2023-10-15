@@ -3891,103 +3891,103 @@
         }, {
             "name": "journey-point-ab",
             "keywords": [
-                "point a to b",
-                "path",
                 "adventure",
-                "travel",
+                "path",
+                "point a to b",
                 "quest",
+                "travel",
+                "trek",
                 "trip",
-                "visit",
-                "trek"
+                "visit"
             ],
             "dateAdded": "2023-04-14"
         }, {
             "name": "key",
             "keywords": [
-                "unlock",
-                "lock",
+                "authenticate",
+                "authenticated",
                 "door",
-                "security",
-                "password",
                 "encrypt",
                 "encrypted",
-                "authenticate",
-                "authenticated"
+                "lock",
+                "password",
+                "security",
+                "unlock"
             ],
             "dateAdded": ""
         }, {
             "name": "keyboard",
             "keywords": [
+                "computer",
+                "equipment",
+                "its",
+                "pc",
                 "tech",
                 "technology",
-                "its",
                 "type",
                 "typing",
-                "writing",
                 "write",
-                "computer",
-                "pc",
-                "equipment"
+                "writing"
             ],
             "dateAdded": ""
         }, {
             "name": "kidneys",
             "keywords": [
-                "organ",
-                "organs",
-                "vital",
                 "body",
                 "health",
-                "medical",
                 "health care",
+                "healthcare",
+                "medical",
+                "organ",
+                "organs",
                 "patient",
                 "patient care",
-                "healthcare"
+                "vital"
             ],
             "dateAdded": ""
         }, {
             "name": "kinnick",
             "keywords": [
-                "campus",
-                "football",
+                "architecture",
+                "athletics",
                 "building",
                 "buildings",
-                "architecture",
+                "campus",
+                "cheer",
+                "city",
+                "first quarter wave",
+                "football",
+                "hawkeye wave",
+                "iowa city",
+                "kinnick stadium",
                 "recreation",
                 "sport",
                 "sports",
-                "athletics",
-                "city",
-                "iowa city",
-                "cheer",
                 "stadium",
-                "kinnick stadium",
-                "wave",
-                "waving",
-                "the wave",
-                "hawkeye wave",
                 "the hawkeye wave",
-                "first quarter wave"
+                "the wave",
+                "wave",
+                "waving"
             ],
             "dateAdded": ""
         }, {
             "name": "kitchen",
             "keywords": [
                 "architecture",
-                "home",
-                "housing",
-                "tenant",
-                "house",
-                "food",
-                "food prep",
-                "eat",
                 "cook",
                 "cooking",
-                "stove",
+                "cupboard",
+                "eat",
+                "food",
+                "food prep",
+                "home",
+                "house",
+                "housing",
+                "interior",
                 "oven",
                 "sink",
-                "cupboard",
-                "interior"
+                "stove",
+                "tenant"
             ],
             "dateAdded": ""
         }, {
@@ -3995,15 +3995,15 @@
             "keywords": [
                 "body",
                 "health",
-                "medical",
-                "healthcare",
                 "health care",
-                "patient",
-                "patient care",
-                "leg",
+                "healthcare",
                 "hurt",
                 "injury",
-                "ouch"
+                "leg",
+                "medical",
+                "ouch",
+                "patient",
+                "patient care"
             ],
             "dateAdded": ""
         }, {
