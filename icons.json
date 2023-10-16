@@ -6026,445 +6026,442 @@
         }, {
             "name": "radiation",
             "keywords": [
-                "radiate",
+                "atom",
+                "atomic",
+                "circle",
                 "danger",
                 "nuclear",
-                "atomic",
-                "atom",
-                "circle"
+                "radiate"
             ],
             "dateAdded": ""
         }, {
             "name": "rain-drop",
             "keywords": [
-                "weather",
                 "cloudy",
-                "storm",
                 "drip",
                 "drop",
-                "splash",
                 "puddle",
-                "spring"
+                "splash",
+                "spring",
+                "storm",
+                "weather"
             ],
             "dateAdded": ""
         }, {
             "name": "raised-hand",
             "keywords": [
-                "hand",
                 "body",
                 "class",
-                "classroom"
+                "classroom",
+                "hand"
             ],
             "dateAdded": ""
         }, {
             "name": "rash",
             "keywords": [
-                "health",
-                "medical",
-                "healthcare",
-                "health care",
-                "patient",
-                "patient care",
-                "hand",
                 "body",
+                "hand",
+                "health",
+                "health care",
+                "healthcare",
+                "hurt",
                 "injury",
-                "itchy",
                 "itch",
-                "hurt"
+                "itchy",
+                "medical",
+                "patient",
+                "patient care"
             ],
             "dateAdded": ""
         }, {
             "name": "reading",
             "keywords": [
-                "person",
                 "book",
-                "research",
-                "read",
-                "open book",
-                "open",
-                "learning",
-                "student",
-                "story",
                 "class",
-                "librarian"
+                "learning",
+                "librarian",
+                "open",
+                "open book",
+                "person",
+                "read",
+                "research",
+                "story",
+                "student"
             ],
             "dateAdded": ""
         }, {
             "name": "recycle",
             "keywords": [
-                "waste",
                 "recycling",
                 "recycling bin",
-                "sustainability"
+                "sustainability",
+                "waste"
             ],
             "dateAdded": ""
         }, {
             "name": "registration-application",
             "keywords": [
-                "check",
-                "checkmark",
                 "approve",
                 "approved",
-                "document",
-                "paper",
-                "file",
-                "pdf",
-                "confirmed",
+                "check",
                 "checked",
+                "checkmark",
+                "confirmed",
+                "document",
+                "file",
+                "paper",
+                "pdf",
                 "progress"
             ],
             "dateAdded": ""
         }, {
             "name": "remote-sensing",
             "keywords": [
-                "satellite",
-                "outer space",
-                "space",
                 "astronomy",
-                "solar",
                 "dish",
-                "satellite dish",
                 "engineer",
-                "engineering"
+                "engineering",
+                "outer space",
+                "satellite",
+                "satellite dish",
+                "solar",
+                "space"
             ],
             "dateAdded": ""
         }, {
             "name": "renewable-energy",
             "keywords": [
+                "electric",
+                "electricity",
+                "engineer",
+                "engineering",
                 "lightning bolt",
-                "zap",
+                "power",
                 "recycle",
                 "recycling",
-                "power",
-                "voltage",
                 "solar",
-                "wind",
-                "turbine",
-                "electricity",
-                "electric",
                 "sustainability",
-                "engineer",
-                "engineering"
+                "turbine",
+                "voltage",
+                "wind",
+                "zap"
             ],
             "dateAdded": ""
         }, {
             "name": "residence-hall",
             "keywords": [
+                "apartment",
                 "building",
                 "buildings",
                 "campus",
-                "iowa city",
                 "city",
                 "dorm",
-                "student",
-                "students",
-                "living",
+                "engineer",
+                "engineering",
                 "home",
                 "housing",
-                "tenant",
+                "iowa city",
                 "lease",
-                "apartment",
+                "living",
                 "rent",
                 "rental",
-                "engineer",
-                "engineering"
+                "student",
+                "students",
+                "tenant"
             ],
             "dateAdded": ""
         }, {
             "name": "resume",
             "keywords": [
-                "resume",
-                "cv",
                 "bio",
+                "cv",
                 "document",
-                "paper",
                 "file",
-                "profile",
                 "identification",
-                "person"
+                "paper",
+                "person",
+                "profile",
+                "resume"
             ],
             "dateAdded": ""
         }, {
             "name": "rewind",
             "keywords": [
-                "player",
-                "controls",
-                "control",
+                "back",
                 "backward",
-                "seek",
-                "rewound",
+                "control",
+                "controls",
+                "player",
                 "reverse",
-                "undo",
-                "back"
+                "rewound",
+                "seek",
+                "undo"
             ],
             "dateAdded": "2022-12-05"
         }, {
             "name": "ribbon",
             "keywords": [
-                "winner",
-                "star",
-                "olympic",
-                "olympics",
-                "sport",
-                "sports",
-                "athletics",
-                "gold",
-                "silver",
-                "bronze",
-                "award",
                 "achieve",
                 "achievement",
-                "win"
+                "athletics",
+                "award",
+                "bronze",
+                "gold",
+                "olympic",
+                "olympics",
+                "silver",
+                "sport",
+                "sports",
+                "star",
+                "win",
+                "winner"
             ],
             "dateAdded": ""
         }, {
             "name": "ribbon-two",
             "keywords": [
-                "winner",
-                "star",
-                "olympic",
-                "olympics",
-                "sport",
-                "sports",
-                "athletics",
-                "gold",
-                "silver",
-                "bronze",
-                "award",
                 "achieve",
                 "achievement",
-                "win"
+                "athletics",
+                "award",
+                "bronze",
+                "gold",
+                "olympic",
+                "olympics",
+                "silver",
+                "sport",
+                "sports",
+                "star",
+                "win",
+                "winner"
             ],
             "dateAdded": ""
         }, {
             "name": "rings",
             "keywords": [
-                "wedding",
-                "wedding bands",
-                "bands",
-                "wedding band",
                 "band",
-                "weddings",
+                "bands",
+                "circle",
+                "circles",
                 "marriage",
                 "wed",
-                "circle",
-                "circles"
+                "wedding",
+                "wedding band",
+                "wedding bands",
+                "weddings"
             ],
             "dateAdded": ""
         }, {
             "name": "road",
             "keywords": [
-                "location",
-                "locate",
-                "gps",
+                "address",
+                "car",
+                "destination",
                 "directions",
+                "drive",
+                "driving",
                 "find",
                 "geolocate",
+                "gps",
+                "highway",
+                "interstate",
+                "locate",
+                "location",
+                "navigation",
+                "street",
                 "transportation",
                 "travel",
-                "navigation",
-                "wayfinding",
-                "visit",
-                "address",
-                "destination",
-                "car",
-                "driving",
                 "vehicle",
-                "drive",
-                "street",
-                "highway",
-                "interstate"
+                "visit",
+                "wayfinding"
             ],
             "dateAdded": "2022-12-05"
         }, {
             "name": "road-closed-construction",
             "keywords": [
-                "closed",
+                "build",
                 "caution",
-                "traffic",
+                "closed",
                 "construction",
                 "development",
-                "build"
+                "traffic"
             ],
             "dateAdded": "2023-04-14"
         }, {
             "name": "robot",
             "keywords": [
-                "android",
-                "robotics",
                 "ai",
-                "artificial intelligence",
-                "smiling",
+                "android",
                 "antenna",
+                "artificial intelligence",
                 "cybernetic organism",
                 "engineer",
-                "engineering"
+                "engineering",
+                "robotics",
+                "smiling"
             ],
             "dateAdded": ""
         }, {
             "name": "rocket",
             "keywords": [
-                "rocket fuel",
-                "launch",
-                "space",
-                "outer space",
-                "exploration",
-                "spaceship",
-                "ship",
-                "orbit",
-                "launched",
-                "flying",
-                "vehicle",
                 "engineer",
-                "engineering"
+                "engineering",
+                "exploration",
+                "flying",
+                "launch",
+                "launched",
+                "orbit",
+                "outer space",
+                "rocket fuel",
+                "ship",
+                "space",
+                "spaceship",
+                "vehicle"
             ],
             "dateAdded": ""
         }, {
             "name": "ruler",
             "keywords": [
+                "engineer",
+                "engineering",
                 "measure",
                 "measurement",
                 "stick",
-                "yardstick",
-                "yard",
                 "tool",
                 "tools",
-                "engineer",
-                "engineering"
+                "yard",
+                "yardstick"
             ],
             "dateAdded": ""
         }, {
             "name": "running",
             "keywords": [
+                "cross country",
                 "exercise",
                 "fitness",
-                "running",
-                "run",
                 "jog",
-                "cross country",
                 "jogging",
-                "recreation",
-                "person",
                 "move",
-                "movement"
+                "movement",
+                "person",
+                "recreation",
+                "run",
+                "running"
             ],
             "dateAdded": ""
         }, {
             "name": "salad",
             "keywords": [
+                "dining",
                 "food",
-                "vegetable",
                 "greens",
                 "lettuce",
-                "tomatoes",
                 "salad bowl",
-                "dining"
+                "tomatoes",
+                "vegetable"
             ],
             "dateAdded": ""
         }, {
             "name": "salt",
             "keywords": [
-                "seasoning",
-                "food",
                 "dining",
-                "dining"
+                "food",
+                "seasoning"
             ],
             "dateAdded": ""
         }, {
             "name": "sanitzer",
             "keywords": [
-                "health care",
-                "patient",
-                "patient care",
-                "health",
-                "medical",
-                "healthcare",
-                "sanitize",
+                "clean",
+                "cleanse",
+                "coronavirus",
                 "covid",
                 "covid-19",
-                "infection",
-                "coronavirus",
-                "clean",
-                "sanitation",
+                "health",
+                "health care",
+                "healthcare",
                 "hygiene",
-                "cleanse"
+                "infection",
+                "medical",
+                "patient",
+                "patient care",
+                "sanitation",
+                "sanitize"
             ],
             "dateAdded": ""
         }, {
             "name": "saxophone",
             "keywords": [
-                "music",
-                "musical",
-                "musician",
+                "band",
+                "concert",
                 "dance",
                 "dancing",
-                "musical instrument",
-                "band",
-                "concert",
-                "instrument",
                 "entertainment",
-                "marching band",
-                "band",
-                "concert",
-                "woodwind",
-                "reed",
+                "instrument",
                 "jazz",
-                "orchestra"
+                "marching band",
+                "music",
+                "musical",
+                "musical instrument",
+                "musician",
+                "orchestra",
+                "reed",
+                "woodwind"
             ],
             "dateAdded": "2022-12-05"
         }, {
             "name": "scale",
             "keywords": [
-                "weight",
-                "medical equipment",
-                "medical device",
                 "device",
-                "health",
-                "medical",
-                "health care",
-                "patient",
-                "patient care",
-                "healthcare",
                 "exercise",
                 "fitness",
+                "health",
+                "health care",
+                "healthcare",
+                "medical",
+                "medical device",
+                "medical equipment",
+                "patient",
+                "patient care",
+                "weight",
                 "wellness"
             ],
             "dateAdded": ""
         }, {
             "name": "scales-justice",
             "keywords": [
-                "legal",
-                "lawyer",
                 "attorney",
                 "court",
                 "courtroom",
-                "laws",
-                "statute",
-                "judge",
-                "judgment",
-                "judgement",
-                "trial",
+                "decision",
                 "defense",
+                "judge",
+                "judgement",
+                "judgment",
+                "laws",
+                "lawyer",
+                "legal",
                 "prosecute",
                 "prosecutor",
-                "decision"
+                "statute",
+                "trial"
             ],
             "dateAdded": ""
         }, {
             "name": "scalpel-knife",
             "keywords": [
+                "biopsy",
+                "health",
+                "health care",
+                "healthcare",
+                "medical",
                 "medical device",
                 "medical equipment",
-                "health care",
                 "patient",
                 "patient care",
-                "health",
-                "medical",
-                "healthcare",
                 "surgery",
-                "transplant",
                 "surgical",
-                "biopsy"
+                "transplant"
             ],
             "dateAdded": ""
         }, {
@@ -6472,434 +6469,434 @@
             "keywords": [
                 "art",
                 "artist",
-                "tool",
+                "craft",
+                "cut",
+                "cutting",
                 "engineer",
                 "engineering",
-                "tools",
                 "paper",
-                "cut",
-                "craft",
-                "cutting",
-                "scrapbooking"
+                "scrapbooking",
+                "tool",
+                "tools"
             ],
             "dateAdded": ""
         }, {
             "name": "scrub-top",
             "keywords": [
-                "medical device",
-                "medical equipment",
-                "health care",
-                "patient",
-                "patient care",
-                "health",
-                "medical",
-                "healthcare",
-                "hospital",
-                "transplant",
-                "surgical",
-                "scrub",
-                "scrubs",
-                "foot",
                 "ankle",
                 "body",
-                "medical cross",
                 "cross",
-                "doctor"
+                "doctor",
+                "foot",
+                "health",
+                "health care",
+                "healthcare",
+                "hospital",
+                "medical",
+                "medical cross",
+                "medical device",
+                "medical equipment",
+                "patient",
+                "patient care",
+                "scrub",
+                "scrubs",
+                "surgical",
+                "transplant"
             ],
             "dateAdded": "2022-12-05"
         }, {
-            "name": "social-distance",
-            "keywords": [
-                "social distancing",
-                "social distance",
-                "covid",
-                "covid-19",
-                "infection",
-                "coronavirus",
-                "people",
-                "pair",
-                "person"
-            ],
-            "dateAdded": ""
-        }, {
             "name": "semi-truck",
             "keywords": [
-                "vehicle",
-                "transportation",
-                "ship",
-                "shipping",
-                "delivering",
                 "deliver",
                 "delivered",
+                "delivering",
                 "delivery",
+                "move",
                 "moving",
-                "move"
+                "ship",
+                "shipping",
+                "transportation",
+                "vehicle"
             ],
             "dateAdded": ""
         }, {
             "name": "share",
             "keywords": [
-                "send",
+                "external",
                 "link",
-                "external"
+                "send"
             ],
             "dateAdded": "2022-12-05"
         }, {
             "name": "ship",
             "keywords": [
                 "boat",
-                "water",
+                "history",
                 "ocean",
-                "sail",
                 "pirate",
+                "sail",
                 "sailing",
-                "vehicle",
                 "transportation",
-                "history"
+                "vehicle",
+                "water"
             ],
             "dateAdded": ""
         }, {
             "name": "shoe-cover",
             "keywords": [
-                "medical device",
-                "medical equipment",
-                "health care",
-                "patient",
-                "patient care",
-                "health",
-                "medical",
-                "healthcare",
-                "hospital",
-                "transplant",
-                "surgical",
-                "scrub",
-                "scrubs",
-                "foot",
                 "ankle",
                 "body",
-                "doctor"
+                "doctor",
+                "foot",
+                "health",
+                "health care",
+                "healthcare",
+                "hospital",
+                "medical",
+                "medical device",
+                "medical equipment",
+                "patient",
+                "patient care",
+                "scrub",
+                "scrubs",
+                "surgical",
+                "transplant"
             ],
             "dateAdded": ""
         }, {
             "name": "shopping-bag",
             "keywords": [
-                "shop",
-                "cart",
-                "buying",
-                "buy",
-                "bought",
-                "purchasing",
-                "check out",
                 "bag",
-                "bagged"
+                "bagged",
+                "bought",
+                "buy",
+                "buying",
+                "cart",
+                "check out",
+                "purchasing",
+                "shop"
             ],
             "dateAdded": ""
         }, {
             "name": "shopping-cart",
             "keywords": [
-                "wheels",
-                "shop",
-                "buy",
                 "bought",
+                "buy",
+                "check out",
+                "customer",
                 "purchased",
                 "purchasing",
-                "check out",
-                "customer"
+                "shop",
+                "wheels"
             ],
             "dateAdded": ""
         }, {
             "name": "shovel",
             "keywords": [
-                "snow",
-                "winter",
+                "bury",
                 "dig",
                 "digging",
-                "bury",
-                "hole"
+                "hole",
+                "snow",
+                "winter"
             ],
             "dateAdded": ""
         }, {
             "name": "shower-head",
             "keywords": [
-                "interior",
-                "house",
-                "home",
-                "housing",
-                "tenant",
                 "bathe",
                 "bathing",
-                "water",
+                "cleanse",
+                "home",
+                "house",
+                "housing",
+                "interior",
                 "spray",
-                "cleanse"
+                "tenant",
+                "water"
             ],
             "dateAdded": ""
         }, {
             "name": "sign-language",
             "keywords": [
-                "dei",
+                "access",
+                "accessibility",
+                "accessible",
+                "body",
                 "deaf",
-                "hearing impaired",
+                "dei",
                 "disability",
-                "hard of hearing",
                 "diversity",
                 "hands",
-                "body",
-                "accessibility",
-                "access",
-                "accessible"
+                "hard of hearing",
+                "hearing impaired"
             ],
             "dateAdded": ""
         }, {
             "name": "sleep",
             "keywords": [
-                "moon",
-                "zzz",
-                "nap",
                 "good night",
-                "night"
+                "moon",
+                "nap",
+                "night",
+                "zzz"
             ],
             "dateAdded": ""
         }, {
             "name": "slice-cake",
             "keywords": [
-                "food",
-                "baked",
                 "bake",
-                "piece of cake",
+                "baked",
+                "dining",
+                "food",
                 "piece",
-                "dining"
+                "piece of cake"
             ],
             "dateAdded": ""
         }, {
             "name": "snare-drum",
             "keywords": [
+                "band",
+                "concert",
+                "entertainment",
+                "instrument",
                 "music",
                 "musical",
                 "musical instrument",
-                "band",
-                "concert",
-                "instrument",
-                "percussion",
-                "entertainment"
+                "percussion"
             ],
             "dateAdded": "2022-12-05"
         }, {
             "name": "sneeze",
             "keywords": [
-                "face",
-                "sick",
                 "coronavirus",
-                "covid-19",
-                "infection",
+                "cough",
                 "covid",
+                "covid-19",
+                "face",
                 "health",
-                "medical",
                 "health care",
-                "patient",
-                "patient care",
                 "healthcare",
                 "illness",
-                "cough",
-                "person"
+                "infection",
+                "medical",
+                "patient",
+                "patient care",
+                "person",
+                "sick"
             ],
             "dateAdded": ""
         }, {
             "name": "snow-cloud",
             "keywords": [
-                "weather",
-                "snowing",
-                "snow",
-                "snowflake",
-                "snow falling",
                 "cloudy",
+                "snow",
+                "snow falling",
+                "snowflake",
+                "snowing",
+                "weather",
                 "winter"
             ],
             "dateAdded": ""
         }, {
             "name": "snowflake",
             "keywords": [
+                "snow falling",
                 "snow flake",
-                "winter",
-                "weather",
                 "snowing",
-                "snow falling"
+                "weather",
+                "winter"
             ],
             "dateAdded": ""
         }, {
             "name": "soap-bubbles",
             "keywords": [
                 "bath",
-                "bathing",
                 "bathe",
-                "clean",
-                "sanitation",
-                "hygiene",
-                "cleanse",
-                "sanitize",
+                "bathing",
                 "circle",
-                "circles"
+                "circles",
+                "clean",
+                "cleanse",
+                "hygiene",
+                "sanitation",
+                "sanitize"
+            ],
+            "dateAdded": ""
+        }, {
+            "name": "social-distance",
+            "keywords": [
+                "coronavirus",
+                "covid",
+                "covid-19",
+                "infection",
+                "pair",
+                "people",
+                "person",
+                "social distance",
+                "social distancing"
             ],
             "dateAdded": ""
         }, {
             "name": "socks",
             "keywords": [
+                "ankle",
                 "clothes",
                 "clothing",
-                "foot",
-                "ankle",
                 "feet",
+                "foot",
                 "stockings"
             ],
             "dateAdded": ""
         }, {
             "name": "soda",
             "keywords": [
-                "drink",
-                "straw",
                 "cup",
+                "dining",
+                "drink",
                 "paper cup",
-                "dining"
+                "straw"
             ],
             "dateAdded": ""
         }, {
             "name": "solar-power",
             "keywords": [
-                "sun",
-                "renewable",
-                "energy",
-                "solar panels",
-                "solar panel",
-                "electricity",
                 "electric",
+                "electricity",
+                "energy",
+                "engineer",
+                "engineering",
                 "light",
                 "lighting",
-                "sustainability",
-                "engineer",
-                "engineering"
+                "renewable",
+                "solar panel",
+                "solar panels",
+                "sun",
+                "sustainability"
             ],
             "dateAdded": ""
         }, {
             "name": "soup",
             "keywords": [
-                "food",
+                "bowl",
                 "dining",
-                "heat",
-                "bowl"
+                "food",
+                "heat"
             ],
             "dateAdded": ""
         }, {
             "name": "speech-bubble",
             "keywords": [
-                "speaking",
-                "writing",
-                "texting",
-                "text message",
-                "text",
-                "write",
-                "pencil",
-                "talking",
                 "chat",
                 "chatting",
-                "talk",
-                "discussing",
+                "communicate",
+                "communication",
+                "contact",
                 "conversation",
                 "converse",
+                "discussing",
                 "message",
                 "messages",
-                "communication",
-                "communicate",
-                "contact"
+                "pencil",
+                "speaking",
+                "talk",
+                "talking",
+                "text",
+                "text message",
+                "texting",
+                "write",
+                "writing"
             ],
             "dateAdded": ""
         }, {
             "name": "speech-bubble-pen",
             "keywords": [
-                "speaking",
-                "writing",
-                "texting",
-                "text message",
-                "text",
-                "write",
-                "pencil",
-                "talking",
                 "chat",
                 "chatting",
-                "talk",
-                "discussing",
+                "communicate",
+                "communication",
+                "contact",
                 "conversation",
                 "converse",
+                "discussing",
                 "message",
                 "messages",
-                "communication",
-                "communicate",
-                "contact"
+                "pencil",
+                "speaking",
+                "talk",
+                "talking",
+                "text",
+                "text message",
+                "texting",
+                "write",
+                "writing"
             ],
             "dateAdded": ""
         }, {
             "name": "speech-bubble-two",
             "keywords": [
-                "speaking",
-                "writing",
-                "texting",
-                "text message",
-                "text",
-                "write",
-                "pencil",
-                "talking",
                 "chat",
                 "chatting",
-                "talk",
-                "discussing",
+                "communicate",
+                "communication",
+                "contact",
                 "conversation",
                 "converse",
+                "discussing",
                 "message",
                 "messages",
-                "communication",
-                "communicate",
-                "contact"
+                "pencil",
+                "speaking",
+                "talk",
+                "talking",
+                "text",
+                "text message",
+                "texting",
+                "write",
+                "writing"
             ],
             "dateAdded": ""
         }, {
             "name": "speech-bubble-world",
             "keywords": [
-                "speaking",
-                "writing",
-                "texting",
-                "text message",
-                "text",
-                "write",
-                "pencil",
-                "talking",
                 "chat",
                 "chatting",
-                "talk",
-                "discussing",
+                "communicate",
+                "communication",
+                "contact",
                 "conversation",
                 "converse",
-                "globe",
+                "discussing",
                 "global",
+                "globe",
                 "message",
                 "messages",
-                "communication",
-                "communicate",
-                "contact"
+                "pencil",
+                "speaking",
+                "talk",
+                "talking",
+                "text",
+                "text message",
+                "texting",
+                "write",
+                "writing"
             ],
             "dateAdded": ""
         }, {
             "name": "spine-vertebrae",
             "keywords": [
-                "bones",
-                "body",
                 "back",
-                "spinal",
+                "body",
+                "bones",
                 "health",
-                "medical",
-                "healthcare",
                 "health care",
+                "healthcare",
+                "medical",
                 "patient",
                 "patient care",
-                "xray",
-                "x-ray"
+                "spinal",
+                "x-ray",
+                "xray"
             ],
             "dateAdded": ""
         }, {
@@ -6912,39 +6909,39 @@
         }, {
             "name": "spoon",
             "keywords": [
+                "dining",
                 "food",
-                "utensil",
-                "dining"
+                "utensil"
             ],
             "dateAdded": ""
         }, {
             "name": "spotlight",
             "keywords": [
-                "lighting",
-                "stage",
-                "theatre",
-                "theater",
-                "entertainment",
-                "show",
-                "event",
+                "actor",
                 "concert",
+                "entertainment",
+                "event",
+                "lighting",
                 "music",
                 "musical",
-                "actor",
-                "performance"
+                "performance",
+                "show",
+                "stage",
+                "theater",
+                "theatre"
             ],
             "dateAdded": ""
         }, {
             "name": "spray-bottle",
             "keywords": [
                 "cross",
-                "medical cross",
-                "medical equipment",
-                "medical device",
                 "health",
-                "medical",
-                "healthcare",
                 "health care",
+                "healthcare",
+                "medical",
+                "medical cross",
+                "medical device",
+                "medical equipment",
                 "patient",
                 "patient care"
             ],
@@ -6953,106 +6950,106 @@
             "name": "stage",
             "keywords": [
                 "architecture",
+                "audience",
                 "building",
-                "city",
-                "iowa city",
-                "lights",
-                "theatre",
-                "concert",
-                "theater",
-                "performance",
                 "campus",
+                "city",
+                "concert",
                 "event",
                 "events",
+                "iowa city",
+                "lights",
                 "music",
                 "musical",
                 "musician",
-                "audience"
+                "performance",
+                "theater",
+                "theatre"
             ],
             "dateAdded": ""
         }, {
             "name": "stairs",
             "keywords": [
-                "downstairs",
-                "upstairs",
-                "basement",
-                "interior",
                 "architecture",
-                "house",
+                "basement",
+                "building",
+                "downstairs",
                 "home",
+                "house",
                 "housing",
-                "tenant",
+                "interior",
                 "office",
-                "building"
+                "tenant",
+                "upstairs"
             ],
             "dateAdded": ""
         }, {
             "name": "stairs-down",
             "keywords": [
-                "downstairs",
-                "basement",
-                "interior",
                 "architecture",
-                "house",
+                "basement",
+                "building",
+                "downstairs",
                 "home",
+                "house",
                 "housing",
-                "tenant",
+                "interior",
                 "office",
-                "building"
+                "tenant"
             ],
             "dateAdded": ""
         }, {
             "name": "stairs-up",
             "keywords": [
-                "upstairs",
-                "basement",
-                "interior",
                 "architecture",
-                "house",
+                "basement",
+                "building",
                 "home",
+                "house",
                 "housing",
-                "tenant",
+                "interior",
                 "office",
-                "building"
+                "tenant",
+                "upstairs"
             ],
             "dateAdded": ""
         }, {
             "name": "stairs-up-down",
             "keywords": [
-                "downstairs",
-                "upstairs",
-                "basement",
-                "interior",
                 "architecture",
-                "house",
+                "basement",
+                "building",
+                "downstairs",
                 "home",
+                "house",
                 "housing",
-                "tenant",
+                "interior",
                 "office",
-                "building"
+                "tenant",
+                "upstairs"
             ],
             "dateAdded": ""
         }, {
             "name": "stars",
             "keywords": [
-                "star",
-                "space",
-                "outerspace",
-                "outer space",
                 "astronomy",
-                "night"
+                "night",
+                "outer space",
+                "outerspace",
+                "space",
+                "star"
             ],
             "dateAdded": ""
         }, {
             "name": "stethoscope",
             "keywords": [
-                "medical equipment",
-                "medical device",
                 "doctor",
                 "health",
-                "medical",
-                "healthcare",
                 "health care",
+                "healthcare",
+                "medical",
+                "medical device",
+                "medical equipment",
                 "patient",
                 "patient care"
             ],
@@ -7060,108 +7057,107 @@
         }, {
             "name": "stomach",
             "keywords": [
+                "body",
                 "health",
-                "medical",
-                "healthcare",
                 "health care",
+                "healthcare",
+                "medical",
+                "organ",
                 "patient",
                 "patient care",
-                "organ",
-                "vital",
-                "body",
-                "medical",
-                "treatment"
+                "treatment",
+                "vital"
             ],
             "dateAdded": ""
         }, {
             "name": "stop-sign",
             "keywords": [
                 "car",
-                "transportation",
                 "drive",
-                "driving",
                 "driver",
+                "driving",
+                "hand",
                 "signage",
-                "hand"
+                "transportation"
             ],
             "dateAdded": ""
         }, {
             "name": "stopwatch-timer",
             "keywords": [
-                "timer",
-                "countdown",
+                "athletics",
                 "clock",
+                "countdown",
                 "race",
                 "racing",
+                "recreation",
                 "sport",
                 "sports",
-                "athletics",
-                "recreation"
+                "timer"
             ],
             "dateAdded": ""
         }, {
             "name": "strawberry",
             "keywords": [
-                "food",
-                "fruit",
                 "dining",
                 "eat",
-                "eating"
+                "eating",
+                "food",
+                "fruit"
             ],
             "dateAdded": ""
         }, {
             "name": "sun",
             "keywords": [
-                "solar",
-                "solar power",
                 "bright",
+                "circle",
                 "day",
-                "noon",
-                "weather",
-                "sunny",
                 "light",
                 "lighting",
-                "circle",
                 "morning",
-                "sunset"
+                "noon",
+                "solar",
+                "solar power",
+                "sunny",
+                "sunset",
+                "weather"
             ],
             "dateAdded": ""
         }, {
             "name": "superhero",
             "keywords": [
-                "hero",
-                "superpowers",
-                "super",
-                "fly",
-                "person",
                 "cape",
+                "fly",
+                "hero",
+                "person",
+                "super",
+                "superpowers",
                 "wind"
             ],
             "dateAdded": ""
         }, {
             "name": "support",
             "keywords": [
-                "people",
-                "person",
                 "help",
                 "pair",
-                "two",
                 "peer",
-                "peers"
+                "peers",
+                "people",
+                "person",
+                "two"
             ],
             "dateAdded": ""
         }, {
             "name": "support-animal",
             "keywords": [
+                "access",
+                "accessibility",
+                "accessible",
+                "cross",
                 "dei",
                 "disability",
                 "diversity",
-                "cross",
-                "medical cross",
                 "dog",
-                "accessibility",
-                "access",
-                "accessible"
+                "medical cross"
             ],
             "dateAdded": ""
         }, {
@@ -7169,32 +7165,32 @@
             "keywords": [
                 "crest",
                 "defense",
-                "video game",
-                "fantasy",
                 "dragon",
-                "protect",
+                "fantasy",
+                "guard",
                 "history",
-                "guard"
+                "protect",
+                "video game"
             ],
             "dateAdded": ""
         }, {
             "name": "syringe",
             "keywords": [
-                "medical equipment",
-                "medical device",
-                "injection",
-                "inject",
-                "needle",
                 "doctor",
                 "health",
-                "medical",
-                "healthcare",
                 "health care",
+                "healthcare",
+                "inject",
+                "injection",
+                "medical",
+                "medical device",
+                "medical equipment",
+                "needle",
                 "patient",
                 "patient care",
                 "shot",
-                "vaccine",
-                "vaccination"
+                "vaccination",
+                "vaccine"
             ],
             "dateAdded": ""
         }, {
