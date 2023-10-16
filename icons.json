@@ -7196,397 +7196,393 @@
         }, {
             "name": "tambourine",
             "keywords": [
+                "band",
+                "concert",
+                "entertainment",
+                "instrument",
                 "music",
                 "musical",
                 "musical instrument",
-                "band",
-                "concert",
-                "instrument",
-                "percussion",
-                "entertainment",
-                "orchestra"
+                "orchestra",
+                "percussion"
             ],
             "dateAdded": ""
         }, {
             "name": "tape-measure",
             "keywords": [
-                "tool",
+                "calculate",
+                "carpentry",
                 "engineer",
                 "engineering",
-                "tools",
                 "equipment",
+                "fix",
+                "length",
                 "measure",
                 "measurement",
-                "length",
-                "calculate",
-                "fix",
-                "carpentry"
+                "tool",
+                "tools"
             ],
             "dateAdded": ""
         }, {
             "name": "teddy-bear",
             "keywords": [
-                "toy",
-                "home",
-                "housing",
-                "tenant",
-                "house",
                 "child",
                 "children",
                 "fun",
+                "home",
+                "house",
+                "housing",
+                "hug",
                 "safe",
-                "hug"
+                "tenant",
+                "toy"
             ],
             "dateAdded": ""
         }, {
             "name": "teacher-student-interaction",
             "keywords": [
-                "teacher",
-                "student",
-                "interaction",
                 "classroom",
+                "instruction",
+                "interaction",
                 "learning",
-                "instruction"
+                "student",
+                "teacher"
             ],
             "dateAdded": "2023-04-14"
         }, {
             "name": "telephone",
             "keywords": [
-                "technology",
                 "call",
+                "called",
+                "calling",
                 "cell",
                 "cellphone",
-                "called",
+                "contact",
                 "dial",
                 "equipment",
-                "calling",
-                "contact"
+                "technology"
             ],
             "dateAdded": ""
         }, {
             "name": "telescope",
             "keywords": [
-                "space",
-                "stars",
                 "astronomy",
-                "outer space",
-                "magnify",
-                "lense",
-                "night",
                 "dark",
+                "lense",
+                "magnify",
+                "night",
+                "outer space",
                 "sky",
-                "star"
+                "space",
+                "star",
+                "stars"
             ],
             "dateAdded": ""
         }, {
             "name": "temperature",
             "keywords": [
-                "measure",
-                "science",
-                "weather",
-                "cloudy",
-                "season",
-                "hot",
-                "cold",
-                "health",
-                "health care",
-                "patient",
-                "patient care",
-                "health",
-                "chemistry",
                 "academic",
                 "academics",
                 "chemical",
-                "warm",
-                "summer",
-                "heat",
+                "chemistry",
+                "cloudy",
+                "cold",
                 "engineer",
-                "engineering"
+                "engineering",
+                "health",
+                "health care",
+                "heat",
+                "hot",
+                "measure",
+                "patient",
+                "patient care",
+                "science",
+                "season",
+                "summer",
+                "warm",
+                "weather"
             ],
             "dateAdded": ""
         }, {
             "name": "test-tube",
             "keywords": [
-                "medical device",
-                "health",
-                "medical",
-                "healthcare",
-                "health care",
-                "patient",
-                "patient care",
-                "medical equipment",
-                "chemistry",
                 "academic",
                 "academics",
-                "chemical"
+                "chemical",
+                "chemistry",
+                "health",
+                "health care",
+                "healthcare",
+                "medical",
+                "medical device",
+                "medical equipment",
+                "patient",
+                "patient care"
             ],
             "dateAdded": ""
         }, {
             "name": "test-tubes",
             "keywords": [
-                "medical device",
-                "health",
-                "medical",
-                "healthcare",
-                "health care",
-                "patient",
-                "patient care",
-                "medical equipment",
-                "chemistry",
                 "academic",
                 "academics",
-                "chemical"
+                "chemical",
+                "chemistry",
+                "health",
+                "health care",
+                "healthcare",
+                "medical",
+                "medical device",
+                "medical equipment",
+                "patient",
+                "patient care"
             ],
             "dateAdded": ""
         }, {
             "name": "texting",
             "keywords": [
-                "speaking",
-                "writing",
-                "texting",
-                "text message",
-                "text",
-                "write",
-                "pencil",
-                "talking",
                 "chat",
                 "chatting",
-                "talk",
-                "discussing",
+                "communicate",
+                "communication",
+                "contact",
                 "conversation",
                 "converse",
+                "discussing",
                 "message",
                 "messages",
-                "communication",
-                "communicate",
-                "contact"
+                "pencil",
+                "speaking",
+                "talk",
+                "talking",
+                "text",
+                "text message",
+                "texting",
+                "write",
+                "writing"
             ],
             "dateAdded": "2022-12-05"
         }, {
             "name": "theatre",
             "keywords": [
-                "theater",
-                "performance",
+                "act",
+                "acting",
+                "audience",
+                "concert",
+                "curtains",
+                "drama",
+                "entertainment",
                 "event",
                 "events",
                 "hancher",
-                "curtains",
-                "stage",
-                "pay",
-                "musical",
-                "entertainment",
-                "show",
-                "drama",
-                "acting",
-                "act",
+                "interior",
                 "music",
                 "musical",
-                "interior",
-                "concert",
-                "audience"
+                "pay",
+                "performance",
+                "show",
+                "stage",
+                "theater"
             ],
             "dateAdded": ""
         }, {
             "name": "theatre-chairs",
             "keywords": [
-                "theater",
+                "audience",
                 "furniture",
                 "interior",
                 "seat",
                 "seating",
-                "audience"
+                "theater"
             ],
             "dateAdded": ""
         }, {
             "name": "thought",
             "keywords": [
-                "think",
-                "thinking",
-                "thought bubble",
                 "bubble",
                 "idea",
                 "reflect",
-                "reflecting"
+                "reflecting",
+                "think",
+                "thinking",
+                "thought bubble"
             ],
             "dateAdded": "2022-12-05"
         }, {
             "name": "throat",
             "keywords": [
+                "body",
+                "face",
                 "health",
-                "healthcare",
                 "health care",
+                "healthcare",
+                "medical",
                 "patient",
                 "patient care",
-                "body",
-                "medical",
-                "treatment",
-                "face"
+                "treatment"
             ],
             "dateAdded": ""
         }, {
             "name": "thumb-up",
             "keywords": [
-                "thumbs up",
+                "body",
                 "hand",
-                "body"
+                "thumbs up"
             ],
             "dateAdded": ""
         }, {
             "name": "ticket",
             "keywords": [
-                "theater",
-                "tickets",
-                "performance",
+                "act",
+                "acting",
+                "admission",
+                "audience",
+                "concert",
+                "curtains",
+                "drama",
+                "entertainment",
                 "event",
                 "events",
                 "hancher",
-                "curtains",
-                "stage",
-                "pay",
-                "musical",
-                "entertainment",
-                "show",
-                "drama",
-                "acting",
-                "act",
                 "music",
                 "musical",
-                "admission",
-                "concert",
-                "audience"
+                "pay",
+                "performance",
+                "show",
+                "stage",
+                "theater",
+                "tickets"
             ],
             "dateAdded": ""
         }, {
             "name": "ticket-booth",
             "keywords": [
-                "theater",
-                "tickets",
-                "performance",
+                "act",
+                "acting",
+                "admission",
+                "audience",
+                "concert",
+                "curtains",
+                "drama",
+                "entertainment",
                 "event",
                 "events",
                 "hancher",
-                "curtains",
-                "stage",
-                "pay",
-                "musical",
-                "entertainment",
-                "show",
-                "drama",
-                "acting",
-                "act",
                 "music",
                 "musical",
-                "admission",
-                "concert",
-                "audience"
+                "pay",
+                "performance",
+                "show",
+                "stage",
+                "theater",
+                "tickets"
             ],
             "dateAdded": ""
         }, {
             "name": "time-off",
             "keywords": [
-                "vacation",
+                "absence",
+                "day off",
+                "downtime",
+                "holiday",
                 "leave",
                 "medical leave",
-                "sick leave",
-                "holiday",
                 "sabbatical",
-                "downtime",
-                "absence",
-                "day off"
+                "sick leave",
+                "vacation"
             ],
             "dateAdded": "2022-12-05"
         }, {
             "name": "tissue",
             "keywords": [
-                "kleenex",
-                "health",
-                "healthcare",
-                "health care",
-                "patient",
-                "patient care",
-                "sick",
                 "coronavirus",
                 "covid",
                 "covid-19",
-                "infection"
+                "health",
+                "health care",
+                "healthcare",
+                "infection",
+                "kleenex",
+                "patient",
+                "patient care",
+                "sick"
             ],
             "dateAdded": ""
         }, {
             "name": "to-go-cup",
             "keywords": [
                 "coffee",
-                "drink",
                 "dining",
-                "paper cup",
-                "disposable cup"
+                "disposable cup",
+                "drink",
+                "paper cup"
             ],
             "dateAdded": ""
         }, {
             "name": "toolbox",
             "keywords": [
-                "tools",
-                "tool",
-                "fix",
                 "carpentry",
-                "equipment",
-                "latch",
-                "fishing",
-                "tackle box",
                 "engineer",
-                "engineering"
+                "engineering",
+                "equipment",
+                "fishing",
+                "fix",
+                "latch",
+                "tackle box",
+                "tool",
+                "tools"
             ],
             "dateAdded": ""
         }, {
             "name": "tooth",
             "keywords": [
-                "health",
-                "healthcare",
-                "health care",
-                "patient",
-                "patient care",
+                "cavity",
                 "dental",
                 "dentistry",
                 "eat",
-                "cavity",
-                "toothache",
-                "teeth"
+                "health",
+                "health care",
+                "healthcare",
+                "patient",
+                "patient care",
+                "teeth",
+                "toothache"
             ],
             "dateAdded": ""
         }, {
             "name": "toothbrush-toothpaste",
             "keywords": [
-                "health",
-                "health care",
-                "patient",
-                "patient care",
-                "healthcare",
+                "brushing",
+                "clean",
                 "dental",
                 "dentist",
-                "teeth",
-                "clean",
-                "sanitation",
-                "hygiene",
                 "dentistry",
-                "brushing"
+                "health",
+                "health care",
+                "healthcare",
+                "hygiene",
+                "patient",
+                "patient care",
+                "sanitation",
+                "teeth"
             ],
             "dateAdded": ""
         }, {
             "name": "touch-point",
             "keywords": [
-                "finger",
+                "body",
                 "click",
-                "mouse",
-                "tech",
-                "technology",
+                "contact",
+                "finger",
                 "hand",
+                "its",
+                "mouse",
+                "pointer",
                 "tap",
                 "tapping",
-                "touchsreen",
+                "tech",
+                "technology",
                 "touch",
-                "body",
-                "its",
-                "pointer",
-                "contact"
+                "touchscreen"
             ],
             "dateAdded": ""
         }, {
@@ -7595,8 +7591,8 @@
                 "arch",
                 "architecture",
                 "buildings",
-                "culture",
                 "city",
+                "culture",
                 "history"
             ],
             "dateAdded": ""
@@ -7614,32 +7610,29 @@
         }, {
             "name": "tractor",
             "keywords": [
+                "agriculture",
+                "corn",
+                "crop",
                 "farm",
                 "farming",
-                "agriculture",
-                "iowa",
-                "corn",
-                "plant",
-                "vegetation",
-                "vegetation",
-                "seed",
-                "plant",
-                "work",
-                "crop",
                 "harvest",
+                "iowa",
+                "plant",
                 "season",
-                "iowa"
+                "seed",
+                "vegetation",
+                "work"
             ],
             "dateAdded": ""
         }, {
             "name": "traffic-cone",
             "keywords": [
-                "traffic",
+                "build",
+                "caution",
                 "cone",
                 "construction",
                 "development",
-                "build",
-                "caution"
+                "traffic"
             ],
             "dateAdded": "2023-04-14"
         }, {
@@ -7647,299 +7640,297 @@
             "keywords": [
                 "dei",
                 "diversity",
+                "equity",
+                "gender",
+                "inclusivity",
+                "lgbt",
                 "lgbtq",
                 "lgbtqia",
-                "lgbt",
-                "inclusivity",
-                "equity",
-                "symbol",
-                "gender"
+                "symbol"
             ],
             "dateAdded": ""
         }, {
             "name": "tree-four",
             "keywords": [
-                "vegetation",
-                "yard",
-                "leaves",
-                "pine",
                 "leaf",
-                "trunk",
+                "leaves",
                 "nature",
-                "trees"
+                "pine",
+                "trees",
+                "trunk",
+                "vegetation",
+                "yard"
             ],
             "dateAdded": ""
         }, {
             "name": "tree-one",
             "keywords": [
-                "vegetation",
-                "yard",
-                "leaves",
-                "pine",
                 "leaf",
-                "trunk",
+                "leaves",
                 "nature",
-                "trees"
+                "pine",
+                "trees",
+                "trunk",
+                "vegetation",
+                "yard"
             ],
             "dateAdded": ""
         }, {
             "name": "tree-three",
             "keywords": [
-                "vegetation",
-                "yard",
-                "leaves",
-                "pine",
                 "leaf",
-                "trunk",
+                "leaves",
                 "nature",
-                "trees"
+                "pine",
+                "trees",
+                "trunk",
+                "vegetation",
+                "yard"
             ],
             "dateAdded": ""
         }, {
             "name": "tree-two",
             "keywords": [
-                "vegetation",
-                "yard",
-                "leaves",
-                "pine",
                 "leaf",
-                "trunk",
+                "leaves",
                 "nature",
-                "trees"
+                "pine",
+                "trees",
+                "trunk",
+                "vegetation",
+                "yard"
             ],
             "dateAdded": ""
         }, {
             "name": "triangle-measure",
             "keywords": [
-                "measure",
-                "plan",
+                "architect",
+                "build",
                 "construction",
                 "development",
-                "build",
                 "engineer",
-                "architect",
-                "math"
+                "math",
+                "measure",
+                "plan"
             ],
             "dateAdded": "2023-04-14"
         }, {
             "name": "trombone",
             "keywords": [
-                "music",
-                "musical",
-                "musician",
+                "band",
+                "brass",
+                "concert",
                 "dance",
                 "dancing",
-                "musical instrument",
-                "concert",
-                "instrument",
                 "entertainment",
-                "marching band",
-                "band",
-                "concert",
-                "brass",
+                "instrument",
                 "jazz",
+                "marching band",
+                "music",
+                "musical",
+                "musical instrument",
+                "musician",
                 "orchestra"
             ],
             "dateAdded": "2022-12-05"
         }, {
             "name": "trophy",
             "keywords": [
-                "winner",
-                "sports",
                 "athletics",
-                "team",
-                "hawkeye",
+                "bronze",
                 "cup",
                 "gold",
+                "hawkeye",
                 "silver",
-                "bronze"
+                "sports",
+                "team",
+                "winner"
             ],
             "dateAdded": ""
         }, {
             "name": "trumpet",
             "keywords": [
-                "music",
-                "musical",
-                "musician",
+                "band",
+                "concert",
                 "dance",
                 "dancing",
-                "musical instrument",
-                "concert",
-                "instrument",
                 "entertainment",
                 "horn",
-                "marching band",
-                "band",
-                "ska",
+                "instrument",
                 "jazz",
-                "concert",
-                "orchestra"
+                "marching band",
+                "music",
+                "musical",
+                "musical instrument",
+                "musician",
+                "orchestra",
+                "ska"
             ],
             "dateAdded": ""
         }, {
             "name": "tuba",
             "keywords": [
-                "music",
-                "musical",
-                "musician",
+                "band",
+                "brass",
+                "concert",
                 "dance",
                 "dancing",
-                "musical instrument",
-                "instrument",
                 "entertainment",
-                "marching band",
-                "band",
-                "concert",
-                "brass",
+                "instrument",
                 "jazz",
+                "marching band",
+                "music",
+                "musical",
+                "musical instrument",
+                "musician",
                 "orchestra"
             ],
             "dateAdded": "2022-12-05"
         }, {
             "name": "tumor",
             "keywords": [
+                "biopsy",
+                "growth",
                 "health",
-                "medical",
-                "healthcare",
                 "health care",
+                "healthcare",
+                "ill",
+                "illness",
+                "medical",
                 "patient",
                 "patient care",
-                "surgery",
-                "surgical",
                 "procedure",
-                "growth",
                 "sick",
-                "illness",
-                "ill",
-                "biopsy"
+                "surgery",
+                "surgical"
             ],
             "dateAdded": ""
         }, {
             "name": "tv-remote",
             "keywords": [
+                "computer",
+                "control",
+                "display",
+                "monitor",
+                "remote control",
+                "screen",
+                "smart tv",
+                "streaming",
                 "tech",
                 "technology",
                 "television",
-                "smart tv",
-                "streaming",
-                "watching",
-                "screen",
-                "monitor",
-                "computer",
-                "display",
-                "remote control",
-                "control"
+                "watching"
             ],
             "dateAdded": ""
         }, {
             "name": "umbrella",
             "keywords": [
-                "weather",
-                "rain",
                 "cloudy",
-                "spring"
+                "rain",
+                "spring",
+                "weather"
             ],
             "dateAdded": ""
         }, {
             "name": "undergraduate",
             "keywords": [
-                "student",
-                "education",
                 "academic",
                 "academics",
-                "person",
-                "graduating",
-                "graduation cap",
-                "graduation",
-                "commencement",
-                "tassle",
-                "cap",
-                "gown",
+                "alum",
                 "alumni",
-                "alum"
+                "cap",
+                "commencement",
+                "education",
+                "gown",
+                "graduating",
+                "graduation",
+                "graduation cap",
+                "person",
+                "student",
+                "tassel"
             ],
             "dateAdded": ""
         }, {
             "name": "united-states",
             "keywords": [
-                "usa",
-                "map",
                 "america",
+                "map",
+                "usa",
                 "wayfinding"
             ],
             "dateAdded": ""
         }, {
             "name": "upload",
             "keywords": [
-                "technology",
+                "attachment",
+                "download",
+                "export",
                 "its",
                 "save",
-                "export",
-                "transfer",
-                "download",
                 "send",
-                "attachment"
+                "technology",
+                "transfer"
             ],
             "dateAdded": ""
         }, {
             "name": "urgent-care-sign",
             "keywords": [
-                "uihc",
-                "hospital",
-                "cross",
-                "medical cross",
-                "emergency",
                 "ER",
+                "cross",
+                "emergency",
                 "emergency room",
-                "healthcare",
+                "health",
                 "health care",
+                "healthcare",
+                "hospital",
+                "medical",
+                "medical cross",
+                "medicine",
                 "patient",
                 "patient care",
-                "medical",
-                "medicine",
-                "health"
+                "uihc"
             ],
             "dateAdded": ""
         }, {
             "name": "us-capitol-building",
             "keywords": [
-                "usa",
-                "capital",
-                "politics",
-                "dome",
-                "political",
-                "washington",
-                "united states",
-                "capitol",
-                "city",
+                "architecture",
                 "building",
                 "buildings",
+                "capital",
+                "capitol",
+                "city",
+                "dome",
                 "national",
-                "architecture"
+                "political",
+                "politics",
+                "united states",
+                "usa",
+                "washington"
             ],
             "dateAdded": ""
         }, {
             "name": "user-profile",
             "keywords": [
-                "settings",
+                "engineer",
+                "engineering",
                 "gear",
                 "person",
-                "engineer",
-                "engineering"
+                "settings"
             ],
             "dateAdded": ""
         }, {
             "name": "usher",
             "keywords": [
-                "theatre",
-                "theater",
+                "audience",
                 "entertainment",
+                "musical",
+                "play",
                 "seat",
                 "seating",
                 "sit",
-                "play",
-                "musical",
-                "audience"
+                "theater",
+                "theatre"
             ],
             "dateAdded": ""
         }, {
