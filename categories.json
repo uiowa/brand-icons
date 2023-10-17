@@ -6,13 +6,8 @@
             "keywords": "recently-added",
             "icon": "clock",
             "icons": [
-                "big-candle",
-                "dancing",
-                "fax-machine",
-                "fundraising",
-                "inclement-weather",
-                "tornado",
-                "volleyball"
+                "dance-performance",
+                "dance-shoes"
             ]
         },
         {
@@ -163,6 +158,8 @@
                 "cookies",
                 "corn-kernel",
                 "corn",
+                "dance-performance",
+                "dance-shoes",
                 "dancing",
                 "disco-ball",
                 "djembe-drum",
