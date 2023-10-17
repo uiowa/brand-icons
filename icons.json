@@ -5079,17 +5079,6 @@
             ],
             "dateAdded": "2023-04-14"
         }, {
-            "name": "paintbrush-flat",
-            "keywords": [
-                "brush",
-                "build",
-                "construction",
-                "development",
-                "drip",
-                "remodel"
-            ],
-            "dateAdded": "2023-04-14"
-        }, {
             "name": "paintbrush",
             "keywords": [
                 "art",
@@ -5104,6 +5093,17 @@
                 "painting"
             ],
             "dateAdded": ""
+        }, {
+            "name": "paintbrush-flat",
+            "keywords": [
+                "brush",
+                "build",
+                "construction",
+                "development",
+                "drip",
+                "remodel"
+            ],
+            "dateAdded": "2023-04-14"
         }, {
             "name": "paintbrush-paint",
             "keywords": [
@@ -5146,6 +5146,17 @@
             ],
             "dateAdded": ""
         }, {
+            "name": "paper",
+            "keywords": [
+                "document",
+                "file",
+                "pdf",
+                "print",
+                "printed",
+                "read"
+            ],
+            "dateAdded": ""
+        }, {
             "name": "pappajohn",
             "keywords": [
                 "architecture",
@@ -5161,17 +5172,6 @@
                 "tippie college of business"
             ],
             "dateAdded": "2022-12-05"
-        }, {
-            "name": "paper",
-            "keywords": [
-                "document",
-                "file",
-                "pdf",
-                "print",
-                "printed",
-                "read"
-            ],
-            "dateAdded": ""
         }, {
             "name": "party",
             "keywords": [
@@ -7224,6 +7224,17 @@
             ],
             "dateAdded": ""
         }, {
+            "name": "teacher-student-interaction",
+            "keywords": [
+                "classroom",
+                "instruction",
+                "interaction",
+                "learning",
+                "student",
+                "teacher"
+            ],
+            "dateAdded": "2023-04-14"
+        }, {
             "name": "teddy-bear",
             "keywords": [
                 "child",
@@ -7238,17 +7249,6 @@
                 "toy"
             ],
             "dateAdded": ""
-        }, {
-            "name": "teacher-student-interaction",
-            "keywords": [
-                "classroom",
-                "instruction",
-                "interaction",
-                "learning",
-                "student",
-                "teacher"
-            ],
-            "dateAdded": "2023-04-14"
         }, {
             "name": "telephone",
             "keywords": [
@@ -7567,25 +7567,6 @@
             ],
             "dateAdded": ""
         }, {
-            "name": "touch-point",
-            "keywords": [
-                "body",
-                "click",
-                "contact",
-                "finger",
-                "hand",
-                "its",
-                "mouse",
-                "pointer",
-                "tap",
-                "tapping",
-                "tech",
-                "technology",
-                "touch",
-                "touchscreen"
-            ],
-            "dateAdded": ""
-        }, {
             "name": "torii-gate",
             "keywords": [
                 "arch",
@@ -7607,6 +7588,25 @@
                 "wind"
             ],
             "dateAdded": "2023-9-8"
+        }, {
+            "name": "touch-point",
+            "keywords": [
+                "body",
+                "click",
+                "contact",
+                "finger",
+                "hand",
+                "its",
+                "mouse",
+                "pointer",
+                "tap",
+                "tapping",
+                "tech",
+                "technology",
+                "touch",
+                "touchscreen"
+            ],
+            "dateAdded": ""
         }, {
             "name": "tractor",
             "keywords": [
@@ -8177,6 +8177,26 @@
             ],
             "dateAdded": ""
         }, {
+            "name": "washing-machine",
+            "keywords": [
+                "bottle",
+                "clean",
+                "cleaner",
+                "cleaning",
+                "cleanse",
+                "clothes",
+                "clothing",
+                "dorm",
+                "home",
+                "hygiene",
+                "living",
+                "sanitation",
+                "wash",
+                "washer",
+                "washing machine"
+            ],
+            "dateAdded": "2022-05-24"
+        }, {
             "name": "water",
             "keywords": [
                 "cup",
@@ -8194,6 +8214,18 @@
                 "sport",
                 "sports",
                 "water"
+            ],
+            "dateAdded": ""
+        }, {
+            "name": "water-drop",
+            "keywords": [
+                "drip",
+                "dripping",
+                "drop",
+                "hydrate",
+                "hydration",
+                "water",
+                "water drop"
             ],
             "dateAdded": ""
         }, {
@@ -8219,38 +8251,6 @@
                 "fruit"
             ],
             "dateAdded": ""
-        }, {
-            "name": "water-drop",
-            "keywords": [
-                "drip",
-                "dripping",
-                "drop",
-                "hydrate",
-                "hydration",
-                "water",
-                "water drop"
-            ],
-            "dateAdded": ""
-        }, {
-            "name": "washing-machine",
-            "keywords": [
-                "bottle",
-                "clean",
-                "cleaner",
-                "cleaning",
-                "cleanse",
-                "clothes",
-                "clothing",
-                "dorm",
-                "home",
-                "hygiene",
-                "living",
-                "sanitation",
-                "wash",
-                "washer",
-                "washing machine"
-            ],
-            "dateAdded": "2022-05-24"
         }, {
             "name": "wave",
             "keywords": [
