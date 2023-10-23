@@ -1,5 +1,7 @@
 # Adding new icons to Icon Browser
 
+[Here is a tool designed to assist in this process.}(https://codepen.io/purple_salmon/full/rNPBqgp)
+
 1. Clone this repository
 2. Check out a new branch. Example: `git checkout new_icons_9-13-22`
 2. Place the new icons in this repository's `icons/` folder with the following naming convention and color variants:
