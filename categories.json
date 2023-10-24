@@ -366,10 +366,10 @@
             ]
         },
         {
-            "label": "Infants, Children and Teenagers",
-            "slug": "infants-children-teenagers",
-            "keywords": "infants children teenagers",
-            "icon": "parent-child",
+            "label": "Kids",
+            "slug": "kids",
+            "keywords": "kids kid hospital toys toy stead",
+            "icon": "pull-toy",
             "icons": [
                 "activity-gym",
                 "ant-farm",
