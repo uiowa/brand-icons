@@ -23,19 +23,22 @@ jobs:
       - name: Setup node
         uses: actions/setup-node@v3
         with:
-          node-version: "18.17.0"
+          node-version: '18.x'
+
+      - name: Enable corepack
+        run: |
+          corepack enable
+          corepack prepare yarn@3.7.0 --activate
+          yarn set version 3.7.0
 
       - name: Cache dependencies
         uses: actions/cache@v3
         with:
           path: ~/.npm
-          key: npm-packages-${{ hashFiles('**/package-lock.json') }}
+          key: npm-packages-${{ hashFiles('**/yarn.lock') }}
           restore-keys: npm-packages-
-          
-      - name: Globally update npm
-        run: npm install -g npm@latest
 
-      - run: npm install
+      - run: yarn install --immutable
 
       - name: Build
         run: npm run build
