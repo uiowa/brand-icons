@@ -8,9 +8,9 @@
     ],
     "homepage": "https://brand.uiowa.edu",
     "scripts": {
-        "serve": "vue-cli-service serve",
-        "build-no-icons": "vue-cli-service build",
-        "build": "node browser/imageBuild.js && vue-cli-service build"
+        "serve": "vue-cli-service serve browser/src/main.js",
+        "build-no-icons": "vue-cli-service build browser/src/main.js",
+        "build": "node browser/imageBuild.js && vue-cli-service build browser/src/main.js"
     },
     "dependencies": {
         "core-js": "^3.8.3",

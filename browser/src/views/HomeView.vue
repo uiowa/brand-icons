@@ -8,7 +8,7 @@ import IconList from "@/components/IconList.vue";
 // import getCats from '../composables/getCats.js'
 import { ref, computed, onUpdated } from "vue";
 import { useRoute, useRouter } from "vue-router";
-import iconsData from "/node_modules/uiowa-brand-icons/icons.json";
+import iconsData from "../../../icons.json";
 
 const route = useRoute();
 
