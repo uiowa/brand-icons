@@ -79,11 +79,11 @@
 </template>
 
 <style lang="scss">
-@import "node_modules/uids/src/scss/base/_reset.scss";
-@import "node_modules/uids/src/scss/components/logo.scss";
-@import "node_modules/uids/src/scss/components/brand-bar.scss";
-@import "node_modules/uids/src/scss/components/button.scss";
-@import "./scss/components/top-menu.scss";
+@import "node_modules/uids/src/assets/scss/reset.scss";
+@import "node_modules/uids/src/components/logo/logo.scss";
+@import "node_modules/uids/src/components/brand-bar/brand-bar.scss";
+@import "node_modules/uids/src/components/button/button.scss";
+@import "~/src/scss/components/top-menu.scss";
 
 body {
   margin: 0;
@@ -239,7 +239,7 @@ main {
 import { ref, computed, onUpdated } from "vue";
 import { useRoute, useRouter } from "vue-router";
 import { UidsBrandBar, UidsButton } from "uids";
-import iconsData from "../../icons.json";
+import iconsData from "/node_modules/uiowa-brand-icons/icons.json";
 import CategoryList from "@/components/CategoryList.vue";
 import IconList from "@/components/IconList.vue";
 import IconModal from "@/components/IconModal.vue";

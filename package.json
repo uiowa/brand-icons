@@ -8,16 +8,16 @@
     ],
     "homepage": "https://brand.uiowa.edu",
     "scripts": {
-        "serve": "vue-cli-service serve browser/src/main.js",
-        "build-no-icons": "vue-cli-service build browser/src/main.js",
-        "build": "node browser/imageBuild.js && vue-cli-service build browser/src/main.js"
+        "serve": "vue-cli-service serve",
+        "build-no-icons": "vue-cli-service build",
+        "build": "node && vue-cli-service build"
     },
     "dependencies": {
         "core-js": "^3.8.3",
         "fs": "0.0.1-security",
         "jsdom": "^20.0.0",
         "sharp": "^0.30.5",
-        "uids": "git+https://github.com/uiowa/uids.git#v4.0.0-alpha7",
+        "uids": "git+https://github.com/uiowa/uids.git#531cc5e7917c422735589d277a887ca83437eb1c",
         "vue": "^3.2.13",
         "vue-router": "^4.0.3",
         "vue-toggle-component": "^1.0.16"

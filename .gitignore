@@ -2,8 +2,8 @@
 node_modules
 .yarn
 /dist
-/browser/public/brand-icons/*.svg
-/browser/public/brand-icons/*.png
+/public/brand-icons/*.svg
+/public/brand-icons/*.png
 # local env files
 .env.local
 .env.*.local
