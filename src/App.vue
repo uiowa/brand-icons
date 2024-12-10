@@ -239,7 +239,7 @@ main {
 import { ref, computed, onUpdated } from "vue";
 import { useRoute, useRouter } from "vue-router";
 import { UidsBrandBar, UidsButton } from "uids";
-import iconsData from "/node_modules/uiowa-brand-icons/icons.json";
+import iconsData from "../icons.json";
 import CategoryList from "@/components/CategoryList.vue";
 import IconList from "@/components/IconList.vue";
 import IconModal from "@/components/IconModal.vue";

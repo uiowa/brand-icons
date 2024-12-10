@@ -3,8 +3,8 @@ import HomeView from "../views/HomeView.vue";
 import CategoryView from "../views/CategoryView.vue";
 import SearchView from "../views/SearchView.vue";
 import NotFoundView from "../views/NotFoundView.vue";
-import catData from "/node_modules/uiowa-brand-icons/categories.json";
-import iconsData from "/node_modules/uiowa-brand-icons/icons.json";
+import catData from "../../categories.json";
+import iconsData from "../../icons.json";
 
 const categories = catData.categories;
 const icons = iconsData.icons;
