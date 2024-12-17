@@ -56,7 +56,7 @@ jobs:
           key: npm-packages-${{ hashFiles('**/yarn.lock') }}
           restore-keys: npm-packages-
 
-      - run: yarn install --immutable
+      - run:  npm install
 
      # Debugging messages.
       # - run: echo "${{ github.ref }}"
