@@ -32,9 +32,6 @@ jobs:
           key: npm-packages-${{ hashFiles('**/package-lock.json') }}
           restore-keys: npm-packages-
 
-      - name: Globally update npm
-        run: npm install -g npm@latest
-
       - run: npm install
 
       - name: Build
