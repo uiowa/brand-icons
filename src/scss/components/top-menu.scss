@@ -1,0 +1,66 @@
+.iowa-bar__container {
+  max-width: 1550px;
+}
+
+.menu--top .menu li a {
+  padding: 1.05rem;
+}
+
+.menu--top .menu a {
+  text-decoration: none;
+  font-weight: 300;
+}
+
+.menu--top .menu > li {
+  display: inline-block;
+  list-style-type: none;
+  margin: 0;
+}
+
+@media (min-width: 855px) and (min-width: 84.375em) {
+  .menu--top .menu li a {
+    padding: 0.325rem 1.05rem;
+  }
+}
+
+@media (min-width: 855px) {
+  .iowa-bar .site-name {
+    margin: 5px 0 0;
+    flex: auto;
+    font-weight: 300;
+  }
+
+  .menu--top {
+    margin-top: 8px;
+    position: relative;
+    align-self: center;
+    flex: auto;
+    display: flex;
+    justify-content: flex-end;
+  }
+}
+
+@media screen and (max-width: 1605px) and (min-width: 855px) {
+  .iowa-bar .site-name {
+    font-size: 2vw;
+    font-weight: 400;
+  }
+}
+
+@media only screen and (min-width: 0) and (max-width: 854px) {
+  .menu--top .menu li a {
+    color: #151515;
+    padding: 0.325rem 0;
+    font-size: 1rem;
+  }
+
+  .menu--top .menu li:nth-child(2) {
+    margin: 0 25px;
+  }
+
+  .site-name + .menu--top {
+    background: #ffcd00;
+    padding: 0 1.25rem 0.75rem;
+    margin-top: -0.75rem;
+  }
+}
