@@ -59,7 +59,7 @@ jobs:
       - name: Globally update npm
         run: npm install -g npm@latest
 
-      - run: npm install ---y
+      - run: npm install
 
      # Debugging messages.
       # - run: echo "${{ github.ref }}"
