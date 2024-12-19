@@ -1,9 +1,10 @@
 const sharp = require("sharp");
 const fs = require("fs");
-const srcFolder = "node_modules/uiowa-brand-icons/icons/";
-const destFolder = "public/brand-icons/";
+const path = require('path');
+const srcFolder = path.resolve(__dirname, './icons/') + '/';
+const destFolder = path.resolve(__dirname, "./public/brand-icons/") + '/';
 const iconsData = JSON.parse(
-  fs.readFileSync("node_modules/uiowa-brand-icons/icons.json", "utf-8")
+  fs.readFileSync(path.resolve(__dirname, './icons.json'), "utf-8")
 );
 const jsdom = require("jsdom");
 const { JSDOM } = jsdom;
