@@ -79,11 +79,11 @@
 </template>
 
 <style lang="scss">
-@import "node_modules/uids/src/assets/scss/reset.scss";
-@import "node_modules/uids/src/components/logo/logo.scss";
-@import "node_modules/uids/src/components/brand-bar/brand-bar.scss";
-@import "node_modules/uids/src/components/button/button.scss";
-@import "~/src/scss/components/top-menu.scss";
+@import "node_modules/uids/src/scss/base/_reset.scss";
+@import "node_modules/uids/src/scss/components/logo.scss";
+@import "node_modules/uids/src/scss/components/brand-bar.scss";
+@import "node_modules/uids/src/scss/components/button.scss";
+@import "./scss/components/top-menu.scss";
 
 body {
   margin: 0;
@@ -241,7 +241,7 @@ import { useRoute, useRouter } from "vue-router";
 import { UidsBrandBar, UidsButton } from "uids";
 import iconsData from "../icons.json";
 import CategoryList from "@/components/CategoryList.vue";
-import IconList from "@/components/IconList.vue";
+//import IconList from "@/components/IconList.vue";
 import IconModal from "@/components/IconModal.vue";
 import SearchBar from "@/components/SearchBar.vue";
 import Settings from "@/components/Settings.vue";
