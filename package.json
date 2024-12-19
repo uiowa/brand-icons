@@ -10,7 +10,7 @@
     "scripts": {
         "serve": "vue-cli-service serve",
         "build-no-icons": "vue-cli-service build",
-        "build": "node && vue-cli-service build"
+        "build": "node imageBuild.js && vue-cli-service build"
     },
     "dependencies": {
         "core-js": "^3.8.3",
