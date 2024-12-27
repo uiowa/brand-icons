@@ -79,10 +79,10 @@
 </template>
 
 <style lang="scss">
-@import "node_modules/uids/src/assets/scss/reset.scss";
-@import "node_modules/uids/src/components/logo/logo.scss";
-@import "node_modules/uids/src/components/brand-bar/brand-bar.scss";
-@import "node_modules/uids/src/components/button/button.scss";
+@import "node_modules/uids/src/scss/base/reset.scss";
+@import "node_modules/uids/src/scss/components/logo.scss";
+@import "node_modules/uids/src/scss/components/brand-bar.scss";
+@import "node_modules/uids/src/scss/components/button.scss";
 @import "~/src/scss/components/top-menu.scss";
 
 body {
