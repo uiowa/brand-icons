@@ -1,4 +1,6 @@
-# Adding new icons to Icon Browser
+# Iowa Brand Icons
+
+## Adding new icons to Icon Browser
 
 [Here is a tool designed to assist in this process.](https://codepen.io/purple_salmon/full/rNPBqgp)
 
@@ -72,3 +74,32 @@ Example:
 7. Generate a PR to merge into `main`.
 8. Merge into `main` and take note of the commit hash.
 9. Follow the instructions in the README on the [Icon Browser repository](https://github.com/uiowa/brand-icon-browser) to continue updating the Icon Browser with the newly added icons.
+
+## Setting up development environment
+
+### Using the right version of node
+```
+nvm use
+```
+
+Follow any installation instructions given.
+
+### Project setup
+```
+npm install
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies but skips generating the icon variants (for testing purposes)
+```
+npm run build-no-icons
+```
