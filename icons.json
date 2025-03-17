@@ -3925,16 +3925,6 @@
             "dateAdded": ""
         },
         {
-            "id": 246,
-            "name": "gender-equality",
-            "keywords": [
-                "female",
-                "male",
-                "symbol"
-            ],
-            "dateAdded": ""
-        },
-        {
             "id": 247,
             "name": "gerbil",
             "keywords": [
@@ -10505,20 +10495,6 @@
                 "traffic"
             ],
             "dateAdded": "2023-04-14"
-        },
-        {
-            "id": 627,
-            "name": "trans-inclusive",
-            "keywords": [
-                "equity",
-                "gender",
-                "inclusivity",
-                "lgbt",
-                "lgbtq",
-                "lgbtqia",
-                "symbol"
-            ],
-            "dateAdded": ""
         },
         {
             "id": 628,
