@@ -1117,9 +1117,7 @@
                 "accessible",
                 "blind",
                 "book",
-                "dei",
                 "disability",
-                "diversity",
                 "read",
                 "reading",
                 "research",
@@ -2058,9 +2056,7 @@
                 "assistive",
                 "assistive device",
                 "deaf",
-                "dei",
                 "disability",
-                "diversity",
                 "ear",
                 "hear",
                 "hearing",
@@ -3929,18 +3925,6 @@
             "dateAdded": ""
         },
         {
-            "id": 246,
-            "name": "gender-equality",
-            "keywords": [
-                "dei",
-                "diversity",
-                "female",
-                "male",
-                "symbol"
-            ],
-            "dateAdded": ""
-        },
-        {
             "id": 247,
             "name": "gerbil",
             "keywords": [
@@ -4426,9 +4410,7 @@
                 "access",
                 "accessibility",
                 "accessible",
-                "dei",
                 "disability",
-                "diversity",
                 "symbol",
                 "wheelchair"
             ],
@@ -4572,9 +4554,7 @@
                 "accessibility",
                 "accessible",
                 "deaf",
-                "dei",
                 "disability",
-                "diversity",
                 "sound"
             ],
             "dateAdded": ""
@@ -4589,9 +4569,7 @@
                 "assistive",
                 "assistive device",
                 "deaf",
-                "dei",
                 "disability",
-                "diversity",
                 "ear",
                 "hear",
                 "hearing",
@@ -4611,9 +4589,7 @@
                 "accessibility",
                 "accessible",
                 "deaf",
-                "dei",
                 "disability",
-                "diversity",
                 "sound"
             ],
             "dateAdded": ""
@@ -5998,7 +5974,6 @@
                 "access",
                 "accessibility",
                 "accessible",
-                "dei",
                 "find",
                 "look for",
                 "paper",
@@ -6013,7 +5988,6 @@
                 "access",
                 "accessibility",
                 "accessible",
-                "dei",
                 "find",
                 "look for",
                 "paper",
@@ -9037,9 +9011,7 @@
                 "accessible",
                 "body",
                 "deaf",
-                "dei",
                 "disability",
-                "diversity",
                 "hands",
                 "hard of hearing",
                 "hearing impaired"
@@ -9753,9 +9725,7 @@
                 "accessibility",
                 "accessible",
                 "cross",
-                "dei",
                 "disability",
-                "diversity",
                 "dog",
                 "medical cross"
             ],
@@ -10527,22 +10497,6 @@
             "dateAdded": "2023-04-14"
         },
         {
-            "id": 627,
-            "name": "trans-inclusive",
-            "keywords": [
-                "dei",
-                "diversity",
-                "equity",
-                "gender",
-                "inclusivity",
-                "lgbt",
-                "lgbtq",
-                "lgbtqia",
-                "symbol"
-            ],
-            "dateAdded": ""
-        },
-        {
             "id": 628,
             "name": "trashcan",
             "keywords": [
@@ -11113,9 +11067,7 @@
                 "accessibility",
                 "accessible",
                 "blind",
-                "dei",
                 "disability",
-                "diversity",
                 "eye",
                 "see",
                 "sight"
@@ -11498,7 +11450,6 @@
                 "accessible",
                 "assistive",
                 "assistive device",
-                "dei",
                 "medical equipment",
                 "ramp",
                 "wheels"
@@ -11748,7 +11699,6 @@
             "keywords": [
                 "autismawareness",
                 "neurodiversity",
-                "inclusion",
                 "spectrum"
             ],
             "dateAdded": "2025-02-12"
