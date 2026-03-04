@@ -12467,6 +12467,182 @@
                 "hospital"
             ],
             "dateAdded": "2025-02-12"
+        },
+        {
+            "id": 767,
+            "name": "hat",
+            "keywords": [
+                "clothing",
+                "hat"
+            ],
+            "dateAdded": "2026-02-10"
+        },
+        {
+            "id": 768,
+            "name": "t-shirt",
+            "keywords": [
+                "shirt",
+                "clothing"
+            ],
+            "dateAdded": "2026-02-10"
+        },
+        {
+            "id": 769,
+            "name": "globe-heart",
+            "keywords": [
+                "heart",
+                "connection",
+                "togetherness",
+                "world",
+                "love"
+            ],
+            "dateAdded": "2026-02-10"
+        },
+        {
+            "id": 770,
+            "name": "chef-hat",
+            "keywords": [
+                "hat",
+                "cooking",
+                "chef"
+            ],
+            "dateAdded": "2026-02-10"
+        },
+        {
+            "id": 771,
+            "name": "meal-tray",
+            "keywords": [
+                "food",
+                "cooking",
+                "delivery"
+            ],
+            "dateAdded": "2026-02-10"
+        },
+        {
+            "id": 772,
+            "name": "food-tray",
+            "keywords": [
+                "food",
+                "dining",
+                "eat",
+                "eating"
+            ],
+            "dateAdded": "2026-02-10"
+        },
+        {
+            "id": 773,
+            "name": "sharps-container-stroke",
+            "keywords": [
+                "health",
+                "healthcare",
+                "medical",
+                "patient care",
+                "warning",
+                "medical equipment",
+                "medical device",
+                "patient"
+            ],
+            "dateAdded": "2026-02-10"
+        },
+        {
+            "id": 774,
+            "name": "iv-on-pole",
+            "keywords": [
+                "drip",
+                "equipment",
+                "health",
+                "healthcare",
+                "medical",
+                "medical device",
+                "patient",
+                "patient care"
+            ],
+            "dateAdded": "2026-02-10"
+        },
+        {
+            "id": 775,
+            "name": "blood-glucose-machine",
+            "keywords": [
+                "equipment",
+                "health",
+                "healthcare",
+                "medical device",
+                "patient care"
+            ],
+            "dateAdded": "2026-02-10"
+        },
+        {
+            "id": 776,
+            "name": "joints-and-hand",
+            "keywords": [
+                "medical",
+                "health",
+                "healthcare",
+                "research",
+                "technology",
+                "science"
+            ],
+            "dateAdded": "2026-02-10"
+        },
+        {
+            "id": 777,
+            "name": "genetic-engineering",
+            "keywords": [
+                "biology",
+                "genes",
+                "doctor",
+                "healthcare",
+                "genetic",
+                "science",
+                "research",
+                "dna"
+            ],
+            "dateAdded": "2026-02-10"
+        },
+        {
+            "id": 778,
+            "name": "toilet-paper",
+            "keywords": [
+                "home",
+                "housing",
+                "house"
+            ],
+            "dateAdded": "2026-02-10"
+        },
+        {
+            "id": 779,
+            "name": "night-stand",
+            "keywords": [
+                "furniture",
+                "home",
+                "house",
+                "bedroom"
+            ],
+            "dateAdded": "2026-02-10"
+        },
+        {
+            "id": 780,
+            "name": "sound-wave",
+            "keywords": [
+                "sound",
+                "music",
+                "volume",
+                "listen",
+                "audio"
+            ],
+            "dateAdded": "2026-02-10"
+        },
+        {
+            "id": 781,
+            "name": "accessibility-icon",
+            "keywords": [
+                "access",
+                "accessible",
+                "accessibility",
+                "symbol",
+                "disability"
+            ],
+            "dateAdded": "2026-02-10"
         }
     ]
 }
