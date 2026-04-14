@@ -1,17 +1,30 @@
 <template>
   <div class="modal__backdrop" @click.self="closeModal()">
-    <div class="modal">
+    <div
+      class="modal"
+      role="dialog"
+      aria-modal="true"
+      :aria-labelledby="'modal-heading-' + icon.id"
+    >
       <div class="modal__actions">
-        <svg
+        <button
+          ref="closeButtonRef"
+          class="modal__close"
           @click="closeModal()"
-          xmlns="http://www.w3.org/2000/svg"
-          viewBox="0 0 320 512"
+          aria-label="Close modal"
         >
-          <!--! Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
-          <path
-            d="M310.6 361.4c12.5 12.5 12.5 32.75 0 45.25C304.4 412.9 296.2 416 288 416s-16.38-3.125-22.62-9.375L160 301.3L54.63 406.6C48.38 412.9 40.19 416 32 416S15.63 412.9 9.375 406.6c-12.5-12.5-12.5-32.75 0-45.25l105.4-105.4L9.375 150.6c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L160 210.8l105.4-105.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-105.4 105.4L310.6 361.4z"
-          />
-        </svg>
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 320 512"
+            aria-hidden="true"
+            focusable="false"
+          >
+            <!--! Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
+            <path
+              d="M310.6 361.4c12.5 12.5 12.5 32.75 0 45.25C304.4 412.9 296.2 416 288 416s-16.38-3.125-22.62-9.375L160 301.3L54.63 406.6C48.38 412.9 40.19 416 32 416S15.63 412.9 9.375 406.6c-12.5-12.5-12.5-32.75 0-45.25l105.4-105.4L9.375 150.6c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L160 210.8l105.4-105.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-105.4 105.4L310.6 361.4z"
+            />
+          </svg>
+        </button>
       </div>
       <div class="modal__body">
         <div class="modal__icon-preview-wrapper">
@@ -21,15 +34,16 @@
                 :icon="icon.name"
                 :variant="selectedVariant"
                 class="icon-preview__img"
+                alt=""
               />
             </div>
           </div>
           <div class="modal__preview-actions">
             <div>
-              <h1 class="modal__heading">{{ icon.name }}</h1>
+              <h1 class="modal__heading" :id="'modal-heading-' + icon.id">{{ icon.name }}</h1>
               <p class="text-center">Select a variant:</p>
               <div class="modal__icon-variants-wrapper">
-                <div
+                <button
                   v-for="value in variants"
                   class="icon-preview icon-preview--small"
                   :class="[
@@ -39,14 +53,17 @@
                     'icon-preview--' + value.variant,
                   ]"
                   :key="value.variant"
+                  @click="changeSelectedVariant(value.variant)"
+                  :aria-label="value.label + ' variant'"
+                  :aria-pressed="selectedVariant === value.variant"
                 >
                   <Icon
                     class="icon-preview__img"
                     :icon="icon.name"
                     :variant="value.variant"
-                    @click="changeSelectedVariant(value.variant)"
+                    alt=""
                   />
-                </div>
+                </button>
               </div>
             </div>
           </div>
@@ -63,7 +80,7 @@
                 color="tertiary"
                 size="small"
                 >SVG
-                <i class="fas fa-download"></i>
+                <i role="presentation" class="fas fa-download"></i>
               </uids-button>
             </div>
 
@@ -82,7 +99,7 @@
                 size="small"
               >
                 PNG (Square)
-                <i class="fas fa-download"></i>
+                <i role="presentation" class="fas fa-download"></i>
               </uids-button>
             </div>
             <div
@@ -98,7 +115,7 @@
                 size="small"
               >
                 PNG (Wide)
-                <i class="fas fa-download"></i>
+                <i role="presentation" class="fas fa-download"></i>
               </uids-button>
             </div>
           </div>
@@ -126,7 +143,7 @@
 </template>
 
 <script setup>
-import { ref, defineProps } from "vue";
+import { ref, onMounted, onUnmounted } from "vue";
 import Icon from "@/components/Icon.vue";
 import { UidsButton } from "uids";
 import UidsTag from "@/components/UidsTag.vue";
@@ -140,15 +157,24 @@ const props = defineProps({
 
 const selectedVariant = ref("");
 const iconPreviewClass = ref("white");
+const closeButtonRef = ref(null);
 const emit = defineEmits(["closeModal"]);
 
 selectedVariant.value = props.variant;
 
-//Close modal upon pressing Esc
-document.addEventListener("keydown", function (event) {
+function handleKeydown(event) {
   if (event.key === "Escape") {
     closeModal();
   }
+}
+
+onMounted(() => {
+  document.addEventListener("keydown", handleKeydown);
+  closeButtonRef.value?.focus();
+});
+
+onUnmounted(() => {
+  document.removeEventListener("keydown", handleKeydown);
 });
 
 function changeSelectedVariant(variant) {
@@ -169,21 +195,11 @@ function trackDownload(icon, variant, format, size) {
   });
 }
 
-// Necessary to map which formats go with variants
-// since we don't provide all formats for all variants.
 const variants = [
-  {
-    variant: "one-color-black",
-  },
-  {
-    variant: "two-color",
-  },
-  {
-    variant: "one-color-gold",
-  },
-  {
-    variant: "one-color-white",
-  },
+  { variant: "one-color-black", label: "Black" },
+  { variant: "two-color", label: "Two-color" },
+  { variant: "one-color-gold", label: "Gold" },
+  { variant: "one-color-white", label: "White" },
 ];
 
 function closeModal() {
@@ -247,9 +263,24 @@ function closeModal() {
     text-align: right;
     margin-bottom: 10px;
     margin-top: 0;
+  }
+
+  &__close {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 4px;
+    line-height: 0;
+    border-radius: 4px;
+
+    &:focus-visible {
+      outline: 2px solid #ffcd00;
+      outline-offset: 2px;
+    }
+
     svg {
       width: 15px;
-      cursor: pointer;
+      display: block;
     }
   }
 
@@ -302,6 +333,14 @@ function closeModal() {
     border: 1px solid #ccc;
     background: #fff;
     cursor: pointer;
+    // button reset
+    appearance: none;
+    font: inherit;
+
+    &:focus-visible {
+      outline: 2px solid #ffcd00;
+      outline-offset: 2px;
+    }
   }
 
   &--small.icon-preview--one-color-white {
