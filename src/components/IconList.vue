@@ -9,7 +9,7 @@
       @click="openModal(icon)"
     >
       <div class="icon-list__button-inner">
-        <Icon :icon="icon.name" :variant="variant" />
+        <Icon :icon="icon.name" :variant="variant" alt="" />
         <span class="icon-list__label">{{ icon.name }}</span>
       </div>
     </router-link>
