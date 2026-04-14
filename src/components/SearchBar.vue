@@ -4,7 +4,9 @@
       @submit.prevent="handleSearch(currentSearchTerm)"
       class="search__form"
     >
+      <label for="search-input" class="sr-only">Search icons</label>
       <input
+        id="search-input"
         type="search"
         placeholder="Examples: academics, accessibility, buildings, heart, iowa"
         class="search__input"
