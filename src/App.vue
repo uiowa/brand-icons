@@ -49,7 +49,7 @@
       </div>
     </aside>
 
-    <main class="main-container" id="main-content">
+    <main class="main-container" id="main-content" tabindex="-1">
       <div class="toolbar sticky">
         <SearchBar
           id="search"
@@ -121,6 +121,7 @@ a {
   @media only screen and (min-width: 760px) {
     scroll-margin-top: 80px;
   }
+  outline: none;
 }
 
 .toolbar {
