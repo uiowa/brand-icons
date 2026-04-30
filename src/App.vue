@@ -1,5 +1,7 @@
 <template>
-  <a href="#main-content" class="skip-link">Skip to main content</a>
+  <nav aria-label="Skip links">
+    <a href="#main-content" class="skip-link">Skip to main content</a>
+  </nav>
   <uids-brand-bar height="narrow" class="iowa-bar--full iowa-bar horizontal">
     <h1 class="site-name">
       <router-link :to="{ name: 'Home' }">Icon Browser</router-link>
