@@ -4,7 +4,7 @@
     :variant="variant"
     :format="format"
     :src="getIconSrc(icon, variant, format).value"
-    :alt="icon"
+    :alt="alt !== undefined ? alt : icon"
     loading="lazy"
     :class="variant"
     height="100"
@@ -20,7 +20,8 @@ const props = defineProps({
   variant: String,
   format: String,
   height: String,
-  width: String
+  width: String,
+  alt: String,
 });
 </script>
 

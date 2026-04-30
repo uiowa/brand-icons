@@ -1,4 +1,7 @@
 <template>
+  <nav aria-label="Skip links">
+    <a href="#main-content" class="skip-link">Skip to main content</a>
+  </nav>
   <uids-brand-bar height="narrow" class="iowa-bar--full iowa-bar horizontal">
     <h1 class="site-name">
       <router-link :to="{ name: 'Home' }">Icon Browser</router-link>
@@ -33,7 +36,7 @@
             :full="true"
             download
             >Download all
-            <i class="fas fa-download"></i>
+            <i role="presentation" class="fas fa-download"></i>
           </uids-button>
         </div>
         <p class="feedback">
@@ -48,7 +51,7 @@
       </div>
     </aside>
 
-    <main class="main-container">
+    <main class="main-container" id="main-content" tabindex="-1">
       <div class="toolbar sticky">
         <SearchBar
           id="search"
@@ -120,6 +123,7 @@ a {
   @media only screen and (min-width: 760px) {
     scroll-margin-top: 80px;
   }
+  outline: none;
 }
 
 .toolbar {
@@ -200,6 +204,21 @@ main {
   text-align: center;
 }
 
+.skip-link {
+  position: absolute;
+  top: -100%;
+  left: 0;
+  z-index: 9999;
+  padding: 12px 20px;
+  background: #000;
+  color: #fff;
+  font-size: 1rem;
+  text-decoration: none;
+  &:focus {
+    top: 0;
+  }
+}
+
 .sr-only {
   border: 0 !important;
   clip: rect(1px, 1px, 1px, 1px) !important; /* 1 */
@@ -236,7 +255,7 @@ main {
 }
 </style>
 <script setup>
-import { ref, computed, onUpdated } from "vue";
+import { ref, computed, onUpdated, nextTick } from "vue";
 import { useRoute, useRouter } from "vue-router";
 import { UidsBrandBar, UidsButton } from "uids";
 import iconsData from "../icons.json";
@@ -253,6 +272,7 @@ const route = useRoute();
 const showModal = ref(false);
 const iconDetails = ref("");
 const currentSearchTerm = ref("");
+let lastFocused = null;
 var currentYear = new Date().getFullYear();
 
 //If we have an icon in the current URL params, show the icon modal:
@@ -272,6 +292,7 @@ function setCurrentSearchTerm(term) {
 }
 
 function openModal(icon) {
+  lastFocused = document.activeElement;
   showModal.value = true;
   document.body.classList.add("modal-open");
   iconDetails.value = icon;
@@ -293,5 +314,8 @@ function closeModal() {
   router.push({ hash: "" });
   document.body.classList.remove("modal-open");
   showModal.value = false;
+  nextTick(() => {
+    if (lastFocused) lastFocused.focus();
+  });
 }
 </script>
