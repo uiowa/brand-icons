@@ -2,42 +2,53 @@
   <nav aria-label="Skip links">
     <a href="#main-content" class="skip-link">Skip to main content</a>
   </nav>
-  <uids-brand-bar height="narrow" class="iowa-bar--full iowa-bar horizontal">
-    <h1 class="site-name">
-      <router-link :to="{ name: 'Home' }">Icon Browser</router-link>
-    </h1>
-    <nav
-      role="navigation"
-      aria-labelledby="toplinks-menu"
-      id="toplinks"
-      class="menu--top"
-    >
-      <h2 class="visually-hidden" id="toplinks-menu">Top links</h2>
-
-      <ul class="menu">
-        <li>
-          <a href="https://brand.uiowa.edu/graphic-elements#iconography"
-            >Icon Usage</a
-          >
-        </li>
-      </ul>
-    </nav>
-  </uids-brand-bar>
+  <header class="iowa-bar iowa-bar--full horizontal" data-uids-header>
+    <div class="iowa-bar__container">
+      <div class="logo logo--tab">
+        <a href="https://uiowa.edu">
+          <div class="element-invisible">The University of Iowa</div>
+          <svg xmlns="http://www.w3.org/2000/svg" class="logo-icon" aria-labelledby="brand-bar-logo" role="img" viewBox="0 0 311.6 90.2">
+            <title id="brand-bar-logo">University of Iowa</title>
+            <path class="st0" d="M40 18.8h-7.3v52.4H40v19H0v-19h7.3V18.8H0V0h40V18.8z"/>
+            <path class="st0" d="M93.8 90.2h-29c-10.5 0-17.4-6.9-17.4-18.2V18.2C47.4 7 54.4 0 64.8 0h29c10.5 0 17.4 7 17.4 18.2V72C111.2 83.2 104.2 90.2 93.8 90.2zM85.6 71.2V18.8H73v52.4H85.6z"/>
+            <path class="st0" d="M122.6 18.8h-6.4V0h38v18.9H147l6.5 43.4L167 0h19.2l14.4 62.3 5.2-43.4h-6.6V0h37.5v18.9h-6.2l-11.3 71.4h-30.6l-11.8-53.2 -12.1 53.1h-29.4L122.6 18.8z"/>
+            <path class="st0" d="M230.1 71.2h6.9L250.7 0h41l13.5 71.2h6.4v19H281l-2.9-22h-15.2l-2.7 22h-30L230.1 71.2 230.1 71.2zM276.5 51.7l-5.8-36.4 -6 36.4H276.5z"/>
+          </svg>
+        </a>
+      </div>
+      <h1 class="site-name">
+        <router-link :to="{ name: 'Home' }">Icon Browser</router-link>
+      </h1>
+      <nav
+        role="navigation"
+        aria-labelledby="toplinks-menu"
+        id="toplinks"
+        class="menu--top"
+      >
+        <h2 class="visually-hidden" id="toplinks-menu">Top links</h2>
+        <ul class="menu">
+          <li>
+            <a href="https://brand.uiowa.edu/graphic-elements#iconography"
+              >Icon Usage</a
+            >
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </header>
 
   <div class="wrapper" id="main-wrapper">
     <aside>
       <div class="sticky">
         <CategoryList />
         <div class="download-section">
-          <uids-button
+          <a
             href="https://github.com/uiowa/brand-icons/archive/refs/heads/main.zip"
-            color="tertiary"
-            size="small"
-            :full="true"
+            class="bttn bttn--tertiary bttn--small bttn--full"
             download
             >Download all
             <i role="presentation" class="fas fa-download"></i>
-          </uids-button>
+          </a>
         </div>
         <p class="feedback">
           <a href="mailto:osc-brand@uiowa.edu?subject=Icon Browser Feedback"
@@ -82,10 +93,10 @@
 </template>
 
 <style lang="scss">
-@import "node_modules/uids/src/assets/scss/reset.scss";
-@import "node_modules/uids/src/components/logo/logo.scss";
-@import "node_modules/uids/src/components/brand-bar/brand-bar.scss";
-@import "node_modules/uids/src/components/button/button.scss";
+@import "node_modules/uids/src/scss/uids-core.scss";
+@import "node_modules/uids/src/scss/components/logo.scss";
+@import "node_modules/uids/src/scss/components/brand-bar.scss";
+@import "node_modules/uids/src/scss/components/button.scss";
 @import "~/src/scss/components/top-menu.scss";
 
 body {
@@ -257,7 +268,6 @@ main {
 <script setup>
 import { ref, computed, onUpdated, nextTick } from "vue";
 import { useRoute, useRouter } from "vue-router";
-import { UidsBrandBar, UidsButton } from "uids";
 import iconsData from "../icons.json";
 import CategoryList from "@/components/CategoryList.vue";
 //import IconList from "@/components/IconList.vue";
