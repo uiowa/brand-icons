@@ -17,13 +17,13 @@
   margin: 0;
 }
 
-@media (min-width: 855px) and (min-width: 84.375em) {
+@media (min-width: 980px) and (min-width: 84.375em) {
   .menu--top .menu li a {
     padding: 0.325rem 1.05rem;
   }
 }
 
-@media (min-width: 855px) {
+@media (min-width: 980px) {
   .iowa-bar .site-name {
     margin: 5px 0 0;
     flex: auto;
@@ -40,14 +40,14 @@
   }
 }
 
-@media screen and (max-width: 1605px) and (min-width: 855px) {
+@media screen and (max-width: 1605px) and (min-width: 980px) {
   .iowa-bar .site-name {
     font-size: 2vw;
     font-weight: 400;
   }
 }
 
-@media only screen and (min-width: 0) and (max-width: 854px) {
+@media only screen and (min-width: 0) and (max-width: 979px) {
   .menu--top .menu li a {
     color: #151515;
     padding: 0.325rem 0;
