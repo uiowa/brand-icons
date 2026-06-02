@@ -74,14 +74,13 @@
               class="icon-preview__download-button-container"
               @click="trackDownload(icon.name, selectedVariant, 'svg')"
             >
-              <uids-button
+              <a
                 :href="getIconSrc(icon.name, selectedVariant, 'svg').value"
                 download
-                color="tertiary"
-                size="small"
+                class="bttn bttn--tertiary bttn--small"
                 >SVG
                 <i role="presentation" class="fas fa-download"></i>
-              </uids-button>
+              </a>
             </div>
 
             <div
@@ -90,33 +89,31 @@
                 trackDownload(icon.name, selectedVariant, 'png', 'square')
               "
             >
-              <uids-button
+              <a
                 :href="
                   getIconSrc(icon.name, selectedVariant, 'png', 'square').value
                 "
                 download
-                color="tertiary"
-                size="small"
+                class="bttn bttn--tertiary bttn--small"
               >
                 PNG (Square)
                 <i role="presentation" class="fas fa-download"></i>
-              </uids-button>
+              </a>
             </div>
             <div
               class="icon-preview__download-button-container"
               @click="trackDownload(icon.name, selectedVariant, 'png', 'wide')"
             >
-              <uids-button
+              <a
                 :href="
                   getIconSrc(icon.name, selectedVariant, 'png', 'wide').value
                 "
                 download
-                color="tertiary"
-                size="small"
+                class="bttn bttn--tertiary bttn--small"
               >
                 PNG (Wide)
                 <i role="presentation" class="fas fa-download"></i>
-              </uids-button>
+              </a>
             </div>
           </div>
         </div>
@@ -145,7 +142,6 @@
 <script setup>
 import { ref, onMounted, onUnmounted } from "vue";
 import Icon from "@/components/Icon.vue";
-import { UidsButton } from "uids";
 import UidsTag from "@/components/UidsTag.vue";
 import getIconSrc from "../composables/getIconSrc.js";
 
