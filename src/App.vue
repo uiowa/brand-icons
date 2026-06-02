@@ -93,10 +93,24 @@
 </template>
 
 <style lang="scss">
-@import "node_modules/uids/src/scss/uids-core.scss";
+@import "node_modules/uids/src/scss/base/_reset.scss";
 @import "node_modules/uids/src/scss/components/logo.scss";
 @import "node_modules/uids/src/scss/components/brand-bar.scss";
 @import "node_modules/uids/src/scss/components/button.scss";
+
+:root {
+  --uiowa-gold: #FFCD00;
+  --uiowa-black: #000000;
+  --brand-primary: var(--uiowa-gold);
+  --brand-secondary: var(--uiowa-black);
+  --uids-gray-cool: #63666A;
+  --link-color: #00558C;
+  --uids-light: #F3F3F3;
+  --uids-gray-mid: #9a9a9a;
+  --uids-gray: #737373;
+  --uids-gray-light: #CACACA;
+  --transparent-border: rgb(0, 0, 0, .125);
+}
 @import "~/src/scss/components/top-menu.scss";
 
 body {
@@ -230,18 +244,20 @@ main {
   }
 }
 
-.sr-only {
+.sr-only,
+.visually-hidden,
+.element-invisible {
   border: 0 !important;
-  clip: rect(1px, 1px, 1px, 1px) !important; /* 1 */
+  clip: rect(1px, 1px, 1px, 1px) !important;
   -webkit-clip-path: inset(50%) !important;
-  clip-path: inset(50%) !important; /* 2 */
+  clip-path: inset(50%) !important;
   height: 1px !important;
   margin: -1px !important;
   overflow: hidden !important;
   padding: 0 !important;
   position: absolute !important;
   width: 1px !important;
-  white-space: nowrap !important; /* 3 */
+  white-space: nowrap !important;
 }
 .feedback {
   text-align: center;
