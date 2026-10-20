@@ -219,16 +219,6 @@
             "dateAdded": ""
         },
         {
-            "id": 15,
-            "name": "arrow-direction",
-            "keywords": [
-                "point",
-                "symbol",
-                "wayfinding"
-            ],
-            "dateAdded": ""
-        },
-        {
             "id": 16,
             "name": "arrowhead",
             "keywords": [
@@ -11352,21 +11342,6 @@
                 "hydration",
                 "water",
                 "water drop"
-            ],
-            "dateAdded": ""
-        },
-        {
-            "id": 675,
-            "name": "water-tower",
-            "keywords": [
-                "architecture",
-                "building",
-                "buildings",
-                "campus",
-                "city",
-                "hydrate",
-                "hydration",
-                "iowa city"
             ],
             "dateAdded": ""
         },
