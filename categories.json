@@ -163,8 +163,7 @@
                 "residence-hall",
                 "stanley-hydraulic-lab",
                 "stanley-museum-of-art",
-                "us-capitol-building",
-                "water-tower"
+                "us-capitol-building"
             ]
         },
         {
@@ -817,11 +816,10 @@
             "label": "Wayfinding and Transportation",
             "slug": "wayfinding-transportation",
             "keywords": "wayfinding transportation movement find marker direction vehicle automobile location",
-            "icon": "arrow-direction",
+            "icon": "directional-sign",
             "icons": [
                 "airplane",
                 "ambulance",
-                "arrow-direction",
                 "bass-drum",
                 "bike",
                 "bionic-bus",
