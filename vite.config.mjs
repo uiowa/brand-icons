@@ -39,6 +39,13 @@ export default defineConfig(({ mode }) => {
         "~": root,
       },
     },
+    build: {
+      rolldownOptions: {
+        checks: {
+          bundlerTimings: false,
+        },
+      },
+    },
     css: {
       preprocessorOptions: {
         scss: {
