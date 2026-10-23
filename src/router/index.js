@@ -85,12 +85,12 @@ const routes = [
 ];
 
 const router = createRouter({
-  history: createWebHistory(process.env.BASE_URL),
+  history: createWebHistory(import.meta.env.BASE_URL),
   routes,
 });
 
 // This callback runs before every route change, including on page load.
-router.beforeEach((to, from, next) => {
+router.beforeEach((to, from) => {
   let generatedTitle = "";
   let titleSuffix = "Icon Browser - The University of Iowa";
   let icon = null;
@@ -153,7 +153,7 @@ router.beforeEach((to, from, next) => {
   );
 
   // Skip rendering meta tags if there are none.
-  if (!nearestWithMeta) return next();
+  if (!nearestWithMeta) return;
 
   // Turn the meta tag definitions into actual elements in the head.
   nearestWithMeta.meta.metaTags
@@ -183,7 +183,6 @@ router.beforeEach((to, from, next) => {
       scrollToTop();
     }
   }
-  next();
 });
 
 function scrollToTop() {
