@@ -2,7 +2,7 @@ import { ref } from "vue";
 
 const getIconSrc = (icon, variant, format, ratio) => {
   const currentIcon = ref("");
-  const publicPath = process.env.BASE_URL;
+  const publicPath = import.meta.env.BASE_URL;
 
   if (format) {
     if (ratio) {
